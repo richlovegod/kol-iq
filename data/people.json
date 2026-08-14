@@ -2194,12 +2194,12 @@
     "society": "",
     "channel": {
       "label": "台中慈濟醫院",
-      "url": "https://taichung.tzuchi.com.tw/doctors/6/52"
+      "url": "https://taichung.tzuchi.com.tw/index.php/dan-wei-jie-shao/2023-08-01-07-33-11/zhang-zi-pu-yi-shi"
     },
     "sources": [
       {
         "label": "台中慈濟醫師頁",
-        "url": "https://taichung.tzuchi.com.tw/doctors/6/52"
+        "url": "https://taichung.tzuchi.com.tw/index.php/dan-wei-jie-shao/2023-08-01-07-33-11/zhang-zi-pu-yi-shi"
       }
     ],
     "dq": "英文姓名為通行對應，未經官方頁確認。",
@@ -2225,7 +2225,7 @@
       "dq": "Romanisation follows common usage and was not confirmed on an official page.",
       "channel": {
         "label": "Taichung Tzu Chi Hospital",
-        "url": "https://taichung.tzuchi.com.tw/doctors/6/52"
+        "url": "https://taichung.tzuchi.com.tw/index.php/dan-wei-jie-shao/2023-08-01-07-33-11/zhang-zi-pu-yi-shi"
       }
     }
   },
@@ -2749,12 +2749,12 @@
     "society": "",
     "channel": {
       "label": "陽明交大生科系",
-      "url": "https://dls.nycu.edu.tw/faculty/faculty-member/tftsai.html"
+      "url": "https://scholar.nycu.edu.tw/en/persons/ting-fen-tsai"
     },
     "sources": [
       {
         "label": "陽明交大師資頁",
-        "url": "https://dls.nycu.edu.tw/faculty/faculty-member/tftsai.html"
+        "url": "https://scholar.nycu.edu.tw/en/persons/ting-fen-tsai"
       }
     ],
     "en": {
@@ -2777,7 +2777,7 @@
       ],
       "channel": {
         "label": "NYCU Life Sciences",
-        "url": "https://dls.nycu.edu.tw/faculty/faculty-member/tftsai.html"
+        "url": "https://scholar.nycu.edu.tw/en/persons/ting-fen-tsai"
       }
     }
   },
