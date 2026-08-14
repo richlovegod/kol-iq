@@ -1,0 +1,22 @@
+[
+  {
+    "v": "v1.0",
+    "date": "2026-08-15",
+    "title": "KOL-IQ 上線：台灣版",
+    "items": [
+      "建立人物、機構、試驗、動態、組織、活動六個資料層，共 72 筆人物、17 個機構、12 件在台試驗、44 筆研究與動態紀錄。",
+      "三路並行查證：Europe PMC 與 PubMed 掃 2021–2026 台灣掛名 SCA 文獻 64 篇；ClinicalTrials.gov API 與台灣官方 TPIDB 比對在台試驗與主持人；學會、病友協會官網與中文媒體補生態系動態。",
+      "全站中英雙語，每筆資料附可查證來源連結；資料品質備註（職稱版本不一、拼音未確認等）逐筆標註於卡片內。",
+      "設宋秉文教授紀念頁：台灣 SCA 研究的奠基者於 2023-11-01 辭世，其學術網絡是理解當前版圖的前提。"
+    ],
+    "en": {
+      "title": "KOL-IQ launch: Taiwan edition",
+      "items": [
+        "Six data layers — people, institutions, trials, activity, organisations and events — covering 72 people, 17 institutions, 12 Taiwan-based trials and 44 dated research and community records.",
+        "Three parallel verification tracks: 64 Taiwan-affiliated SCA papers from 2021–2026 via Europe PMC and PubMed; Taiwan-based trials and investigators cross-checked between the ClinicalTrials.gov API and Taiwan's official TPIDB; ecosystem activity from society and patient-association sites and Chinese-language media.",
+        "Fully bilingual, with a verifiable source link on every record; data-quality caveats (conflicting titles, unconfirmed romanisation) are noted on the individual cards.",
+        "A memorial page for Professor Bing-Wen Soong: the founder of SCA research in Taiwan died on 1 November 2023, and his academic network is the premise for reading the current landscape."
+      ]
+    }
+  }
+]

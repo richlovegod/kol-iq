@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2026-09-05",
+    "name": "台灣動作障礙學會秋季學術研討會",
+    "org": "TMDS",
+    "url": "https://www.tmds.org.tw/",
+    "note": "動作障礙專科的定期學術聚會。",
+    "en": {
+      "name": "TMDS Autumn Academic Symposium",
+      "note": "The society's regular academic gathering for movement-disorder specialists."
+    }
+  },
+  {
+    "date": "2026-09-19",
+    "name": "台灣神經罕見疾病學會年會",
+    "org": "SNERD",
+    "url": "https://www.snerdtaiwan.org/",
+    "place": "台中金典酒店",
+    "note": "主題聚焦神經罕見疾病之致病機轉、診斷及先進治療發展；理監事群涵蓋本平台多位核心人物。",
+    "en": {
+      "name": "SNERD Annual Meeting",
+      "place": "Splendor Hotel, Taichung",
+      "note": "Focused on pathogenesis, diagnosis and advanced therapy development in rare neurological disease; its board includes several people tracked here."
+    }
+  },
+  {
+    "date": "2026-11-06",
+    "name": "第八屆 TIC-PDMD 國際會議",
+    "org": "TMDS",
+    "url": "https://www.tmds.org.tw/news/info.asp?%2F340.html=",
+    "place": "台灣",
+    "note": "2026-11-06～08 於台灣舉行，由現任理事長葉篤學任內主辦。",
+    "en": {
+      "name": "8th TIC-PDMD International Congress",
+      "place": "Taiwan",
+      "note": "Held in Taiwan on 6–8 November 2026, hosted during Tu-Hsueh Yeh's presidency."
+    }
+  },
+  {
+    "date": "2027-07-02",
+    "name": "企鵝日（病友協會年度活動）",
+    "org": "TSCAA",
+    "url": "https://www.tscaa.org.tw/",
+    "note": "每年 7 月 2 日為協會的疾病識別日。",
+    "en": {
+      "name": "Penguin Day (patient association annual event)",
+      "note": "The association marks 2 July each year as its awareness day."
+    }
+  }
+]

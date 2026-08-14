@@ -1,0 +1,713 @@
+<!DOCTYPE html>
+<html lang="zh-Hant" data-lang="zh">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>KOL-IQ｜脊髓小腦運動失調症 專家與研究動態資料庫</title>
+<meta name="description" content="A public, source-cited database of clinicians and researchers working on spinocerebellar ataxia — Taiwan edition.">
+<style>
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{font-family:"Segoe UI","Microsoft JhengHei",sans-serif;background:#0d141c;color:#e6edf3;padding:0 0 46px}
+  .wrap{max-width:1180px;margin:0 auto;padding:0 26px}
+  header{background:linear-gradient(180deg,#132234,#0d141c);border-bottom:1px solid #24384f;padding:22px 0 0}
+  .brand{display:flex;justify-content:space-between;align-items:flex-end;gap:18px;margin-bottom:16px;flex-wrap:wrap}
+  .logo{font-size:24px;font-weight:800;color:#fff;letter-spacing:.5px}
+  .logo b{color:#4da3ff}
+  .logo .v{font-size:11px;color:#6a7c92;font-weight:600;margin-left:8px;vertical-align:middle}
+  .tag{font-size:12.5px;color:#8b9bb0;margin-top:5px;line-height:1.6}
+  .meta{text-align:right;font-size:11.5px;color:#8b9bb0;line-height:1.7}
+  .meta b{color:#e6edf3}
+  .langsw{display:inline-flex;border:1px solid #2b4a6d;border-radius:20px;overflow:hidden;margin-top:7px}
+  .langsw button{background:#101c2a;border:none;color:#9fb4cc;font-family:inherit;font-size:11.5px;padding:4px 14px;cursor:pointer}
+  .langsw button.on{background:#1b3452;color:#fff;font-weight:700}
+  nav{display:flex;gap:2px;flex-wrap:wrap}
+  nav button{background:none;border:none;color:#8b9bb0;font-size:13.5px;font-family:inherit;padding:11px 12px;cursor:pointer;border-bottom:2.5px solid transparent;font-weight:600;white-space:nowrap;flex:0 0 auto}
+  nav button:hover{color:#cfe0f2}
+  nav button.on{color:#4da3ff;border-bottom-color:#4da3ff}
+  @media (max-width:900px){nav button{font-size:12.5px;padding:10px 9px}}
+  .panel{display:none;padding-top:24px}
+  .panel.on{display:block}
+  .card{background:#141f2c;border:1px solid #243748;border-radius:10px;padding:18px 20px;margin-bottom:18px}
+  .card h2{font-size:13px;color:#4da3ff;text-transform:uppercase;letter-spacing:1px;margin-bottom:6px}
+  .card .h2sub{font-size:12px;color:#8b9bb0;line-height:1.65;margin-bottom:14px}
+  .kpi{display:flex;gap:12px;margin-bottom:18px;flex-wrap:wrap}
+  .kpi .box{flex:1;min-width:132px;background:#182533;border:1px solid #243748;border-radius:9px;padding:14px 12px;text-align:center}
+  .kpi .n{font-size:26px;font-weight:800;color:#4da3ff}
+  .kpi .n.g{color:#6ee7a0}
+  .kpi .l{font-size:11.5px;color:#c9d6e3;margin-top:5px;font-weight:600}
+  .kpi .d{font-size:10px;color:#8b9bb0;margin-top:3px;line-height:1.4}
+  /* search + filters */
+  .searchbox{display:flex;align-items:center;gap:10px;margin:0 0 13px;flex-wrap:wrap}
+  .searchwrap{position:relative;flex:1;min-width:200px;display:flex;align-items:center}
+  .sico{position:absolute;left:11px;width:14px;height:14px;stroke:#6a7c92;stroke-width:1.7;fill:none;stroke-linecap:round;pointer-events:none}
+  .searchwrap:focus-within .sico{stroke:#4da3ff}
+  .search{width:100%;background:#0f1a26;border:1px solid #2b3a4d;color:#e6edf3;font-size:13px;font-family:inherit;padding:9px 32px 9px 33px;border-radius:8px;outline:none}
+  .search::placeholder{color:#5a6b82}
+  .search:focus{border-color:#4da3ff;background:#12202e;box-shadow:0 0 0 3px rgba(77,163,255,.14)}
+  .scount{font-size:11.5px;color:#6a7c92;white-space:nowrap}
+  .filters{display:flex;gap:7px;margin-bottom:12px;flex-wrap:wrap;align-items:center}
+  .filters .flabel{font-size:11px;color:#6a7c92;margin-right:2px;letter-spacing:.4px}
+  .filters button{background:#182533;border:1px solid #2b3a4d;color:#9fb4cc;font-size:12px;font-family:inherit;padding:5px 13px;border-radius:20px;cursor:pointer}
+  .filters button:hover{border-color:#3a4d63;color:#cfe0f2}
+  .filters button.on{background:#1b3452;border-color:#4da3ff;color:#fff;font-weight:600}
+  /* person cards */
+  .plist{display:grid;grid-template-columns:repeat(auto-fill,minmax(330px,1fr));gap:13px}
+  .pc{background:#101a25;border:1px solid #223547;border-left:3px solid #2b3a4d;border-radius:9px;padding:14px 16px;cursor:pointer;transition:border-color .14s,background .14s}
+  .pc:hover{background:#12202e;border-color:#31506e}
+  .pc.t1{border-left-color:#4da3ff}.pc.t2{border-left-color:#5f8fb5}.pc.t3{border-left-color:#3c5063}.pc.t4{border-left-color:#2b3a4d}
+  .pc .pn{font-size:16px;font-weight:700;color:#fff}
+  .pc .pen{font-size:11.5px;color:#7d8fa6;font-weight:400;margin-left:7px}
+  .pc .porg{font-size:12px;color:#8fb3d9;margin-top:3px}
+  .pc .ptit{font-size:11.5px;color:#7d8fa6;margin-top:1px;line-height:1.5}
+  .pc .pfoc{font-size:12.5px;color:#c4d2e0;line-height:1.65;margin-top:8px}
+  .pc .pbadges{margin-top:9px;display:flex;gap:5px;flex-wrap:wrap;align-items:center}
+  .bdg{font-size:10px;font-weight:700;padding:2px 8px;border-radius:20px;white-space:nowrap}
+  .b-t1{background:#12233a;color:#7db6ff;border:1px solid #2b4a6d}
+  .b-pub{background:#1a2f22;color:#6ee7a0}
+  .b-trial{background:#2a2418;color:#e0c48a}
+  .b-soc{background:#241f36;color:#b9a3ff}
+  .b-sub{background:#1b2836;color:#8fa9c2}
+  .b-role{background:#20303f;color:#9fb4cc}
+  .pc .more{font-size:10.5px;color:#4da3ff;margin-top:9px;display:block}
+  /* modal */
+  .modal{display:none;position:fixed;inset:0;background:rgba(6,11,17,.76);z-index:100;overflow-y:auto;padding:34px 14px}
+  .modal.on{display:block}
+  .mbox{max-width:820px;margin:0 auto;background:#0f1a26;border:1px solid #2b4a6d;border-radius:12px}
+  .mhead{position:sticky;top:0;background:linear-gradient(180deg,#14304a,#0f1a26);border-bottom:1px solid #24384f;border-radius:12px 12px 0 0;padding:17px 22px;display:flex;justify-content:space-between;align-items:flex-start;gap:12px}
+  .mhead .mn{font-size:20px;font-weight:800;color:#fff}
+  .mhead .mn small{font-size:12.5px;color:#9fb4cc;font-weight:400;margin-left:8px}
+  .mhead .mm{font-size:12px;color:#9fb4cc;margin-top:6px;line-height:1.7}
+  .mhead .mm b{color:#cfe0f2}
+  .mclose{background:#182533;border:1px solid #2b3a4d;color:#cfe0f2;font-size:16px;line-height:1;border-radius:8px;padding:7px 12px;cursor:pointer;flex:none}
+  .mbody{padding:18px 22px 24px}
+  .msec{margin-bottom:17px}
+  .msec h4{font-size:11.5px;color:#4da3ff;text-transform:uppercase;letter-spacing:.6px;margin-bottom:9px;padding-bottom:5px;border-bottom:1px solid #22384a}
+  .mrow{padding:9px 0;border-bottom:1px solid #1c2a39;font-size:12.5px;line-height:1.7;color:#c9d6e3}
+  .mrow:last-child{border-bottom:none}
+  .mrow b{color:#fff}
+  .mrow .yr{display:inline-block;font-size:11px;font-weight:700;color:#7db6ff;background:#12233a;border:1px solid #2b4a6d;border-radius:5px;padding:1px 7px;margin-right:8px;vertical-align:1px}
+  .mempty{font-size:12px;color:#6a7c92;padding:3px 0}
+  .src{display:inline-block;font-size:10.5px;color:#4da3ff;text-decoration:none;border:1px solid #2b4a6d;border-radius:5px;padding:1px 8px;background:#12233a;margin:5px 6px 0 0}
+  .src:hover{background:#1b3452;text-decoration:underline}
+  .dqnote{background:rgba(255,206,122,.07);border:1px solid #6a5a2e;border-radius:8px;padding:10px 13px;font-size:11.5px;color:#e3cf9f;line-height:1.65;margin-top:12px}
+  /* clusters */
+  .cl{background:#101a25;border:1px solid #223547;border-radius:9px;padding:13px 16px;margin-bottom:10px;border-left:3px solid #34506e}
+  .cl h3{font-size:14px;color:#fff;margin-bottom:3px}
+  .cl h3 .n{font-size:11px;font-weight:600;color:#6ee7a0;background:#152b20;border-radius:20px;padding:2px 9px;margin-left:8px;vertical-align:2px}
+  .cl p{font-size:12.5px;color:#a8bacd;line-height:1.7;margin-bottom:7px}
+  .cl .mem{font-size:12px;color:#8fb3d9;line-height:1.9}
+  .cl .mem a{color:#8fb3d9;text-decoration:none;border-bottom:1px dotted #3f6bbd;cursor:pointer}
+  .cl .mem a:hover{color:#a8ccff}
+  /* feed */
+  .fitem{padding:11px 0 11px 15px;border-left:3px solid #34506e;margin-bottom:9px;background:#141f2c;border-radius:0 6px 6px 0;font-size:12.8px;line-height:1.65}
+  .fitem.paper{border-left-color:#4da3ff}.fitem.industry{border-left-color:#6ee7a0}
+  .fitem.policy{border-left-color:#ffce7a}.fitem.community{border-left-color:#b9a3ff}
+  .fitem.trial{border-left-color:#e0a87a}.fitem.obituary{border-left-color:#7d8fa6}
+  .fitem.society,.fitem.event{border-left-color:#7ec8f0}.fitem.media{border-left-color:#c2a3d9}
+  .fitem .k{font-size:10px;font-weight:700;padding:2px 8px;border-radius:20px;margin-right:8px;background:#20303f;color:#9fb4cc}
+  .fitem .d{color:#6a7c92;font-size:11px;margin-left:6px;white-space:nowrap}
+  /* tables */
+  .tblbox{overflow-x:auto}
+  table{width:100%;border-collapse:collapse;font-size:12.5px}
+  .tblbox>table{min-width:680px}
+  th{text-align:left;color:#8b9bb0;font-size:11px;text-transform:uppercase;letter-spacing:.6px;padding:9px 8px;border-bottom:1px solid #2b3a4d}
+  td{padding:11px 8px;border-bottom:1px solid #1c2a39;vertical-align:top;line-height:1.55}
+  .stpill{font-size:10px;font-weight:700;padding:2px 8px;border-radius:20px;white-space:nowrap}
+  .st-active{background:#183a29;color:#6ee7a0}.st-done{background:#20303f;color:#9fb4cc}
+  .st-closed{background:#1c3546;color:#7ec8f0}.st-stopped{background:#3d2320;color:#eda296}
+  .st-unknown{background:#3a3220;color:#e0c48a}
+  .pilink{color:#8fb3d9;cursor:pointer;border-bottom:1px dotted #3f6bbd}
+  .pilink:hover{color:#a8ccff}
+  /* institutions */
+  .ilist{display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:13px}
+  .ic{background:#101a25;border:1px solid #223547;border-radius:9px;padding:14px 16px}
+  .ic h3{font-size:15px;color:#fff}
+  .ic h3 small{font-size:11px;color:#7d8fa6;font-weight:400;margin-left:7px}
+  .ic .inote{font-size:12.3px;color:#a8bacd;line-height:1.7;margin:7px 0 9px}
+  .ic .ipeople{font-size:12px;line-height:2;color:#8fb3d9}
+  .ic .ipeople a{color:#8fb3d9;text-decoration:none;border-bottom:1px dotted #3f6bbd;cursor:pointer}
+  .ic .ipeople a:hover{color:#a8ccff}
+  .ic .ibar{display:flex;gap:8px;font-size:10.5px;color:#7d8fa6;margin-top:2px}
+  /* orgs + events */
+  .oc{background:#101a25;border:1px solid #223547;border-radius:9px;padding:14px 17px;margin-bottom:11px;border-left:3px solid #34506e}
+  .oc.patient{border-left-color:#b9a3ff}.oc.society{border-left-color:#4da3ff}.oc.resource{border-left-color:#6ee7a0}
+  .oc h3{font-size:15px;color:#fff;margin-bottom:4px}
+  .oc .olead{font-size:12px;color:#8fb3d9;line-height:1.65;margin-bottom:6px}
+  .oc .onote{font-size:12.5px;color:#a8bacd;line-height:1.75}
+  .ev{padding:10px 0;border-bottom:1px solid #1c2a39;font-size:12.5px}
+  .ev:last-child{border-bottom:none}
+  .ev .ed{font-size:11.5px;font-weight:700;color:#6ee7a0}
+  .ev.past{opacity:.55}.ev.past .ed{color:#8b9bb0}
+  .ev .en2{font-size:13px;font-weight:700;color:#cfe0f2;margin-top:2px}
+  .ev .em{font-size:11.8px;color:#9fb4cc;margin-top:2px;line-height:1.6}
+  /* legacy */
+  .legacy{background:linear-gradient(180deg,#16202c,#101a25);border:1px solid #2e3f52;border-radius:10px;padding:22px 26px;margin-bottom:18px}
+  .legacy .lname{font-size:22px;font-weight:800;color:#fff}
+  .legacy .lname small{font-size:13px;color:#8fb3d9;font-weight:400;margin-left:9px}
+  .legacy .lyr{font-size:12px;color:#7d8fa6;margin-top:4px}
+  .legacy .ltitle{font-size:13.5px;color:#8fb3d9;margin-top:9px;font-weight:600}
+  .legacy .lorg{font-size:12px;color:#8b9bb0;margin-top:4px;line-height:1.7}
+  .legacy .lbody{font-size:13px;color:#c4d2e0;line-height:1.9;margin-top:13px}
+  .legacy .lnote{font-size:12px;color:#9fb4cc;line-height:1.75;margin-top:13px;padding-top:12px;border-top:1px solid #26374a}
+  /* method */
+  .mstep{display:grid;grid-template-columns:34px 1fr;gap:13px;margin-bottom:14px}
+  .mstep .num{width:26px;height:26px;border-radius:50%;background:#12233a;border:1px solid #2b4a6d;color:#7db6ff;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center}
+  .mstep h4{font-size:13.5px;color:#fff;margin-bottom:3px}
+  .mstep p{font-size:12.5px;color:#a8bacd;line-height:1.75}
+  .gap{background:#101a25;border:1px solid #223547;border-radius:8px;padding:11px 15px;margin-bottom:8px;font-size:12.5px;color:#c4d2e0;line-height:1.7}
+  .gap b{color:#e0c48a}
+  .vitem{border-left:3px solid #4da3ff;padding:2px 0 2px 15px;margin-bottom:16px}
+  .vitem .vh{font-size:14px;color:#fff;font-weight:700}
+  .vitem .vd{font-size:11.5px;color:#6a7c92;margin-top:2px}
+  .vitem ul{margin:9px 0 0 17px}
+  .vitem li{font-size:12.5px;color:#a8bacd;line-height:1.8;margin-bottom:4px}
+  .foot{margin-top:26px;font-size:11.5px;color:#6a7c92;line-height:1.85;border-top:1px solid #243748;padding-top:15px}
+  .foot b{color:#8b9bb0}
+  html[data-lang="zh"] .i18n.en{display:none}
+  html[data-lang="en"] .i18n.zh{display:none}
+  @media(max-width:760px){.plist,.ilist{grid-template-columns:1fr}.meta{text-align:left}}
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <div class="brand">
+      <div>
+        <div class="logo">KOL<b>-IQ</b> <span class="v"><span class="i18n zh">專家與研究動態資料庫 · v1.0 · 台灣版</span><span class="i18n en">Expert &amp; Research Activity Database · v1.0 · Taiwan edition</span></span></div>
+        <div class="tag">
+          <span class="i18n zh">脊髓小腦運動失調症（SCA）領域的醫師與研究者：他們在做什麼、最近發表了什麼、在哪裡看診與收案。每筆資料附可查證來源。</span>
+          <span class="i18n en">Clinicians and researchers working on spinocerebellar ataxia (SCA): what they work on, what they have published recently, and where they see patients and run trials. Every record cites a verifiable source.</span>
+        </div>
+      </div>
+      <div class="meta">
+        <span class="i18n zh">資料截止：</span><span class="i18n en">Data as of </span><b id="lastScan">—</b><br>
+        <span class="i18n zh">涵蓋範圍：台灣 · 文獻 2021–2026</span><span class="i18n en">Coverage: Taiwan · literature 2021–2026</span><br>
+        <span class="i18n zh">來源：PubMed／Europe PMC · ClinicalTrials.gov · 台灣 TPIDB · 各學會與病友協會官網</span><span class="i18n en">Sources: PubMed / Europe PMC · ClinicalTrials.gov · Taiwan TPIDB · society and patient-association sites</span>
+        <div class="langsw"><button id="langZh" class="on" onclick="setLang('zh')">中文</button><button id="langEn" onclick="setLang('en')">EN</button></div>
+      </div>
+    </div>
+    <nav>
+      <button class="on" onclick="tab(event,'ov')"><span class="i18n zh">總覽</span><span class="i18n en">Overview</span></button>
+      <button onclick="tab(event,'dir')"><span class="i18n zh">專家名錄</span><span class="i18n en">Directory</span></button>
+      <button onclick="tab(event,'inst')"><span class="i18n zh">機構地圖</span><span class="i18n en">Institutions</span></button>
+      <button onclick="tab(event,'feed')"><span class="i18n zh">研究與動態</span><span class="i18n en">Activity</span></button>
+      <button onclick="tab(event,'tr')"><span class="i18n zh">臨床試驗</span><span class="i18n en">Trials</span></button>
+      <button onclick="tab(event,'org')"><span class="i18n zh">學會與社群</span><span class="i18n en">Societies</span></button>
+      <button onclick="tab(event,'leg')"><span class="i18n zh">紀念</span><span class="i18n en">In memoriam</span></button>
+      <button onclick="tab(event,'me')"><span class="i18n zh">方法與更新</span><span class="i18n en">Method</span></button>
+    </nav>
+  </div>
+</header>
+
+<div class="wrap">
+
+<!-- 總覽 -->
+<div id="ov" class="panel on">
+  <div class="kpi" id="kpiBox"></div>
+  <div class="card">
+    <h2><span class="i18n zh">研究版圖</span><span class="i18n en">Research landscape</span></h2>
+    <div class="h2sub">
+      <span class="i18n zh">台灣的 SCA 研究能量集中在幾個彼此有合作關係的群集。點名字可看該人的完整卡片。</span>
+      <span class="i18n en">SCA research capacity in Taiwan concentrates in a handful of collaborating clusters. Click a name to open that person's full record.</span>
+    </div>
+    <div id="clusters"></div>
+  </div>
+  <div class="card">
+    <h2><span class="i18n zh">近期焦點</span><span class="i18n en">Recent highlights</span></h2>
+    <div class="h2sub">
+      <span class="i18n zh">最新的六筆研究與生態系動態，完整時間線在「研究與動態」頁。</span>
+      <span class="i18n en">The six most recent research and ecosystem records; the full timeline is under Activity.</span>
+    </div>
+    <div id="ovFeed"></div>
+  </div>
+</div>
+
+<!-- 名錄 -->
+<div id="dir" class="panel">
+  <div class="card">
+    <h2><span class="i18n zh">專家名錄</span><span class="i18n en">Directory</span></h2>
+    <div class="h2sub">
+      <span class="i18n zh">依收錄程度分四層：<b>核心</b>＝SCA 為主要專注領域且有近期產出；<b>重要</b>＝在診斷、試驗、學會或研究上有明確角色；<b>生態系</b>＝相鄰領域或功能性角色；<b>名單層</b>＝僅有協會／學會名單佐證、尚未逐一查證。</span>
+      <span class="i18n en">Four tiers by depth of record: <b>Core</b> — SCA is a primary focus with recent output; <b>Key</b> — a defined role in diagnosis, trials, societies or research; <b>Ecosystem</b> — adjacent fields or functional roles; <b>Listed</b> — supported only by an association or society roster and not yet individually verified.</span>
+    </div>
+    <div class="searchbox">
+      <div class="searchwrap">
+        <svg class="sico" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"></circle><path d="M20 20l-3.5-3.5"></path></svg>
+        <input class="search" id="pSearch" oninput="renderDir()" placeholder="搜尋姓名／機構／亞型／關鍵字…">
+      </div>
+      <span class="scount" id="pCount"></span>
+    </div>
+    <div class="filters" id="fTier"></div>
+    <div class="filters" id="fRegion"></div>
+    <div class="filters" id="fRole"></div>
+    <div class="plist" id="pList"></div>
+  </div>
+</div>
+
+<!-- 機構 -->
+<div id="inst" class="panel">
+  <div class="card">
+    <h2><span class="i18n zh">機構地圖</span><span class="i18n en">Institutions</span></h2>
+    <div class="h2sub">
+      <span class="i18n zh">論文數為 2021–2026 年該機構至少有一位掛名作者的 SCA 相關論文篇數（機構間會重複計算，例如北榮與陽明交大高度重疊）。</span>
+      <span class="i18n en">The paper count is the number of 2021–2026 SCA-related papers with at least one author affiliated to that institution (counts overlap between institutions — TVGH and NYCU in particular share many authors).</span>
+    </div>
+    <div class="ilist" id="iList"></div>
+  </div>
+</div>
+
+<!-- 動態 -->
+<div id="feed" class="panel">
+  <div class="card">
+    <h2><span class="i18n zh">研究與動態</span><span class="i18n en">Research &amp; activity</span></h2>
+    <div class="h2sub">
+      <span class="i18n zh">論文、試驗、學會、政策、產業與病友社群的時間線。僅標示年份者為該年發表、無確切日期。</span>
+      <span class="i18n en">A timeline across papers, trials, societies, policy, industry and the patient community. Entries showing only a year were published that year without a precise date.</span>
+    </div>
+    <div class="searchbox">
+      <div class="searchwrap">
+        <svg class="sico" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"></circle><path d="M20 20l-3.5-3.5"></path></svg>
+        <input class="search" id="uSearch" oninput="renderFeed()" placeholder="搜尋動態…">
+      </div>
+      <span class="scount" id="uCount"></span>
+    </div>
+    <div class="filters" id="fKind"></div>
+    <div id="uList"></div>
+  </div>
+</div>
+
+<!-- 試驗 -->
+<div id="tr" class="panel">
+  <div class="card">
+    <h2><span class="i18n zh">在台灣有站點的相關試驗</span><span class="i18n en">Trials with sites in Taiwan</span></h2>
+    <div class="h2sub">
+      <span class="i18n zh">含 SCA 與鄰近適應症（MSA-C）之藥物、細胞治療與復健介入。主持人欄位以 ClinicalTrials.gov 登錄為主，登錄未列者以台灣官方主持人資料庫（TPIDB）補充並註明。</span>
+      <span class="i18n en">Covers drug, cell-therapy and rehabilitation interventions in SCA and the adjacent indication MSA-C. Investigators follow the ClinicalTrials.gov record; where the registry lists none, Taiwan's official investigator database (TPIDB) is used and noted.</span>
+    </div>
+    <div class="tblbox"><table id="tTab"></table></div>
+  </div>
+</div>
+
+<!-- 學會 -->
+<div id="org" class="panel">
+  <div class="card">
+    <h2><span class="i18n zh">近期與未來活動</span><span class="i18n en">Upcoming &amp; recent events</span></h2>
+    <div id="eList"></div>
+  </div>
+  <div class="card">
+    <h2><span class="i18n zh">學會、病友組織與資源</span><span class="i18n en">Societies, patient organisations and resources</span></h2>
+    <div id="oList"></div>
+  </div>
+</div>
+
+<!-- 紀念 -->
+<div id="leg" class="panel"><div id="legacyBox"></div></div>
+
+<!-- 方法 -->
+<div id="me" class="panel">
+  <div class="card">
+    <h2><span class="i18n zh">資料怎麼來的</span><span class="i18n en">How this was built</span></h2>
+    <div class="h2sub">
+      <span class="i18n zh">五個步驟，任何疾病領域、任何國家都可以照同一套重跑一次。</span>
+      <span class="i18n en">Five steps — the same method can be re-run for any disease area and any country.</span>
+    </div>
+    <div class="mstep"><div class="num">1</div><div>
+      <h4><span class="i18n zh">文獻層</span><span class="i18n en">Literature layer</span></h4>
+      <p><span class="i18n zh">以 Europe PMC 與 PubMed 檢索「SCA 相關詞彙 × 機構國別 × 2021–2026」，彙整作者、機構、產出量與作者位置（第一／通訊）。本版掃得 64 篇台灣掛名論文。</span>
+      <span class="i18n en">Search Europe PMC and PubMed for SCA terms × country affiliation × 2021–2026, then compile authors, institutions, output volume and author position (first / corresponding). This edition covers 64 Taiwan-affiliated papers.</span></p></div></div>
+    <div class="mstep"><div class="num">2</div><div>
+      <h4><span class="i18n zh">試驗層</span><span class="i18n en">Trial layer</span></h4>
+      <p><span class="i18n zh">用 ClinicalTrials.gov API 以疾病 × 國別站點拉出試驗與主持人；登錄未列主持人時，再查當地官方登錄系統補齊（台灣為 TPIDB，日本為 jRCT）。</span>
+      <span class="i18n en">Pull trials and investigators from the ClinicalTrials.gov API by condition and country; where the registry lists no investigator, fill the gap from the local official registry (TPIDB in Taiwan, jRCT in Japan).</span></p></div></div>
+    <div class="mstep"><div class="num">3</div><div>
+      <h4><span class="i18n zh">組織層</span><span class="i18n en">Organisation layer</span></h4>
+      <p><span class="i18n zh">病友協會與專科學會的理監事、醫療院所名單、年會議程。</span>
+      <span class="i18n en">Boards, referral rosters and annual-meeting programmes from patient associations and specialty societies.</span></p></div></div>
+    <div class="mstep"><div class="num">4</div><div>
+      <h4><span class="i18n zh">動態層</span><span class="i18n en">Activity layer</span></h4>
+      <p><span class="i18n zh">以當地語言掃近三年媒體：醫師受訪、獲獎、研究記者會、政策公告。</span>
+      <span class="i18n en">Sweep the last three years of local-language media: physician interviews, awards, research announcements and policy notices.</span></p></div></div>
+    <div class="mstep"><div class="num">5</div><div>
+      <h4><span class="i18n zh">交叉合併與分層</span><span class="i18n en">Merge and tier</span></h4>
+      <p><span class="i18n zh">四層證據交叉比對後分層，逐筆標註資料品質問題（職稱版本不一、拼音未確認、名單未查證）。有疑義者寧可標明，不寫死。</span>
+      <span class="i18n en">Cross-check the four evidence layers, assign tiers, and annotate every data-quality issue (conflicting titles, unconfirmed romanisation, unverified listings). Where something is uncertain, it is flagged rather than asserted.</span></p></div></div>
+  </div>
+  <div class="card">
+    <h2><span class="i18n zh">已知缺口</span><span class="i18n en">Known gaps</span></h2>
+    <div class="h2sub"><span class="i18n zh">下面這些是查過但沒找到、或需要線下確認的，列出來比留白誠實。</span><span class="i18n en">These were searched for and not found, or need offline confirmation. Listing them is more honest than leaving blanks.</span></div>
+    <div id="gaps"></div>
+  </div>
+  <div class="card">
+    <h2><span class="i18n zh">版本更新</span><span class="i18n en">Changelog</span></h2>
+    <div id="vList"></div>
+  </div>
+</div>
+
+<div class="foot">
+  <span class="i18n zh"><b>關於本站</b>　本站彙整公開資訊：同儕審查論文、臨床試驗登錄、學會與醫院官方網頁、病友組織公告與新聞報導，每筆均附來源連結供查證。所有內容皆為公開的專業資訊，不含私人聯絡方式。<br>
+  資料由 AI 輔助彙整並逐筆附來源；醫師職稱與所屬機構可能異動，引用前建議點開來源連結確認。發現錯誤或希望修正、移除您的資料，歡迎透過來源機構聯繫。<br>
+  本站為疾病領域的中立情報整理，與所列任何醫師、機構或企業無隸屬關係。</span>
+  <span class="i18n en"><b>About</b>　This site compiles public information — peer-reviewed papers, clinical trial registries, official hospital and society pages, patient-organisation announcements and news coverage — with a source link on every record. All content is public professional information; no private contact details are included.<br>
+  Records were compiled with AI assistance and individually sourced. Titles and affiliations change; please follow the source link before citing. If you find an error, or would like your record corrected or removed, you are welcome to make contact through the listed source institution.<br>
+  This is a neutral compilation about a disease area and is not affiliated with any physician, institution or company listed.</span>
+</div>
+</div>
+
+<!-- person modal -->
+<div class="modal" id="pModal" onclick="if(event.target===this)closeP()">
+  <div class="mbox">
+    <div class="mhead">
+      <div><div class="mn" id="mName"></div><div class="mm" id="mMeta"></div></div>
+      <button class="mclose" onclick="closeP()">✕</button>
+    </div>
+    <div class="mbody" id="mBody"></div>
+  </div>
+</div>
+
+<script>
+function q(id){return document.getElementById(id);}
+function esc(s){return (s==null?'':String(s)).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
+function md(s){return esc(s).replace(/\*\*(.+?)\*\*/g,'<b>$1</b>').replace(/&lt;b&gt;/g,'<b>').replace(/&lt;\/b&gt;/g,'</b>');}
+
+var LANG='zh';
+try{var _s=localStorage.getItem('kol-iq-lang'); if(_s==='en'||_s==='zh') LANG=_s;}catch(e){}
+function L(o,f){if(!o)return '';if(LANG==='en'&&o.en&&o.en[f]!=null&&o.en[f]!=='')return o.en[f];return o[f];}
+function LA(o,k){var a=(LANG==='en'&&o&&o.en&&o.en[k])?o.en[k]:(o?o[k]:null);return a||[];}
+function T(k){var o=I18N[k];return o?(o[LANG]!=null?o[LANG]:o.zh):k;}
+
+var I18N={
+  tier:{zh:{1:'核心',2:'重要',3:'生態系',4:'名單層'},en:{1:'Core',2:'Key',3:'Ecosystem',4:'Listed'}},
+  region:{zh:{north:'北部',central:'中部',south:'南部',east:'東部'},en:{north:'North',central:'Central',south:'South',east:'East'}},
+  role:{zh:{clinical:'臨床看診',genetics:'基因診斷',research:'基礎研究',trialist:'試驗主持',society:'學會職務',community:'病友社群',rehab:'復健介入'},
+        en:{clinical:'Clinical care',genetics:'Genetic diagnosis',research:'Basic research',trialist:'Trial investigator',society:'Society office',community:'Patient community',rehab:'Rehabilitation'}},
+  kind:{zh:{paper:'論文',trial:'試驗',society:'學會',policy:'政策',industry:'產業',community:'社群',media:'媒體',event:'活動',obituary:'紀念'},
+        en:{paper:'Paper',trial:'Trial',society:'Society',policy:'Policy',industry:'Industry',community:'Community',media:'Media',event:'Event',obituary:'In memoriam'}},
+  all:{zh:'全部',en:'All'},
+  fTier:{zh:'收錄層級',en:'Tier'},fRegion:{zh:'區域',en:'Region'},fRole:{zh:'角色',en:'Role'},fKind:{zh:'類型',en:'Type'},
+  count:{zh:function(n,f){return '共 '+n+' 位'+(f?'（篩選中）':'');},en:function(n,f){return n+(n===1?' person':' people')+(f?' (filtered)':'');}},
+  countU:{zh:function(n,f){return '共 '+n+' 筆'+(f?'（篩選中）':'');},en:function(n,f){return n+(n===1?' item':' items')+(f?' (filtered)':'');}},
+  pubs:{zh:function(n){return n+' 篇論文';},en:function(n){return n+' paper'+(n===1?'':'s');}},
+  secFocus:{zh:'專注領域',en:'Focus'},secHi:{zh:'代表著作',en:'Selected publications'},
+  secRecent:{zh:'近期動態',en:'Recent activity'},secTrial:{zh:'臨床試驗參與',en:'Trial involvement'},
+  secSoc:{zh:'學會職務',en:'Society roles'},secCh:{zh:'公開專業管道',en:'Public professional channel'},
+  secSrc:{zh:'來源',en:'Sources'},secDq:{zh:'資料品質備註',en:'Data-quality note'},
+  empty:{zh:'（本平台尚未收錄）',en:'(nothing recorded yet)'},
+  pubNone:{zh:'2021–2026 未見以 SCA 為題之掛名論文',en:'No SCA-titled papers found for 2021–2026'},
+  openMore:{zh:'▸ 開啟完整資料',en:'▸ Open full record'},
+  kpiPeople:{zh:'收錄人物',en:'People tracked'},kpiCore:{zh:'核心專家',en:'Core experts'},
+  kpiInst:{zh:'機構',en:'Institutions'},kpiTrial:{zh:'在台試驗',en:'Trials in Taiwan'},
+  kpiPapers:{zh:'掃描論文',en:'Papers screened'},kpiUpd:{zh:'動態紀錄',en:'Dated records'},
+  kpiPeopleD:{zh:'醫師、研究者與名單層',en:'clinicians, researchers and listed names'},
+  kpiCoreD:{zh:'SCA 為主要專注領域',en:'SCA as a primary focus'},
+  kpiInstD:{zh:'醫學中心與學術機構',en:'medical centres and academic institutions'},
+  kpiTrialD:{zh:'含鄰近適應症與復健介入',en:'including adjacent indications and rehabilitation'},
+  kpiPapersD:{zh:'2021–2026 台灣掛名',en:'Taiwan-affiliated, 2021–2026'},
+  kpiUpdD:{zh:'附日期與來源',en:'each dated and sourced'},
+  searchP:{zh:'搜尋姓名／機構／亞型／關鍵字…',en:'Search name / institution / subtype / keyword…'},
+  searchU:{zh:'搜尋動態…',en:'Search activity…'},
+  thTrial:{zh:['試驗','主辦','分期','狀態','台灣站點','主持人','起訖'],en:['Trial','Sponsor','Phase','Status','Site in Taiwan','Investigators','Dates']},
+  noPi:{zh:'登錄未列',en:'none listed'},
+  upcoming:{zh:'即將舉行',en:'Upcoming'},
+  legacyTag:{zh:'紀念',en:'In memoriam'}
+};
+
+function setLang(l){
+  LANG=l; document.documentElement.setAttribute('data-lang',l);
+  try{localStorage.setItem('kol-iq-lang',l);}catch(e){}
+  q('langZh').className=(l==='zh'?'on':''); q('langEn').className=(l==='en'?'on':'');
+  document.title=(l==='en')?'KOL-IQ | Spinocerebellar Ataxia Expert & Research Database':'KOL-IQ｜脊髓小腦運動失調症 專家與研究動態資料庫';
+  q('pSearch').placeholder=T('searchP'); q('uSearch').placeholder=T('searchU');
+  renderAll();
+}
+function tab(e,id){
+  var ps=document.querySelectorAll('.panel'); for(var i=0;i<ps.length;i++) ps[i].classList.remove('on');
+  var bs=document.querySelectorAll('nav button'); for(var j=0;j<bs.length;j++) bs[j].classList.remove('on');
+  q(id).classList.add('on'); e.currentTarget.classList.add('on');
+  window.scrollTo({top:0,behavior:'auto'});
+}
+
+var PEOPLE=[],INST=[],TRIALS=[],UPD=[],ORGS=[],EVENTS=[],VERS=[],LEGACY=null,META={};
+var byId={};
+
+/* ── clusters ── */
+var CLUSTERS=[
+ {id:'tvgh-genetics',zh:'台北榮總／陽明交大 神經遺傳線',en:'TVGH / NYCU neurogenetics',
+  zhd:'台灣 SCA 基因診斷歷史最久、產出最多的一群。以大型基因確診世代與新致病基因發現為主軸，臨床與果蠅／細胞模型並行。',
+  end:'The longest-established and highest-output group in SCA genetic diagnosis in Taiwan, built on large genetically confirmed cohorts and novel-gene discovery, with clinical work running alongside Drosophila and cell models.'},
+ {id:'cch-therapeutics',zh:'彰化基督教醫院 治療與生物標記線',en:'Changhua Christian Hospital therapeutics & biomarkers',
+  zhd:'以 SCA3 為主的治療性研究：粒線體與代謝生物標記、營養與小分子介入，並延伸到中醫與復健介入試驗。',
+  end:'Therapeutically oriented work centred on SCA3 — mitochondrial and metabolic biomarkers, nutritional and small-molecule interventions — extending into Chinese-medicine and rehabilitation trials.'},
+ {id:'ntu-mechanism',zh:'台大 機轉與臨床線',en:'NTU mechanism & clinical line',
+  zhd:'小腦電生理與跨亞型共通機轉的研究，國際期刊層級最高；臨床端另有罕病門診、動作障礙門診與現役介入試驗。',
+  end:'Cerebellar electrophysiology and mechanisms shared across subtypes, publishing at the highest journal tier, alongside a rare-disease clinic, a movement-disorders clinic and an actively enrolling interventional trial.'},
+ {id:'cgmh-polyq',zh:'長庚 polyQ 藥物開發線',en:'Chang Gung polyQ drug development',
+  zhd:'把 SCA3 與亨丁頓舞蹈症當成同一個 polyQ 問題處理：自噬降解、抗發炎化合物、iPSC 藥物平台，與台師大長期合作篩選。',
+  end:'Treats SCA3 and Huntington’s as one polyQ problem — autophagic degradation, anti-inflammatory compounds and iPSC drug platforms — with long-running screening collaboration with NTNU.'},
+ {id:'cgmh-ks',zh:'高雄長庚 南部世代線',en:'Kaohsiung Chang Gung southern cohort',
+  zhd:'南台灣遺傳性共濟失調的收案與罕見亞型基因定性，並建立病人來源的 iPSC 資源。',
+  end:'Recruitment for hereditary ataxia in southern Taiwan with genetic characterisation of rare subtypes, plus patient-derived iPSC resources.'},
+ {id:'nycu-channel',zh:'陽明交大 離子通道與 polyQ 基礎線',en:'NYCU channelopathy & polyQ basic science',
+  zhd:'SCA19/22（KCND3／Kv4.3）通道病變的機轉與疾病模型，以及 CAG 重複轉錄調控與 polyQ 藥物開發。',
+  end:'Mechanisms and disease models for the SCA19/22 channelopathy (KCND3/Kv4.3), plus transcriptional regulation of CAG repeats and polyQ drug development.'},
+ {id:'tzuchi-delivery',zh:'慈濟—東華 天然物與遞送線',en:'Tzu Chi – NDHU natural products & delivery',
+  zhd:'SCA3 的天然物藥理與遞送技術（外泌體、脂質體、鼻腔給藥），臨床轉譯由花蓮慈濟推動。',
+  end:'Natural-product pharmacology and delivery technology for SCA3 (exosomes, liposomes, intranasal routes), with clinical translation driven from Hualien Tzu Chi.'},
+ {id:'academic-model',zh:'模型與藥物篩選（跨校）',en:'Models and drug screening (cross-institution)',
+  zhd:'提供疾病動物模型、細胞模型與藥物篩選平台的學研團隊，多以合作者身分支撐上述臨床線。',
+  end:'Academic groups supplying animal and cell models and drug-screening platforms, mostly supporting the clinical lines above as collaborators.'},
+ {id:'other-clinical',zh:'各院臨床與動作障礙網絡',en:'Hospital clinics and the movement-disorder network',
+  zhd:'散布各醫學中心的 SCA 門診、基因診斷入口與動作障礙專科醫師，是病人實際就醫與轉介的網。',
+  end:'SCA clinics, genetic-diagnosis entry points and movement-disorder specialists spread across medical centres — the network patients actually move through.'}
+];
+
+/* ── filters state ── */
+var fTier='all',fRegion='all',fRole='all',fKind='all';
+function chips(el,items,cur,fn,labelKey){
+  var h='<span class="flabel">'+esc(T(labelKey))+'</span>';
+  h+='<button class="'+(cur==='all'?'on':'')+'" onclick="'+fn+'(\'all\')">'+esc(T('all'))+'</button>';
+  items.forEach(function(it){
+    h+='<button class="'+(cur===it.k?'on':'')+'" onclick="'+fn+'(\''+it.k+'\')">'+esc(it.l)+(it.n!=null?(' <span style="opacity:.6">'+it.n+'</span>'):'')+'</button>';
+  });
+  q(el).innerHTML=h;
+}
+function setTier(v){fTier=v;renderDir();}
+function setRegion(v){fRegion=v;renderDir();}
+function setRole(v){fRole=v;renderDir();}
+function setKind(v){fKind=v;renderFeed();}
+
+function personBadges(p){
+  var h='';
+  h+='<span class="bdg b-t1">'+esc(I18N.tier[LANG][p.tier])+'</span>';
+  if(p.pubs>0) h+='<span class="bdg b-pub">'+esc(I18N.pubs[LANG](p.pubs))+'</span>';
+  if((p.trialRoles||[]).length) h+='<span class="bdg b-trial">'+((LANG==='en')?'Trials':'試驗')+' '+p.trialRoles.length+'</span>';
+  if(L(p,'society')) h+='<span class="bdg b-soc">'+((LANG==='en')?'Society':'學會')+'</span>';
+  var subs=LA(p,'subtypes').length?LA(p,'subtypes'):(p.subtypes||[]);
+  subs.slice(0,3).forEach(function(s){h+='<span class="bdg b-sub">'+esc(s)+'</span>';});
+  return h;
+}
+function renderDir(){
+  var qy=(q('pSearch').value||'').toLowerCase().trim();
+  var tiers=[1,2,3,4].map(function(t){return {k:String(t),l:I18N.tier[LANG][t],n:PEOPLE.filter(function(p){return p.tier===t;}).length};});
+  var regions=['north','central','south','east'].map(function(r){return {k:r,l:I18N.region[LANG][r],n:PEOPLE.filter(function(p){return p.region===r;}).length};});
+  var roles=['clinical','genetics','research','trialist','society','community','rehab'].map(function(r){
+    return {k:r,l:I18N.role[LANG][r],n:PEOPLE.filter(function(p){return (p.roles||[]).indexOf(r)>=0;}).length};});
+  chips('fTier',tiers,fTier,'setTier','fTier');
+  chips('fRegion',regions,fRegion,'setRegion','fRegion');
+  chips('fRole',roles,fRole,'setRole','fRole');
+
+  var rows=PEOPLE.filter(function(p){
+    if(fTier!=='all'&&String(p.tier)!==fTier) return false;
+    if(fRegion!=='all'&&p.region!==fRegion) return false;
+    if(fRole!=='all'&&(p.roles||[]).indexOf(fRole)<0) return false;
+    if(!qy) return true;
+    return JSON.stringify(p).toLowerCase().indexOf(qy)>=0;
+  });
+  rows.sort(function(a,b){return (a.tier-b.tier)||((b.pubs||0)-(a.pubs||0));});
+  q('pCount').textContent=I18N.count[LANG](rows.length,(fTier!=='all'||fRegion!=='all'||fRole!=='all'||!!qy));
+  q('pList').innerHTML=rows.map(function(p){
+    return '<div class="pc t'+p.tier+'" onclick="openP(\''+p.id+'\')">'+
+      '<div class="pn">'+esc(p.name)+(p.enName?'<span class="pen">'+esc(p.enName)+'</span>':'')+'</div>'+
+      '<div class="porg">'+esc(L(p,'org'))+'</div>'+
+      '<div class="ptit">'+esc(L(p,'title'))+'</div>'+
+      '<div class="pfoc">'+esc(L(p,'focus'))+'</div>'+
+      '<div class="pbadges">'+personBadges(p)+'</div>'+
+      '<span class="more">'+esc(T('openMore'))+'</span></div>';
+  }).join('');
+}
+function srcRow(list){
+  if(!list||!list.length) return '';
+  return list.map(function(s){return '<a class="src" href="'+esc(s.url)+'" target="_blank" rel="noopener">'+esc(s.label)+' ↗</a>';}).join('');
+}
+function openP(id){
+  var p=byId[id]; if(!p) return;
+  q('mName').innerHTML=esc(p.name)+(p.enName?'<small>'+esc(p.enName)+'</small>':'');
+  var subs=LA(p,'subtypes').length?LA(p,'subtypes'):(p.subtypes||[]);
+  q('mMeta').innerHTML='<b>'+esc(L(p,'org'))+'</b><br>'+esc(L(p,'title'))+
+    '<br><span style="font-size:11px;color:#7d8fa6">'+esc(I18N.tier[LANG][p.tier])+
+    (p.region?' · '+esc(I18N.region[LANG][p.region]):'')+
+    (subs.length?' · '+esc(subs.join(LANG==='en'?', ':'、')):'')+'</span>';
+  var h='';
+  h+='<div class="msec"><h4>'+esc(T('secFocus'))+'</h4><div class="mrow">'+esc(L(p,'focus'))+'</div>';
+  h+='<div class="mrow" style="color:#8fb3d9">'+esc(p.pubs>0?(I18N.pubs[LANG](p.pubs)+'　'+L(p,'pubNote')):T('pubNone'))+'</div></div>';
+  var hi=LA(p,'highlights');
+  if(hi.length){
+    h+='<div class="msec"><h4>'+esc(T('secHi'))+'</h4>'+hi.map(function(x){
+      return '<div class="mrow"><span class="yr">'+esc(x.year)+'</span>'+md(x.text)+
+        (x.link?('<br>'+srcRow([x.link])):'')+'</div>';}).join('')+'</div>';
+  }
+  var rc=LA(p,'recent');
+  if(rc.length){
+    h+='<div class="msec"><h4>'+esc(T('secRecent'))+'</h4>'+rc.map(function(x){
+      return '<div class="mrow"><span class="yr">'+esc(x.date)+'</span>'+md(x.text)+
+        (x.link?('<br>'+srcRow([x.link])):'')+'</div>';}).join('')+'</div>';
+  }
+  var trs=LA(p,'trialRoles');
+  if(trs.length){
+    h+='<div class="msec"><h4>'+esc(T('secTrial'))+'</h4>'+trs.map(function(x){
+      return '<div class="mrow"><b>'+esc(x.role)+'</b>　'+esc(x.note||'')+
+        '<br><a class="src" href="https://clinicaltrials.gov/study/'+esc(x.nct)+'" target="_blank" rel="noopener">'+esc(x.nct)+' ↗</a></div>';}).join('')+'</div>';
+  }
+  if(L(p,'society')) h+='<div class="msec"><h4>'+esc(T('secSoc'))+'</h4><div class="mrow">'+esc(L(p,'society'))+'</div></div>';
+  var ch=(LANG==='en'&&p.en&&p.en.channel)?p.en.channel:p.channel;
+  if(ch) h+='<div class="msec"><h4>'+esc(T('secCh'))+'</h4><div class="mrow">'+srcRow([ch])+'</div></div>';
+  var srcs=LA(p,'sources');
+  if(srcs.length) h+='<div class="msec"><h4>'+esc(T('secSrc'))+'</h4><div class="mrow">'+srcRow(srcs)+'</div></div>';
+  if(L(p,'dq')) h+='<div class="dqnote"><b>'+esc(T('secDq'))+(LANG==='en'?': ':'：')+'</b>'+esc(L(p,'dq'))+'</div>';
+  q('mBody').innerHTML=h;
+  q('pModal').classList.add('on');
+}
+function closeP(){q('pModal').classList.remove('on');}
+function goLegacy(){
+  var ps=document.querySelectorAll('.panel'); for(var i=0;i<ps.length;i++) ps[i].classList.remove('on');
+  var bs=document.querySelectorAll('nav button'); for(var j=0;j<bs.length;j++) bs[j].classList.remove('on');
+  q('leg').classList.add('on'); bs[6].classList.add('on');
+  window.scrollTo({top:0,behavior:'auto'});
+}
+document.addEventListener('keydown',function(e){if(e.key==='Escape')closeP();});
+
+function renderClusters(){
+  q('clusters').innerHTML=CLUSTERS.map(function(c){
+    var mem=PEOPLE.filter(function(p){return p.cluster===c.id;}).sort(function(a,b){return a.tier-b.tier;});
+    if(!mem.length) return '';
+    return '<div class="cl"><h3>'+esc(LANG==='en'?c.en:c.zh)+'<span class="n">'+mem.length+'</span></h3>'+
+      '<p>'+esc(LANG==='en'?c.end:c.zhd)+'</p>'+
+      '<div class="mem">'+mem.map(function(p){
+        return '<a onclick="openP(\''+p.id+'\')">'+esc(p.name)+'</a>';}).join('　·　')+'</div></div>';
+  }).join('');
+}
+function fmtDate(d){
+  if(!d) return '';
+  if(/-01-01$/.test(d)) return d.slice(0,4);
+  return d;
+}
+function feedHtml(rows){
+  return rows.map(function(u){
+    return '<div class="fitem '+esc(u.kind)+'"><span class="k">'+esc(I18N.kind[LANG][u.kind]||u.kind)+'</span>'+
+      md(L(u,'text'))+'<span class="d">'+esc(fmtDate(u.date))+'</span>'+
+      (u.url?('<br><a class="src" href="'+esc(u.url)+'" target="_blank" rel="noopener">'+esc(u.source)+' ↗</a>'):'')+'</div>';
+  }).join('');
+}
+function renderFeed(){
+  var qy=(q('uSearch').value||'').toLowerCase().trim();
+  var kinds=['paper','trial','industry','policy','society','community','media','event','obituary']
+    .map(function(k){return {k:k,l:I18N.kind[LANG][k],n:UPD.filter(function(u){return u.kind===k;}).length};})
+    .filter(function(x){return x.n>0;});
+  chips('fKind',kinds,fKind,'setKind','fKind');
+  var rows=UPD.filter(function(u){
+    if(fKind!=='all'&&u.kind!==fKind) return false;
+    if(!qy) return true;
+    return JSON.stringify(u).toLowerCase().indexOf(qy)>=0;
+  });
+  q('uCount').textContent=I18N.countU[LANG](rows.length,(fKind!=='all'||!!qy));
+  q('uList').innerHTML=feedHtml(rows);
+}
+function renderInst(){
+  q('iList').innerHTML=INST.slice().sort(function(a,b){return (b.papers||0)-(a.papers||0);}).map(function(i){
+    var mem=PEOPLE.filter(function(p){return p.orgId===i.id;}).sort(function(a,b){return a.tier-b.tier;});
+    return '<div class="ic"><h3>'+esc(L(i,'name'))+'<small>'+esc(I18N.region[LANG][i.region]||'')+'</small></h3>'+
+      '<div class="ibar">'+(i.papers?('<span>'+esc(I18N.pubs[LANG](i.papers))+'</span>'):'')+
+      (mem.length?('<span>· '+esc(I18N.count[LANG](mem.length,false))+'</span>'):'')+'</div>'+
+      '<div class="inote">'+esc(L(i,'note'))+'</div>'+
+      (mem.length?('<div class="ipeople">'+mem.map(function(p){
+        return '<a onclick="openP(\''+p.id+'\')">'+esc(p.name)+'</a>';}).join('　·　')+'</div>'):'')+
+      (i.url?('<div style="margin-top:8px">'+srcRow([{label:LANG==='en'?'Official site':'官方網站',url:i.url}])+'</div>'):'')+
+      '</div>';
+  }).join('');
+}
+function renderTrials(){
+  var th=I18N.thTrial[LANG];
+  var h='<thead><tr>'+th.map(function(x){return '<th>'+esc(x)+'</th>';}).join('')+'</tr></thead><tbody>';
+  var order={active:0,closed:1,unknown:2,done:3,stopped:4};
+  h+=TRIALS.slice().sort(function(a,b){return (order[a.statusKind]-order[b.statusKind]);}).map(function(t){
+    var pis=(t.pi||[]).length?t.pi.map(function(p){
+      var nm=esc(p.name);
+      if(p.id==='soong-bing-wen') nm='<span class="pilink" onclick="goLegacy()">'+nm+'</span>';
+      else if(p.id&&byId[p.id]) nm='<span class="pilink" onclick="openP(\''+p.id+'\')">'+nm+'</span>';
+      return nm+'<span style="color:#6a7c92;font-size:11px"> '+esc(p.role)+'</span>';
+    }).join('<br>'):('<span style="color:#6a7c92">'+esc(T('noPi'))+'</span>');
+    return '<tr><td><b>'+esc(L(t,'title'))+'</b><br><a class="src" href="https://clinicaltrials.gov/study/'+esc(t.nct)+'" target="_blank" rel="noopener">'+esc(t.nct)+' ↗</a>'+
+      (L(t,'note')?('<div style="font-size:11.5px;color:#8b9bb0;line-height:1.6;margin-top:6px">'+esc(L(t,'note'))+'</div>'):'')+'</td>'+
+      '<td>'+esc(L(t,'sponsor'))+'</td><td>'+esc(L(t,'phase'))+'</td>'+
+      '<td><span class="stpill st-'+esc(t.statusKind)+'">'+esc(L(t,'status'))+'</span></td>'+
+      '<td>'+esc(L(t,'site'))+(t.n&&t.n!=='—'?('<br><span style="font-size:11px;color:#8b9bb0">n='+esc(L(t,'n'))+'</span>'):'')+'</td>'+
+      '<td>'+pis+'</td><td style="white-space:nowrap">'+esc(t.years)+'</td></tr>';
+  }).join('');
+  q('tTab').innerHTML=h+'</tbody>';
+}
+function renderOrgs(){
+  q('oList').innerHTML=ORGS.map(function(o){
+    return '<div class="oc '+esc(o.type)+'"><h3>'+esc(L(o,'name'))+'</h3>'+
+      (L(o,'lead')?('<div class="olead">'+esc(L(o,'lead'))+'</div>'):'')+
+      '<div class="onote">'+esc(L(o,'note'))+'</div>'+
+      '<div style="margin-top:9px">'+srcRow([{label:LANG==='en'?'Official site':'官方網站',url:o.url}])+'</div></div>';
+  }).join('');
+  var today=(META.lastScan||'2026-08-15');
+  q('eList').innerHTML=EVENTS.slice().sort(function(a,b){return a.date.localeCompare(b.date);}).map(function(e){
+    var past=e.date<today;
+    return '<div class="ev'+(past?' past':'')+'"><div class="ed">'+esc(e.date)+(past?'':('　'+esc(T('upcoming'))))+'</div>'+
+      '<div class="en2">'+esc(L(e,'name'))+(L(e,'place')?('<span style="font-weight:400;color:#8b9bb0;font-size:11.5px">　'+esc(L(e,'place'))+'</span>'):'')+'</div>'+
+      '<div class="em">'+esc(L(e,'note'))+'</div>'+
+      (e.url?('<div>'+srcRow([{label:e.org,url:e.url}])+'</div>'):'')+'</div>';
+  }).join('');
+}
+function renderLegacy(){
+  if(!LEGACY) return;
+  var g=LEGACY;
+  q('legacyBox').innerHTML='<div class="legacy">'+
+    '<div class="lname">'+esc(g.name)+'<small>'+esc(g.enName)+'</small></div>'+
+    '<div class="lyr">'+esc(g.years)+'</div>'+
+    '<div class="ltitle">'+esc(L(g,'title'))+'</div>'+
+    '<div class="lorg">'+esc(L(g,'orgs'))+'</div>'+
+    '<div class="lbody">'+esc(L(g,'body'))+'</div>'+
+    '<div class="lnote">'+esc(L(g,'note'))+'</div>'+
+    '<div style="margin-top:12px">'+srcRow(g.sources)+'</div></div>';
+}
+var GAPS=[
+ {zh:'<b>病友協會現任醫療顧問名單</b>——官網未設此頁，僅能由歷史文獻拼出部分關聯者。',en:'<b>The patient association’s current medical advisory roster</b> — no such page exists on its site; only partial associations can be reconstructed from historical documents.'},
+ {zh:'<b>台灣神經學學會現任理事長</b>——官網組織頁只有章程，未載人名。',en:'<b>The current president of the Taiwan Neurological Society</b> — the site’s organisation page carries bylaws but no names.'},
+ {zh:'<b>高醫附院、花蓮慈濟的具名 SCA 專責醫師</b>——兩院官網為動態頁，無法取得逐一專長。',en:'<b>Named SCA physicians at Kaohsiung Medical University Hospital and Hualien Tzu Chi</b> — both sites render dynamically and individual specialties could not be retrieved.'},
+ {zh:'<b>Arrowhead SCA2 試驗的台灣站點醫院</b>——登錄刻意匿名化為 Research Site 5／6，本平台不作推測。',en:'<b>The Taiwanese hospitals hosting Arrowhead’s SCA2 trial</b> — deliberately anonymised in the registry as Research Site 5/6; this platform does not speculate.'},
+ {zh:'<b>名單層 22 人的個別專長與現職</b>——僅有協會或學會名單佐證，尚未逐一查證。',en:'<b>Individual specialties and current posts for the 22 people in the listing tier</b> — supported only by association or society rosters and not yet individually verified.'},
+ {zh:'<b>Stemchymal 台灣二期的同儕審查結果論文</b>——查無；公開資訊僅有公司發布與研討會發表。',en:'<b>A peer-reviewed publication of the Taiwan Phase 2 results for Stemchymal</b> — none found; public information is limited to company releases and conference presentations.'}
+];
+function renderMethod(){
+  q('gaps').innerHTML=GAPS.map(function(g){return '<div class="gap">'+(LANG==='en'?g.en:g.zh)+'</div>';}).join('');
+  q('vList').innerHTML=VERS.map(function(v){
+    return '<div class="vitem"><div class="vh">'+esc(v.v)+'　'+esc(L(v,'title'))+'</div><div class="vd">'+esc(v.date)+'</div>'+
+      '<ul>'+LA(v,'items').map(function(i){return '<li>'+esc(i)+'</li>';}).join('')+'</ul></div>';
+  }).join('');
+}
+function renderKpi(){
+  var core=PEOPLE.filter(function(p){return p.tier===1;}).length;
+  var box=[
+    {n:PEOPLE.length,l:T('kpiPeople'),d:T('kpiPeopleD'),g:false},
+    {n:core,l:T('kpiCore'),d:T('kpiCoreD'),g:true},
+    {n:INST.length,l:T('kpiInst'),d:T('kpiInstD'),g:false},
+    {n:TRIALS.length,l:T('kpiTrial'),d:T('kpiTrialD'),g:false},
+    {n:64,l:T('kpiPapers'),d:T('kpiPapersD'),g:false},
+    {n:UPD.length,l:T('kpiUpd'),d:T('kpiUpdD'),g:false}
+  ];
+  q('kpiBox').innerHTML=box.map(function(b){
+    return '<div class="box"><div class="n'+(b.g?' g':'')+'">'+b.n+'</div><div class="l">'+esc(b.l)+'</div><div class="d">'+esc(b.d)+'</div></div>';
+  }).join('');
+}
+function renderAll(){
+  renderKpi(); renderClusters(); renderDir(); renderInst(); renderFeed();
+  renderTrials(); renderOrgs(); renderLegacy(); renderMethod();
+  q('ovFeed').innerHTML=feedHtml(UPD.slice(0,6));
+}
+function get(f){return fetch('data/'+f,{cache:'no-cache'}).then(function(r){return r.json();});}
+Promise.all([get('people.json'),get('institutions.json'),get('trials.json'),get('updates.json'),
+  get('orgs.json'),get('events.json'),get('versions.json'),get('legacy.json'),get('meta.json')])
+.then(function(a){
+  PEOPLE=a[0];INST=a[1];TRIALS=a[2];UPD=a[3];ORGS=a[4];EVENTS=a[5];VERS=a[6];LEGACY=a[7][0];META=a[8];
+  UPD.sort(function(x,y){return y.date.localeCompare(x.date);});
+  PEOPLE.forEach(function(p){byId[p.id]=p;});
+  q('lastScan').textContent=META.lastScan||'—';
+  setLang(LANG);
+}).catch(function(e){
+  q('kpiBox').innerHTML='<div style="color:#ff8a7a;font-size:13px;padding:12px">資料載入失敗（本頁需由網頁伺服器開啟，直接雙擊 HTML 會被瀏覽器擋住 fetch）。</div>';
+});
+</script>
+</body>
+</html>

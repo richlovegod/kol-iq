@@ -1,0 +1,257 @@
+[
+  {
+    "id": "tvgh",
+    "name": "台北榮民總醫院",
+    "short": "北榮",
+    "region": "north",
+    "type": "medical",
+    "note": "周邊神經科自 1989 年起提供 SCA 突變基因檢測與分子生物診斷，另設基因諮詢門診；為台灣 SCA 基因診斷歷史最久的據點，亦是 Stemchymal 台灣二期的唯一執行中心。",
+    "papers": 24,
+    "url": "https://wd.vghtpe.gov.tw/vghneuro/",
+    "en": {
+      "name": "Taipei Veterans General Hospital",
+      "short": "TVGH",
+      "note": "The Division of Peripheral Nerve Disorders has offered SCA mutation testing and molecular diagnosis since 1989 and runs a genetic counselling clinic; the longest-established SCA genetic diagnosis centre in Taiwan and the sole site of the Taiwan Phase 2 of Stemchymal."
+    }
+  },
+  {
+    "id": "ntuh",
+    "name": "台大醫院",
+    "short": "台大",
+    "region": "north",
+    "type": "medical",
+    "note": "神經部設「肌肉疾病遺傳性疾病（罕見疾病）」門診與動作障礙門診；基因醫學部為國健署認證的 SCA 基因檢驗單位之一。台大雲林分院另設小腦研究中心。",
+    "papers": 20,
+    "url": "https://www.ntuh.gov.tw/neur/",
+    "en": {
+      "name": "National Taiwan University Hospital",
+      "short": "NTUH",
+      "note": "Neurology runs both a hereditary/rare neuromuscular disease clinic and a movement disorders clinic; Medical Genetics is among the accredited SCA testing units. The Yunlin branch hosts a dedicated Cerebellar Research Center."
+    }
+  },
+  {
+    "id": "nycu",
+    "name": "國立陽明交通大學",
+    "short": "陽明交大",
+    "region": "north",
+    "type": "academic",
+    "note": "與台北榮總高度重疊的學術端；另有 SCA19/22 離子通道與 polyQ 藥物開發兩條獨立基礎研究線。",
+    "papers": 19,
+    "url": "https://www.nycu.edu.tw/",
+    "en": {
+      "name": "National Yang Ming Chiao Tung University",
+      "short": "NYCU",
+      "note": "The academic counterpart to TVGH with substantial overlap in personnel, plus two independent basic-science lines in SCA19/22 channelopathy and polyQ drug development."
+    }
+  },
+  {
+    "id": "cch",
+    "name": "彰化基督教醫院",
+    "short": "彰基",
+    "region": "central",
+    "type": "medical",
+    "note": "以 SCA3 治療與生物標記為主軸，院內另有中醫與復健（rTMS）兩項登錄試驗；為中部 SCA 臨床研究的樞紐。",
+    "papers": 14,
+    "url": "https://www.cch.org.tw/",
+    "en": {
+      "name": "Changhua Christian Hospital",
+      "short": "CCH",
+      "note": "Centred on SCA3 therapeutics and biomarkers, with two further registered trials in-house (Chinese medicine and rTMS rehabilitation); the hub of clinical SCA research in central Taiwan."
+    }
+  },
+  {
+    "id": "cmuh",
+    "name": "中國醫藥大學附設醫院",
+    "short": "中國附醫",
+    "region": "central",
+    "type": "medical",
+    "note": "神經免疫暨基因疾病科承接小腦萎縮的基因診斷；另有多位動作障礙學會理監事。",
+    "papers": 11,
+    "url": "https://www.cmuh.cmu.edu.tw/",
+    "en": {
+      "name": "China Medical University Hospital",
+      "short": "CMUH",
+      "note": "The Division of Neuroimmunology and Genetic Disorders handles genetic diagnosis for cerebellar atrophy; several movement-disorder society officers are based here."
+    }
+  },
+  {
+    "id": "tzuchi-hl",
+    "name": "花蓮慈濟醫院",
+    "short": "花蓮慈濟",
+    "region": "east",
+    "type": "medical",
+    "note": "細胞治療與再生醫學的臨床轉譯基地；SCA3 天然物與遞送平台研究（與東華大學合作）。",
+    "papers": 9,
+    "url": "https://hlm.tzuchi.com.tw/",
+    "en": {
+      "name": "Hualien Tzu Chi Hospital",
+      "short": "Hualien Tzu Chi",
+      "note": "A translational base for cell therapy and regenerative medicine; runs SCA3 natural-product and delivery-platform research with National Dong Hwa University."
+    }
+  },
+  {
+    "id": "cgmh-linkou",
+    "name": "林口長庚醫院",
+    "short": "林口長庚",
+    "region": "north",
+    "type": "medical",
+    "note": "神經肌肉疾病科診療範圍明列脊髓小腦萎縮症，並有動作障礙科與 polyQ 藥物開發線；與台師大長期合作藥物篩選。",
+    "papers": 5,
+    "url": "https://www.cgmh.org.tw/tw/Systems/BranchInfo/3/33700/33750",
+    "en": {
+      "name": "Chang Gung Memorial Hospital, Linkou",
+      "short": "CGMH Linkou",
+      "note": "The neuromuscular division's listed scope explicitly includes spinocerebellar ataxia; also hosts a movement disorders division and a polyQ drug-development line with long-running NTNU collaboration."
+    }
+  },
+  {
+    "id": "cgmh-ks",
+    "name": "高雄長庚醫院",
+    "short": "高雄長庚",
+    "region": "south",
+    "type": "medical",
+    "note": "南台灣遺傳性共濟失調的世代收案與罕見亞型定性；另有動作障礙醫師群。",
+    "papers": 3,
+    "url": "https://www.cgmh.org.tw/",
+    "en": {
+      "name": "Kaohsiung Chang Gung Memorial Hospital",
+      "short": "KCGMH",
+      "note": "Cohort recruitment and rare-subtype characterisation for hereditary ataxia in southern Taiwan, alongside a group of movement-disorder clinicians."
+    }
+  },
+  {
+    "id": "vghtc",
+    "name": "台中榮總",
+    "short": "台中榮總",
+    "region": "central",
+    "type": "medical",
+    "note": "一般神經科提供小腦脊髓萎縮退化症的諮詢、基因送檢與藥物治療。",
+    "papers": 5,
+    "url": "https://www.vghtc.gov.tw/",
+    "en": {
+      "name": "Taichung Veterans General Hospital",
+      "short": "TCVGH",
+      "note": "General neurology offers consultation, genetic testing referral and pharmacological management for spinocerebellar degeneration."
+    }
+  },
+  {
+    "id": "ncku",
+    "name": "成功大學／成大醫院",
+    "short": "成大",
+    "region": "south",
+    "type": "medical",
+    "note": "基因性神經疾病門診；基礎端有 SCA3 動物模型研究。病友協會 2024 年紀錄載與成大合作 SCA3 基因轉殖鼠基因治療。",
+    "papers": 3,
+    "url": "https://neuro-med.ncku.edu.tw/",
+    "en": {
+      "name": "National Cheng Kung University / NCKUH",
+      "short": "NCKU",
+      "note": "A genetic neurological disease clinic plus basic-science work on SCA3 animal models. The patient association's 2024 record notes a collaboration with NCKU on gene therapy in SCA3 transgenic mice."
+    }
+  },
+  {
+    "id": "sinica",
+    "name": "中央研究院生物醫學科學研究所",
+    "short": "中研院生醫所",
+    "region": "north",
+    "type": "academic",
+    "note": "神經退化基礎研究的制度性節點；台大潘明楷於此合聘。",
+    "papers": 3,
+    "url": "https://www.ibms.sinica.edu.tw/",
+    "en": {
+      "name": "Institute of Biomedical Sciences, Academia Sinica",
+      "short": "IBMS",
+      "note": "The institutional node for basic neurodegeneration research; NTU's Ming-Kai Pan holds a joint appointment here."
+    }
+  },
+  {
+    "id": "tmu",
+    "name": "台北醫學大學體系",
+    "short": "北醫",
+    "region": "north",
+    "type": "medical",
+    "note": "宋秉文教授晚年任職於此體系（雙和醫院、台北神經醫學中心）；現有動作障礙學會理事長。",
+    "papers": 6,
+    "url": "https://shh.tmu.edu.tw/",
+    "en": {
+      "name": "Taipei Medical University system",
+      "short": "TMU",
+      "note": "Where Professor Bing-Wen Soong worked in his final years (Shuang Ho Hospital and Taipei Neuroscience Institute); currently home to the movement-disorder society's president."
+    }
+  },
+  {
+    "id": "cgu",
+    "name": "長庚大學物理治療學系",
+    "short": "長庚大學",
+    "region": "north",
+    "type": "academic",
+    "note": "台灣 SCA 復健介入登錄試驗最多的團隊（4 件）。",
+    "papers": 1,
+    "url": "https://www.cgu.edu.tw/pt",
+    "en": {
+      "name": "Department of Physical Therapy, Chang Gung University",
+      "short": "CGU",
+      "note": "The most prolific registered-trial group for SCA rehabilitation interventions in Taiwan (four trials)."
+    }
+  },
+  {
+    "id": "ntnu",
+    "name": "國立台灣師範大學",
+    "short": "台師大",
+    "region": "north",
+    "type": "academic",
+    "note": "polyQ 疾病細胞模型藥物篩選；SCA17 小鼠模型來源。",
+    "papers": 4,
+    "url": "https://www.ntnu.edu.tw/",
+    "en": {
+      "name": "National Taiwan Normal University",
+      "short": "NTNU",
+      "note": "Drug screening in polyQ cell models; the source of the SCA17 mouse model."
+    }
+  },
+  {
+    "id": "thu",
+    "name": "東海大學",
+    "short": "東海",
+    "region": "central",
+    "type": "academic",
+    "note": "SCA3 氧化壓力與代謝機轉；彰基團隊的長期學界夥伴。",
+    "papers": 5,
+    "url": "https://www.thu.edu.tw/",
+    "en": {
+      "name": "Tunghai University",
+      "short": "THU",
+      "note": "Oxidative stress and metabolism in SCA3; a long-standing academic partner of the CCH group."
+    }
+  },
+  {
+    "id": "ndhu",
+    "name": "國立東華大學",
+    "short": "東華",
+    "region": "east",
+    "type": "academic",
+    "note": "當歸萃取物與外泌體遞送治療 SCA3；與花蓮慈濟合作。",
+    "papers": 4,
+    "url": "https://www.ndhu.edu.tw/",
+    "en": {
+      "name": "National Dong Hwa University",
+      "short": "NDHU",
+      "note": "Angelica-extract and exosome delivery approaches in SCA3, in collaboration with Hualien Tzu Chi."
+    }
+  },
+  {
+    "id": "tzuchi-tc",
+    "name": "台中慈濟醫院",
+    "short": "台中慈濟",
+    "region": "central",
+    "type": "medical",
+    "note": "小腦疾病與平衡障礙門診。",
+    "papers": 0,
+    "url": "https://taichung.tzuchi.com.tw/",
+    "en": {
+      "name": "Taichung Tzu Chi Hospital",
+      "short": "Taichung Tzu Chi",
+      "note": "A clinic for cerebellar disease and balance disorders."
+    }
+  }
+]

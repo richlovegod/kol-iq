@@ -1,0 +1,106 @@
+[
+  {
+    "id": "tscaa",
+    "name": "中華小腦萎縮症病友協會（企鵝家族）",
+    "type": "patient",
+    "url": "https://www.tscaa.org.tw/",
+    "lead": "理事長林秀成（第九屆，2024–2027）",
+    "note": "2001 年在宋秉文教授鼓勵與協助下成立，服務近 1,000 名病友、約 500 戶家庭，每年 7 月 2 日為「企鵝日」。近年醫學推動包括贊助醫師出國參加小腦研究會議、與藥廠接洽將 SCA 納入研究、與學術單位合作基因治療研究，並推出病友 Podcast。官網未公開現任醫療顧問名單。",
+    "en": {
+      "name": "Taiwan Spinocerebellar Ataxia Association",
+      "lead": "President Hsiu-Cheng Lin (9th term, 2024–2027)",
+      "note": "Founded in 2001 with the encouragement and help of Professor Bing-Wen Soong, serving close to 1,000 patients and around 500 families, with 2 July each year as its awareness day. Recent medical activity includes sponsoring physicians to attend cerebellar research meetings abroad, approaching pharmaceutical companies about including SCA in research, academic collaborations on gene therapy, and launching a patient podcast. The site does not publish a current medical advisory roster."
+    }
+  },
+  {
+    "id": "snerd",
+    "name": "台灣神經罕見疾病學會（SNERD）",
+    "type": "society",
+    "url": "https://www.snerdtaiwan.org/node/43",
+    "lead": "理事長陳瓊美（2025-09～2028-09）；副理事長楊尚訓、孫苑庭；常務監事劉祐岑",
+    "note": "由宋秉文教授於 2016 年創立。理監事群涵蓋本平台多位核心人物，是 SCA 在台灣最對口的學會場域。2026-09-19 年會於台中金典酒店舉行，主題聚焦神經罕見疾病之致病機轉、診斷與先進治療發展。",
+    "en": {
+      "name": "Society for Neurological Rare Disorders–Taiwan",
+      "lead": "President Chiung-Mei Chen (Sept 2025 – Sept 2028); Vice-presidents Shang-Hsun Yang and Yuan-Ting Sun; standing supervisor Yo-Tsen Liu",
+      "note": "Founded by Professor Bing-Wen Soong in 2016. Its board includes several people tracked here, making it the most directly relevant society venue for SCA in Taiwan. The 2026 annual meeting is on 19 September at the Splendor Hotel, Taichung, focusing on pathogenesis, diagnosis and advanced therapies for rare neurological disease."
+    }
+  },
+  {
+    "id": "tmds",
+    "name": "台灣動作障礙學會（TMDS）",
+    "type": "society",
+    "url": "https://www.tmds.org.tw/about/index_3.asp",
+    "lead": "理事長葉篤學；常務理事戴春暉、蔣漢琳；常務監事林靜嫻；監事吳瑞美、陸清松",
+    "note": "第十屆任期 2025-02 至 2027-02。理事群涵蓋各大醫學中心動作障礙醫師，是 SCA 症狀治療端最廣的專科網絡。2026-11-06～08 主辦第八屆 TIC-PDMD 國際會議。",
+    "en": {
+      "name": "Taiwan Movement Disorder Society",
+      "lead": "President Tu-Hsueh Yeh; standing board members Chun-Hwei Tai and Han-Lin Chiang; standing supervisor Chin-Hsien Lin; supervisors Ruey-Meei Wu and Chin-Song Lu",
+      "note": "The 10th term runs February 2025 to February 2027. Its board spans movement-disorder clinicians at every major medical centre — the broadest specialty network on the symptomatic-care side of SCA. It hosts the 8th TIC-PDMD international congress on 6–8 November 2026."
+    }
+  },
+  {
+    "id": "tns",
+    "name": "台灣神經學學會（TNS）",
+    "type": "society",
+    "url": "https://www.neuro.org.tw/",
+    "lead": "設 13 個學組，含神經基因學組（宋秉文為創始主委）與動作障礙學組",
+    "note": "2025-12 公告健康台灣深耕計畫，每年補助 10 名 SCA 患者全基因體定序，並要求獲補助醫師於神經基因學組研討會分享病例——這是台灣新增的 SCA 疑難個案診斷管道。官網未載現任理事長姓名。",
+    "en": {
+      "name": "Taiwan Neurological Society",
+      "lead": "Thirteen sections, including neurogenetics (founded by Bing-Wen Soong) and movement disorders",
+      "note": "In December 2025 it announced a national programme funding whole-genome sequencing for ten SCA patients a year, requiring funded physicians to present cases at the neurogenetics section meeting — a new diagnostic route for difficult SCA cases in Taiwan. The site does not name the current president."
+    }
+  },
+  {
+    "id": "trdrc",
+    "name": "台灣罕見疾病研究暨照護學會",
+    "type": "society",
+    "url": "https://www.trdrc.org.tw/",
+    "lead": "理事長劉青山",
+    "note": "2025-11-22 年會「Rare Disease Dawn」；自述關注小腦萎縮症等神經罕病照護。",
+    "en": {
+      "name": "Taiwan Rare Disease Research & Care Society",
+      "lead": "President Chin-San Liu",
+      "note": "Its 2025 annual meeting, 'Rare Disease Dawn', ran on 22 November; the society states an interest in care for neurological rare diseases including cerebellar atrophy."
+    }
+  },
+  {
+    "id": "brainbank",
+    "name": "臺灣腦庫協會",
+    "type": "resource",
+    "url": "https://www.brainbank.tw/",
+    "lead": "理事長謝松蒼",
+    "note": "2023-11-05 於台大醫學院揭牌，為台灣首座腦庫。至 2024-08 已有 8 人完成捐贈，其中包含小腦萎縮症病友，是 SCA 神經病理研究的組織來源。小腦萎縮症病友協會為主要推動病團之一。",
+    "en": {
+      "name": "Taiwan Brain Bank Association",
+      "lead": "President Sung-Tsang Hsieh",
+      "note": "Opened at NTU College of Medicine on 5 November 2023 as Taiwan's first brain bank. By August 2024 eight donations were complete, including patients with cerebellar atrophy — the tissue source for SCA neuropathology. The SCA patient association is among its main advocating groups."
+    }
+  },
+  {
+    "id": "tfrd",
+    "name": "罕見疾病基金會（TFRD）",
+    "type": "patient",
+    "url": "https://www.tfrd.org.tw/",
+    "lead": "—",
+    "note": "疾病資料庫收錄 SCA（該頁為 2000 年舊文，作者宋秉文）；2023、2024 舉辦全台罕病家庭預立醫療照護諮商。SCA 專場講座之講者名單查無。",
+    "en": {
+      "name": "Taiwan Foundation for Rare Disorders",
+      "lead": "—",
+      "note": "Its disease library includes SCA (a page from 2000 written by Bing-Wen Soong); it ran nationwide advance-care-planning consultations for rare-disease families in 2023 and 2024. No speaker roster for SCA-specific events was found."
+    }
+  },
+  {
+    "id": "tpidb",
+    "name": "台灣臨床試驗主持人資料庫（TPIDB）",
+    "type": "resource",
+    "url": "https://tpidb.taiwanclinicaltrials.tw/",
+    "lead": "—",
+    "note": "官方主持人與試驗履歷查詢系統。本平台多筆主持人資訊來自此處——ClinicalTrials.gov 未列主持人的台灣試驗，可在此查得完整主持團隊。",
+    "en": {
+      "name": "Taiwan Principal Investigator Database",
+      "lead": "—",
+      "note": "The official registry of investigators and their trial histories. Several investigator records here come from this source: for Taiwanese trials where ClinicalTrials.gov lists no investigators, the full team can often be found here."
+    }
+  }
+]

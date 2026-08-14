@@ -1,0 +1,350 @@
+[
+  {
+    "nct": "NCT06633003",
+    "title": "牛樟芝口服製品對 SCA 病人臨床症狀之影響",
+    "sponsor": "浩峰生技 ALPS Biotech",
+    "phase": "NA（食品級介入）",
+    "status": "收案中",
+    "statusKind": "active",
+    "intervention": "牛樟芝產品，隨機雙盲交叉設計",
+    "site": "台大癌醫中心分院（台北）",
+    "pi": [
+      {
+        "name": "郭明哲",
+        "id": "kuo-ming-che",
+        "role": "主持人"
+      }
+    ],
+    "years": "2024-09 – 2027-08（估）",
+    "n": "60（預估）",
+    "note": "台灣目前唯一進行中的 SCA 介入試驗。",
+    "en": {
+      "title": "Effects of oral Antrodia cinnamomea products on clinical symptoms in SCA patients",
+      "sponsor": "ALPS Biotech",
+      "phase": "NA (food-grade intervention)",
+      "status": "Recruiting",
+      "intervention": "Antrodia cinnamomea product, randomised double-blind crossover",
+      "site": "NTU Cancer Center (Taipei)",
+      "note": "The only SCA interventional trial currently enrolling in Taiwan."
+    }
+  },
+  {
+    "nct": "NCT06600269",
+    "title": "以踩車為基礎的先導協調訓練對 SCA 的效果",
+    "sponsor": "長庚大學",
+    "phase": "NA",
+    "status": "收案中",
+    "statusKind": "active",
+    "intervention": "協調訓練",
+    "site": "長庚大學（桃園）",
+    "pi": [
+      {
+        "name": "張雅如",
+        "id": "chang-ya-ju",
+        "role": "主持人"
+      }
+    ],
+    "years": "2024 – 2026",
+    "n": "—",
+    "note": "",
+    "en": {
+      "title": "Cycling-based priming coordination training in SCA",
+      "sponsor": "Chang Gung University",
+      "phase": "NA",
+      "status": "Recruiting",
+      "intervention": "Coordination training",
+      "site": "Chang Gung University (Taoyuan)",
+      "note": ""
+    }
+  },
+  {
+    "nct": "NCT02540655",
+    "title": "Stemchymal® 於多聚麩醯胺酸型脊髓小腦運動失調症之療效與安全性",
+    "sponsor": "仲恩生醫 Steminent",
+    "phase": "Ph2",
+    "status": "已完成",
+    "statusKind": "done",
+    "intervention": "異體脂肪間質幹細胞靜脈輸注 vs 賦形劑安慰劑",
+    "site": "台北榮民總醫院（單一中心）",
+    "pi": [
+      {
+        "name": "宋秉文",
+        "id": "soong-bing-wen",
+        "role": "主持人（已故）"
+      },
+      {
+        "name": "廖翊筑",
+        "id": "liao-yi-chu",
+        "role": "共同主持人"
+      },
+      {
+        "name": "劉祐岑",
+        "id": "liu-yo-tsen",
+        "role": "共同主持人"
+      }
+    ],
+    "years": "2015-09 – 2021-02",
+    "n": "56",
+    "note": "ClinicalTrials.gov 未列主持人；主持團隊（1 位主持人＋16 位共同主持人）依台灣臨床試驗主持人資料庫 TPIDB 登錄。試驗結果查無同儕審查論文，公開資訊來自公司與 REPROCELL 發布及 2025-04 全球孤兒藥大會發表。",
+    "en": {
+      "title": "Efficacy and safety of Stemchymal® in polyglutamine spinocerebellar ataxia",
+      "sponsor": "Steminent Biotherapeutics",
+      "phase": "Phase 2",
+      "status": "Completed",
+      "intervention": "Allogeneic adipose MSC intravenous infusion vs vehicle placebo",
+      "site": "Taipei Veterans General Hospital (single centre)",
+      "note": "ClinicalTrials.gov lists no investigators; the team (one PI and 16 co-investigators) is recorded in Taiwan's official principal-investigator database (TPIDB). No peer-reviewed publication of the results was found — public information comes from company and REPROCELL releases and a presentation at the World Orphan Drug Congress in April 2025."
+    }
+  },
+  {
+    "nct": "NCT01649687",
+    "title": "以間質幹細胞治療小腦運動失調",
+    "sponsor": "國立陽明交通大學",
+    "phase": "Ph1/2",
+    "status": "已完成",
+    "statusKind": "done",
+    "intervention": "異體脂肪間質幹細胞靜脈輸注（單劑）",
+    "site": "台北榮民總醫院",
+    "pi": [
+      {
+        "name": "李光申",
+        "id": "lee-oscar",
+        "role": "主持人"
+      }
+    ],
+    "years": "2012-05 – 2014-01",
+    "n": "7（6 例 SCA3、1 例 MSA-C）",
+    "note": "Stemchymal 技術路線的學術起點；結果論文 2017 年刊於《Cell Transplantation》。",
+    "en": {
+      "title": "Treatment of cerebellar ataxia with mesenchymal stem cells",
+      "sponsor": "National Yang Ming Chiao Tung University",
+      "phase": "Phase 1/2",
+      "status": "Completed",
+      "intervention": "Allogeneic adipose MSC, single intravenous dose",
+      "site": "Taipei Veterans General Hospital",
+      "n": "7 (6 SCA3, 1 MSA-C)",
+      "note": "The academic starting point of the Stemchymal line; results published in Cell Transplantation in 2017."
+    }
+  },
+  {
+    "nct": "NCT06672445",
+    "title": "ARO-ATXN2 注射劑用於成人 SCA2",
+    "sponsor": "Arrowhead Pharmaceuticals（與 Sarepta 合作）",
+    "phase": "Ph1",
+    "status": "收案結束",
+    "statusKind": "closed",
+    "intervention": "ARO-ATXN2（RNAi），鞘內單劑 vs 生理食鹽水",
+    "site": "台灣兩站：台北、高雄（登錄匿名化為 Research Site 5／6）",
+    "pi": [],
+    "years": "2024-12 – 2026-12（估）",
+    "n": "—",
+    "note": "registry 未列主持人，台灣站點醫院名稱亦刻意匿名化，本平台不作推測。全球共 16 站（澳、加、法、德、義、紐、西、台）。",
+    "en": {
+      "title": "ARO-ATXN2 injection in adults with spinocerebellar ataxia type 2",
+      "sponsor": "Arrowhead Pharmaceuticals (with Sarepta)",
+      "phase": "Phase 1",
+      "status": "Enrolment closed",
+      "intervention": "ARO-ATXN2 (RNAi), single intrathecal dose vs saline",
+      "site": "Two Taiwanese sites, Taipei and Kaohsiung (anonymised in the registry as Research Site 5/6)",
+      "note": "The registry lists no investigators and deliberately anonymises the Taiwanese site names; this platform does not speculate. Sixteen sites globally (Australia, Canada, France, Germany, Italy, New Zealand, Spain, Taiwan)."
+    }
+  },
+  {
+    "nct": "NCT05038306",
+    "title": "中藥 WT 用於第三型脊髓小腦運動失調症",
+    "sponsor": "彰化基督教醫院",
+    "phase": "Ph2",
+    "status": "已完成",
+    "statusKind": "done",
+    "intervention": "中藥 WT 濃縮粉 3g bid，12 週交叉設計",
+    "site": "彰化基督教醫院",
+    "pi": [
+      {
+        "name": "邱重閔",
+        "id": "chiu-chung-min",
+        "role": "主持人"
+      }
+    ],
+    "years": "2021-05 – 2022-09",
+    "n": "—",
+    "note": "",
+    "en": {
+      "title": "Chinese medicine WT for spinocerebellar ataxia type 3",
+      "sponsor": "Changhua Christian Hospital",
+      "phase": "Phase 2",
+      "status": "Completed",
+      "intervention": "Concentrated herbal formula WT 3 g twice daily, 12-week crossover",
+      "site": "Changhua Christian Hospital",
+      "note": ""
+    }
+  },
+  {
+    "nct": "NCT05973019",
+    "title": "rTMS 改善脊髓小腦運動失調症之功能",
+    "sponsor": "彰化基督教醫院",
+    "phase": "NA",
+    "status": "狀態未更新（UNKNOWN）",
+    "statusKind": "unknown",
+    "intervention": "高頻 rTMS 10Hz × 12 次（SCA3）",
+    "site": "彰化基督教醫院",
+    "pi": [
+      {
+        "name": "劉森永",
+        "id": "liu-sen-yung",
+        "role": "主持人"
+      }
+    ],
+    "years": "2023-09 – 2024-08",
+    "n": "—",
+    "note": "登錄狀態為 UNKNOWN，最終結果未張貼。",
+    "en": {
+      "title": "rTMS improves functions in spinocerebellar ataxia",
+      "sponsor": "Changhua Christian Hospital",
+      "phase": "NA",
+      "status": "Registry status UNKNOWN",
+      "intervention": "High-frequency rTMS, 10 Hz × 12 sessions (SCA3)",
+      "site": "Changhua Christian Hospital",
+      "note": "The registry status reads UNKNOWN and no results have been posted."
+    }
+  },
+  {
+    "nct": "NCT03901638",
+    "title": "Tllsh2910 用於多系統萎縮症之共濟失調與腸道菌相",
+    "sponsor": "台大醫院",
+    "phase": "Ph3",
+    "status": "已終止",
+    "statusKind": "stopped",
+    "intervention": "Tllsh2910（NMDA 調節劑）vs 安慰劑",
+    "site": "台大醫院",
+    "pi": [
+      {
+        "name": "戴春暉",
+        "id": "tai-chun-hwei",
+        "role": "主持人"
+      }
+    ],
+    "years": "2019-04 – 2023-04",
+    "n": "18（實收）",
+    "note": "因疫情收案困難與計畫重整而終止。屬 MSA-C，非 SCA，收錄作為鄰近適應症參照。",
+    "en": {
+      "title": "Tllsh2910 for ataxia and gut microbiota in multiple system atrophy",
+      "sponsor": "National Taiwan University Hospital",
+      "phase": "Phase 3",
+      "status": "Terminated",
+      "intervention": "Tllsh2910 (NMDA modulator) vs placebo",
+      "site": "National Taiwan University Hospital",
+      "n": "18 enrolled",
+      "note": "Terminated after pandemic-related enrolment difficulty and programme restructuring. This is MSA-C rather than SCA, included as an adjacent-indication reference."
+    }
+  },
+  {
+    "nct": "NCT06363058",
+    "title": "電刺激踩車訓練對 SCA 的效果",
+    "sponsor": "長庚大學",
+    "phase": "NA",
+    "status": "已完成",
+    "statusKind": "done",
+    "intervention": "電刺激併踩車訓練",
+    "site": "長庚大學（桃園）",
+    "pi": [
+      {
+        "name": "張雅如",
+        "id": "chang-ya-ju",
+        "role": "主持人"
+      }
+    ],
+    "years": "2022 – 2025",
+    "n": "—",
+    "note": "",
+    "en": {
+      "title": "Electrical stimulation cycling training effects on SCA",
+      "sponsor": "Chang Gung University",
+      "phase": "NA",
+      "status": "Completed",
+      "intervention": "Electrical stimulation with cycling training",
+      "site": "Chang Gung University (Taoyuan)",
+      "note": ""
+    }
+  },
+  {
+    "nct": "NCT01983631",
+    "title": "全身震動訓練用於脊髓小腦運動失調症",
+    "sponsor": "長庚大學",
+    "phase": "NA",
+    "status": "已完成",
+    "statusKind": "done",
+    "intervention": "全身震動訓練",
+    "site": "長庚大學（桃園）",
+    "pi": [
+      {
+        "name": "張雅如",
+        "id": "chang-ya-ju",
+        "role": "主持人"
+      }
+    ],
+    "years": "2011 – 2013",
+    "n": "—",
+    "note": "相關成果於 2025 年發表於《NeuroRehabilitation》。",
+    "en": {
+      "title": "Whole body vibration training in spinocerebellar ataxia",
+      "sponsor": "Chang Gung University",
+      "phase": "NA",
+      "status": "Completed",
+      "intervention": "Whole-body vibration training",
+      "site": "Chang Gung University (Taoyuan)",
+      "note": "Related results were published in NeuroRehabilitation in 2025."
+    }
+  },
+  {
+    "nct": "NCT01983670",
+    "title": "前饋式復健用於辨距不良",
+    "sponsor": "長庚大學",
+    "phase": "NA",
+    "status": "已完成",
+    "statusKind": "done",
+    "intervention": "前饋式復健訓練",
+    "site": "長庚大學（桃園）",
+    "pi": [
+      {
+        "name": "張雅如",
+        "id": "chang-ya-ju",
+        "role": "主持人"
+      }
+    ],
+    "years": "2009 – 2012",
+    "n": "—",
+    "note": "",
+    "en": {
+      "title": "Feedforward rehabilitation in hypermetria",
+      "sponsor": "Chang Gung University",
+      "phase": "NA",
+      "status": "Completed",
+      "intervention": "Feedforward rehabilitation training",
+      "site": "Chang Gung University (Taoyuan)",
+      "note": ""
+    }
+  },
+  {
+    "nct": "NCT03629015",
+    "title": "Stemchymal® 用於急性肝衰竭之安全性",
+    "sponsor": "仲恩生醫 Steminent",
+    "phase": "Ph1",
+    "status": "已撤回",
+    "statusKind": "stopped",
+    "intervention": "異體脂肪間質幹細胞",
+    "site": "台北榮民總醫院",
+    "pi": [],
+    "years": "2018-10 – 2020-05",
+    "n": "—",
+    "note": "非 SCA 適應症，收錄以完整呈現該藥在台灣的登錄紀錄。registry 未列主持人。",
+    "en": {
+      "title": "Safety study of Stemchymal® in acute liver failure",
+      "sponsor": "Steminent Biotherapeutics",
+      "phase": "Phase 1",
+      "status": "Withdrawn",
+      "intervention": "Allogeneic adipose MSC",
+      "site": "Taipei Veterans General Hospital",
+      "note": "Not an SCA indication; included for a complete picture of the product's Taiwanese registry record. No investigators listed."
+    }
+  }
+]

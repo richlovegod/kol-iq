@@ -1,0 +1,4385 @@
+[
+  {
+    "id": "lee-yi-chung",
+    "name": "李宜中",
+    "enName": "Yi-Chung Lee",
+    "tier": 1,
+    "region": "north",
+    "org": "台北榮總／陽明交大",
+    "orgId": "tvgh",
+    "title": "神經醫學中心周邊神經科主任、陽明交大神經學科教授",
+    "cluster": "tvgh-genetics",
+    "roles": [
+      "clinical",
+      "genetics"
+    ],
+    "subtypes": [
+      "SCA1",
+      "SCA2",
+      "SCA3",
+      "SCA6",
+      "SCA48",
+      "罕見亞型"
+    ],
+    "focus": "台灣 SCA 世代的基因診斷與新致病基因發現；主導全國最大規模的 SCA 基因確診世代研究。",
+    "pubs": 11,
+    "pubNote": "2021–2026；其中資深／通訊作者 7 篇",
+    "highlights": [
+      {
+        "year": "2025",
+        "text": "《Parkinsonism & Related Disorders》台灣 876 例基因確診 SCA 世代：SCA3 佔 56.6%、SCA2 20.0%、SCA6 10.3%——迄今台灣最完整的亞型分布基準（通訊作者）",
+        "link": {
+          "label": "PubMed 41082794",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41082794/"
+        }
+      },
+      {
+        "year": "2025",
+        "text": "《Ann Clin Transl Neurol》ITM2B 相關運動失調於台灣小腦失調世代（通訊作者）",
+        "link": {
+          "label": "PubMed 39625954",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/39625954/"
+        }
+      },
+      {
+        "year": "2024",
+        "text": "《Movement Disorders》THAP11 CAG 重複擴增於台灣世代罕見或不存在（通訊作者）",
+        "link": {
+          "label": "PubMed 38757579",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38757579/"
+        }
+      },
+      {
+        "year": "2021",
+        "text": "《J Neurol Sci》AFG3L2 晚發型隱性小腦失調之表型擴展（通訊作者）",
+        "link": {
+          "label": "PubMed 34333379",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/34333379/"
+        }
+      }
+    ],
+    "recent": [],
+    "trialRoles": [],
+    "society": "台灣神經學學會理事；台灣神經罕見疾病學會（SNERD）第一屆監事",
+    "channel": {
+      "label": "台北榮總周邊神經科",
+      "url": "https://wd.vghtpe.gov.tw/vghneuro/Fpage.action?muid=3&fid=1148"
+    },
+    "sources": [
+      {
+        "label": "台北榮總醫師介紹",
+        "url": "https://wd.vghtpe.gov.tw/vghneuro/Fpage.action?muid=3&fid=1148"
+      }
+    ],
+    "en": {
+      "org": "Taipei Veterans General Hospital / NYCU",
+      "title": "Chief, Division of Peripheral Nerve Disorders; Professor of Neurology, NYCU",
+      "focus": "Genetic diagnosis and novel-gene discovery in Taiwan's SCA cohorts; leads the largest genetically confirmed SCA cohort study in Taiwan.",
+      "pubNote": "2021–2026; senior/corresponding author on 7",
+      "subtypes": [
+        "SCA1",
+        "SCA2",
+        "SCA3",
+        "SCA6",
+        "SCA48",
+        "rare subtypes"
+      ],
+      "highlights": [
+        {
+          "year": "2025",
+          "text": "Parkinsonism & Related Disorders — the genetic landscape of SCA in Taiwan across 876 genetically confirmed cases: SCA3 56.6%, SCA2 20.0%, SCA6 10.3%, the most complete subtype baseline for Taiwan to date (corresponding author)",
+          "link": {
+            "label": "PubMed 41082794",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41082794/"
+          }
+        },
+        {
+          "year": "2025",
+          "text": "Ann Clin Transl Neurol — ITM2B-associated ataxia in a Taiwanese cerebellar ataxia cohort (corresponding author)",
+          "link": {
+            "label": "PubMed 39625954",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39625954/"
+          }
+        },
+        {
+          "year": "2024",
+          "text": "Movement Disorders — THAP11 CAG repeat expansion is rare or absent in the Taiwanese cohort (corresponding author)",
+          "link": {
+            "label": "PubMed 38757579",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38757579/"
+          }
+        },
+        {
+          "year": "2021",
+          "text": "J Neurol Sci — phenotypic expansion of AFG3L2 late-onset recessive ataxia (corresponding author)",
+          "link": {
+            "label": "PubMed 34333379",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34333379/"
+          }
+        }
+      ],
+      "society": "Board member, Taiwan Neurological Society; Supervisor (1st term), SNERD",
+      "channel": {
+        "label": "TVGH Peripheral Nerve Division",
+        "url": "https://wd.vghtpe.gov.tw/vghneuro/Fpage.action?muid=3&fid=1148"
+      }
+    }
+  },
+  {
+    "id": "chen-chiung-mei",
+    "name": "陳瓊美",
+    "enName": "Chiung-Mei Chen",
+    "tier": 1,
+    "region": "north",
+    "org": "林口長庚醫院／長庚大學",
+    "orgId": "cgmh-linkou",
+    "title": "神經內科（神經肌肉疾病科）教授級主治醫師",
+    "cluster": "cgmh-polyq",
+    "roles": [
+      "clinical",
+      "genetics",
+      "research",
+      "society"
+    ],
+    "subtypes": [
+      "SCA3",
+      "polyQ"
+    ],
+    "focus": "polyQ 疾病（SCA3 與亨丁頓舞蹈症）的藥物開發與神經遺傳門診；長庚神經肌肉疾病科診療範圍明列脊髓小腦萎縮症。",
+    "pubs": 3,
+    "pubNote": "2021–2026 SCA 相關；另有多篇 polyQ／亨丁頓論文",
+    "highlights": [
+      {
+        "year": "2024",
+        "text": "《Int J Mol Sci》小分子誘導突變 ATXN3 自噬降解（通訊作者）",
+        "link": {
+          "label": "PubMed 39409036",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/39409036/"
+        }
+      },
+      {
+        "year": "2024",
+        "text": "《Eur J Pharmacol》SCA3 之 IL-1β／IL-6 抗發炎化合物",
+        "link": {
+          "label": "PubMed 38320719",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38320719/"
+        }
+      },
+      {
+        "year": "2022",
+        "text": "《Brain Sciences》SETX 隱性小腦失調台灣個案（通訊作者）",
+        "link": {
+          "label": "PubMed 35203940",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/35203940/"
+        }
+      }
+    ],
+    "recent": [
+      {
+        "date": "2025-09",
+        "text": "接任台灣神經罕見疾病學會（SNERD）第四屆理事長，任期至 2028-09",
+        "link": {
+          "label": "SNERD 理監事",
+          "url": "https://www.snerdtaiwan.org/node/43"
+        }
+      }
+    ],
+    "trialRoles": [],
+    "society": "台灣神經罕見疾病學會（SNERD）現任理事長（2025-09～2028-09）",
+    "channel": {
+      "label": "林口長庚神經肌肉疾病科",
+      "url": "https://www.cgmh.org.tw/tw/Systems/BranchInfo/3/33700/33750"
+    },
+    "sources": [
+      {
+        "label": "SNERD 理監事名單",
+        "url": "https://www.snerdtaiwan.org/node/43"
+      },
+      {
+        "label": "長庚神經肌肉疾病科",
+        "url": "https://www.cgmh.org.tw/tw/Systems/BranchInfo/3/33700/33750"
+      }
+    ],
+    "en": {
+      "org": "Chang Gung Memorial Hospital, Linkou / Chang Gung University",
+      "title": "Professor-level Attending Neurologist, Neuromuscular Division",
+      "focus": "Drug development for polyQ diseases (SCA3 and Huntington's) alongside a neurogenetics clinic; the division's listed scope explicitly includes spinocerebellar ataxia.",
+      "pubNote": "SCA-related, 2021–2026; additional polyQ/HD papers",
+      "subtypes": [
+        "SCA3",
+        "polyQ"
+      ],
+      "highlights": [
+        {
+          "year": "2024",
+          "text": "Int J Mol Sci — small molecules inducing autophagic degradation of mutant ATXN3 (corresponding author)",
+          "link": {
+            "label": "PubMed 39409036",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39409036/"
+          }
+        },
+        {
+          "year": "2024",
+          "text": "Eur J Pharmacol — anti-inflammatory compounds targeting IL-1β/IL-6 in SCA3",
+          "link": {
+            "label": "PubMed 38320719",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38320719/"
+          }
+        },
+        {
+          "year": "2022",
+          "text": "Brain Sciences — SETX recessive cerebellar ataxia in Taiwanese cases (corresponding author)",
+          "link": {
+            "label": "PubMed 35203940",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35203940/"
+          }
+        }
+      ],
+      "recent": [
+        {
+          "date": "2025-09",
+          "text": "Became President (4th term) of the Society for Neurological Rare Disorders–Taiwan (SNERD), through September 2028",
+          "link": {
+            "label": "SNERD board",
+            "url": "https://www.snerdtaiwan.org/node/43"
+          }
+        }
+      ],
+      "society": "President, SNERD (Sept 2025 – Sept 2028)",
+      "channel": {
+        "label": "CGMH Linkou, Neuromuscular Division",
+        "url": "https://www.cgmh.org.tw/tw/Systems/BranchInfo/3/33700/33750"
+      }
+    }
+  },
+  {
+    "id": "liu-chin-san",
+    "name": "劉青山",
+    "enName": "Chin-San Liu",
+    "tier": 1,
+    "region": "central",
+    "org": "彰化基督教醫院",
+    "orgId": "cch",
+    "title": "神經醫學部主治醫師；血管暨基因體研究中心",
+    "cluster": "cch-therapeutics",
+    "roles": [
+      "clinical",
+      "research",
+      "society"
+    ],
+    "subtypes": [
+      "SCA3"
+    ],
+    "focus": "SCA3 的粒線體與代謝生物標記、營養與小分子介入；手上有臨床世代可支撐生物標記驗證。",
+    "pubs": 13,
+    "pubNote": "2021–2026 全台單一研究者最多；通訊／資深作者 8 篇",
+    "highlights": [
+      {
+        "year": "2026",
+        "text": "《Exp Ther Med》IGFBP1 作為 SCA3 代謝—神經退化生物標記（通訊作者）",
+        "link": {
+          "label": "PubMed 41756352",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41756352/"
+        }
+      },
+      {
+        "year": "2023",
+        "text": "《Orphanet J Rare Dis》握力作為 SCA3 病程預測指標（通訊作者）",
+        "link": {
+          "label": "PubMed 37817286",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/37817286/"
+        }
+      },
+      {
+        "year": "2022",
+        "text": "《Nutrients》輔酶 Q10 減少 ATXN3 polyQ 堆積、改善 SCA3 小鼠運動功能（通訊作者）",
+        "link": {
+          "label": "PubMed 36079853",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/36079853/"
+        }
+      },
+      {
+        "year": "2025",
+        "text": "《Acta Neurologica Taiwanica》台灣脊髓小腦運動失調症回顧（共同作者）",
+        "link": {
+          "label": "PubMed 40471914",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40471914/"
+        }
+      }
+    ],
+    "recent": [],
+    "trialRoles": [],
+    "society": "台灣罕見疾病研究暨照護學會理事長；SNERD 第二屆理事長、現任理事",
+    "channel": {
+      "label": "彰基血管暨基因體研究中心",
+      "url": "https://cchrm.cch.org.tw/cchrm/Teacher!one.action?tid=86"
+    },
+    "sources": [
+      {
+        "label": "彰基研究中心個人頁",
+        "url": "https://cchrm.cch.org.tw/cchrm/Teacher!one.action?tid=86"
+      }
+    ],
+    "en": {
+      "org": "Changhua Christian Hospital",
+      "title": "Attending Neurologist; Vascular & Genomic Research Center",
+      "focus": "Mitochondrial and metabolic biomarkers in SCA3 plus nutritional and small-molecule interventions, backed by a clinical cohort for biomarker validation.",
+      "pubNote": "Most prolific single investigator in Taiwan, 2021–2026; corresponding/senior author on 8",
+      "subtypes": [
+        "SCA3"
+      ],
+      "highlights": [
+        {
+          "year": "2026",
+          "text": "Exp Ther Med — IGFBP1 as a metabolic–neurodegenerative biomarker in SCA3 (corresponding author)",
+          "link": {
+            "label": "PubMed 41756352",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41756352/"
+          }
+        },
+        {
+          "year": "2023",
+          "text": "Orphanet J Rare Dis — handgrip strength as a predictor of SCA3 progression (corresponding author)",
+          "link": {
+            "label": "PubMed 37817286",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37817286/"
+          }
+        },
+        {
+          "year": "2022",
+          "text": "Nutrients — coenzyme Q10 reduces ATXN3 polyQ accumulation and improves motor function in SCA3 mice (corresponding author)",
+          "link": {
+            "label": "PubMed 36079853",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36079853/"
+          }
+        },
+        {
+          "year": "2025",
+          "text": "Acta Neurologica Taiwanica — a review of spinocerebellar ataxias in Taiwan (co-author)",
+          "link": {
+            "label": "PubMed 40471914",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40471914/"
+          }
+        }
+      ],
+      "society": "President, Taiwan Rare Disease Research & Care Society; past President (2nd term) and current board member, SNERD",
+      "channel": {
+        "label": "CCH Vascular & Genomic Research Center",
+        "url": "https://cchrm.cch.org.tw/cchrm/Teacher!one.action?tid=86"
+      }
+    }
+  },
+  {
+    "id": "pan-ming-kai",
+    "name": "潘明楷",
+    "enName": "Ming-Kai Pan",
+    "tier": 1,
+    "region": "north",
+    "org": "台大醫學院／台大醫院；中研院生醫所合聘",
+    "orgId": "ntuh",
+    "title": "藥理學科副教授、醫學研究部主治醫師；台大雲林分院小腦研究中心主持人",
+    "cluster": "ntu-mechanism",
+    "roles": [
+      "research",
+      "clinical"
+    ],
+    "subtypes": [
+      "SCA1",
+      "SCA2",
+      "SCA6",
+      "MSA-C"
+    ],
+    "focus": "小腦神經節律與攀爬纖維迴路的電生理機轉，連結動物模型與病人失調嚴重度；台灣接上美國 ataxia 研究網絡的主要節點。",
+    "pubs": 4,
+    "pubNote": "2021–2026；含 Science Translational Medicine、Nature Biomedical Engineering",
+    "highlights": [
+      {
+        "year": "2025",
+        "text": "《Science Translational Medicine》攀爬纖維去神經化降低小腦節律，是 SCA1／2／6 與 MSA-C 共通的運動失調機轉；化學遺傳學活化可改善小鼠症狀（通訊作者，與哥倫比亞大學 Sheng-Han Kuo 合作）",
+        "link": {
+          "label": "PubMed 40009696",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40009696/"
+        }
+      },
+      {
+        "year": "2025",
+        "text": "《Nature Biomedical Engineering》小腦編碼運動頻率之研究",
+        "link": {
+          "label": "中研院生醫所",
+          "url": "https://www.ibms.sinica.edu.tw/pan-ming-kai/ch/"
+        }
+      },
+      {
+        "year": "2025",
+        "text": "《Ann Clin Transl Neurol》SCA2 認知障礙之小腦—前額葉連結（共同作者）",
+        "link": {
+          "label": "PubMed 40178244",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40178244/"
+        }
+      }
+    ],
+    "recent": [
+      {
+        "date": "2025-02-10",
+        "text": "台大研發處發布新聞稿「找出小腦萎縮症的共通機轉及治療可能性」，說明攀爬纖維退化橫跨多個 SCA 亞型與 MSA-C",
+        "link": {
+          "label": "台大研發處",
+          "url": "https://ord.ntu.edu.tw/w/ordntu/index_news_25021008480368002"
+        }
+      },
+      {
+        "date": "2024-05-15",
+        "text": "小腦共振迴路與顫抖頻率研究獲媒體報導，穿顱交流電刺激可緩解顫抖",
+        "link": {
+          "label": "NOWnews",
+          "url": "https://www.nownews.com/news/6477429"
+        }
+      }
+    ],
+    "trialRoles": [],
+    "society": "",
+    "channel": {
+      "label": "中研院生醫所個人頁",
+      "url": "https://www.ibms.sinica.edu.tw/pan-ming-kai/ch/"
+    },
+    "sources": [
+      {
+        "label": "中研院生醫所",
+        "url": "https://www.ibms.sinica.edu.tw/pan-ming-kai/ch/"
+      },
+      {
+        "label": "Pan Lab",
+        "url": "https://sites.google.com/g.ntu.edu.tw/panlab/people"
+      }
+    ],
+    "dq": "職級以中研院官方頁（副教授／合聘副研究員）為準；部分媒體稱「台大教授」。",
+    "en": {
+      "org": "NTU College of Medicine / NTUH; joint appointment, IBMS Academia Sinica",
+      "title": "Associate Professor of Pharmacology; Attending Physician, Department of Medical Research; Director, Cerebellar Research Center, NTUH Yunlin",
+      "focus": "Electrophysiology of cerebellar rhythm and the climbing-fiber circuit, linking animal models to patient ataxia severity; Taiwan's principal node into the US ataxia research network.",
+      "pubNote": "2021–2026; includes Science Translational Medicine and Nature Biomedical Engineering",
+      "subtypes": [
+        "SCA1",
+        "SCA2",
+        "SCA6",
+        "MSA-C"
+      ],
+      "highlights": [
+        {
+          "year": "2025",
+          "text": "Science Translational Medicine — climbing-fiber denervation reduces cerebellar rhythm as a mechanism shared across SCA1/2/6 and MSA-C; chemogenetic activation improves symptoms in mice (corresponding author, with Sheng-Han Kuo of Columbia University)",
+          "link": {
+            "label": "PubMed 40009696",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40009696/"
+          }
+        },
+        {
+          "year": "2025",
+          "text": "Nature Biomedical Engineering — cerebellar encoding of movement frequency",
+          "link": {
+            "label": "IBMS Academia Sinica",
+            "url": "https://www.ibms.sinica.edu.tw/pan-ming-kai/ch/"
+          }
+        },
+        {
+          "year": "2025",
+          "text": "Ann Clin Transl Neurol — cerebellar–prefrontal connectivity in SCA2 cognitive impairment (co-author)",
+          "link": {
+            "label": "PubMed 40178244",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40178244/"
+          }
+        }
+      ],
+      "recent": [
+        {
+          "date": "2025-02-10",
+          "text": "NTU Office of Research and Development announced the finding of a shared mechanism and treatment possibility across cerebellar atrophy subtypes",
+          "link": {
+            "label": "NTU ORD",
+            "url": "https://ord.ntu.edu.tw/w/ordntu/index_news_25021008480368002"
+          }
+        },
+        {
+          "date": "2024-05-15",
+          "text": "Media coverage of the cerebellar resonance circuit and tremor frequency work, including transcranial alternating-current stimulation to ease tremor",
+          "link": {
+            "label": "NOWnews",
+            "url": "https://www.nownews.com/news/6477429"
+          }
+        }
+      ],
+      "society": "",
+      "dq": "Rank follows the official Academia Sinica page (Associate Professor / joint Associate Research Fellow); some media refer to him as Professor.",
+      "channel": {
+        "label": "IBMS Academia Sinica profile",
+        "url": "https://www.ibms.sinica.edu.tw/pan-ming-kai/ch/"
+      }
+    }
+  },
+  {
+    "id": "kuo-ming-che",
+    "name": "郭明哲",
+    "enName": "Ming-Che Kuo",
+    "tier": 1,
+    "region": "north",
+    "org": "台大癌醫中心分院／台大醫院神經部",
+    "orgId": "ntuh",
+    "title": "神經科主治醫師",
+    "cluster": "ntu-mechanism",
+    "roles": [
+      "clinical",
+      "trialist",
+      "community"
+    ],
+    "subtypes": [
+      "SCA3",
+      "泛 SCA"
+    ],
+    "focus": "動作障礙與小腦功能失調臨床；主持台灣目前唯一進行中的 SCA 口服介入試驗，並為病友社群的主要醫師講者。",
+    "pubs": 2,
+    "pubNote": "2021–2026",
+    "highlights": [
+      {
+        "year": "2022",
+        "text": "《Eur J Neurol》SCA3 併帕金森症候群之視丘下核深部腦刺激長期療效（第一作者）",
+        "link": {
+          "label": "PubMed 35837753",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/35837753/"
+        }
+      }
+    ],
+    "recent": [
+      {
+        "date": "2026",
+        "text": "擔任中華小腦萎縮症病友協會 Podcast「搖搖人生」醫療主題主講（首季 5 集）",
+        "link": {
+          "label": "TSCAA 里程碑",
+          "url": "https://www.tscaa.org.tw/關於協會/企鵝家族/milestones/medical-participation"
+        }
+      },
+      {
+        "date": "2024-11-12",
+        "text": "由病友協會贊助赴英國參加小腦研究會議（11/12–15）",
+        "link": {
+          "label": "TSCAA 里程碑",
+          "url": "https://www.tscaa.org.tw/關於協會/企鵝家族/milestones/medical-participation"
+        }
+      },
+      {
+        "date": "2024-09-16",
+        "text": "牛樟芝口服介入 SCA 隨機雙盲交叉試驗開始收案（NCT06633003，預估 60 人）",
+        "link": {
+          "label": "NCT06633003",
+          "url": "https://clinicaltrials.gov/study/NCT06633003"
+        }
+      }
+    ],
+    "trialRoles": [
+      {
+        "nct": "NCT06633003",
+        "role": "主持人（PI）",
+        "note": "台灣目前唯一進行中的 SCA 介入試驗"
+      }
+    ],
+    "society": "台灣動作障礙學會前秘書長；SNERD 第四屆理事",
+    "channel": {
+      "label": "台大癌醫中心分院神經科",
+      "url": "https://www.ntucc.gov.tw/ntucc/DoctorOne.action?tid=141"
+    },
+    "sources": [
+      {
+        "label": "台大癌醫醫師頁",
+        "url": "https://www.ntucc.gov.tw/ntucc/DoctorOne.action?tid=141"
+      },
+      {
+        "label": "TSCAA 醫學推動里程碑",
+        "url": "https://www.tscaa.org.tw/關於協會/企鵝家族/milestones/medical-participation"
+      }
+    ],
+    "en": {
+      "org": "NTU Cancer Center / Department of Neurology, NTUH",
+      "title": "Attending Neurologist",
+      "focus": "Clinical movement disorders and cerebellar dysfunction; principal investigator of the only SCA interventional trial currently enrolling in Taiwan, and the main physician voice in the patient community.",
+      "pubNote": "2021–2026",
+      "subtypes": [
+        "SCA3",
+        "SCA broadly"
+      ],
+      "highlights": [
+        {
+          "year": "2022",
+          "text": "Eur J Neurol — long-term outcome of subthalamic deep brain stimulation in SCA3 with parkinsonism (first author)",
+          "link": {
+            "label": "PubMed 35837753",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35837753/"
+          }
+        }
+      ],
+      "recent": [
+        {
+          "date": "2026",
+          "text": "Hosts the medical strand of the patient association's podcast (first season, five episodes)",
+          "link": {
+            "label": "TSCAA milestones",
+            "url": "https://www.tscaa.org.tw/關於協會/企鵝家族/milestones/medical-participation"
+          }
+        },
+        {
+          "date": "2024-11-12",
+          "text": "Sponsored by the patient association to attend a cerebellar research meeting in the UK (12–15 Nov)",
+          "link": {
+            "label": "TSCAA milestones",
+            "url": "https://www.tscaa.org.tw/關於協會/企鵝家族/milestones/medical-participation"
+          }
+        },
+        {
+          "date": "2024-09-16",
+          "text": "Opened enrolment for a randomised, double-blind crossover trial of oral Antrodia cinnamomea in SCA (NCT06633003, target n=60)",
+          "link": {
+            "label": "NCT06633003",
+            "url": "https://clinicaltrials.gov/study/NCT06633003"
+          }
+        }
+      ],
+      "trialRoles": [
+        {
+          "nct": "NCT06633003",
+          "role": "Principal investigator",
+          "note": "The only SCA interventional trial currently enrolling in Taiwan"
+        }
+      ],
+      "society": "Past Secretary-General, Taiwan Movement Disorder Society; board member (4th term), SNERD",
+      "channel": {
+        "label": "NTU Cancer Center, Neurology",
+        "url": "https://www.ntucc.gov.tw/ntucc/DoctorOne.action?tid=141"
+      }
+    }
+  },
+  {
+    "id": "lan-min-yu",
+    "name": "藍旻瑜",
+    "enName": "Min-Yu Lan",
+    "tier": 1,
+    "region": "south",
+    "org": "高雄長庚醫院",
+    "orgId": "cgmh-ks",
+    "title": "神經內科部一般神經科主治醫師（長庚大學助理教授）",
+    "cluster": "cgmh-ks",
+    "roles": [
+      "clinical",
+      "genetics"
+    ],
+    "subtypes": [
+      "SCA8",
+      "SCA44",
+      "罕見亞型",
+      "遺傳性痙攣性下身麻痺"
+    ],
+    "focus": "南台灣遺傳性共濟失調的世代收案與罕見亞型基因定性，並建立病人來源的 iPSC 細胞資源。",
+    "pubs": 3,
+    "pubNote": "2021–2026",
+    "highlights": [
+      {
+        "year": "2026",
+        "text": "《Stem Cell Research》建立 SCA8 病人 iPSC 細胞株（第一作者）",
+        "link": {
+          "label": "PubMed 41353794",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41353794/"
+        }
+      },
+      {
+        "year": "2025",
+        "text": "《The Cerebellum》SCA44 GRM1 新變異（通訊作者）",
+        "link": {
+          "label": "PubMed 40199824",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40199824/"
+        }
+      },
+      {
+        "year": "2022",
+        "text": "《Front Neurol》台灣遺傳性痙攣性下身麻痺併小腦症狀世代（第一作者）",
+        "link": {
+          "label": "PubMed 36247768",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/36247768/"
+        }
+      }
+    ],
+    "recent": [],
+    "trialRoles": [],
+    "society": "SNERD 第四屆理事",
+    "channel": {
+      "label": "高雄長庚神經內科",
+      "url": "https://www.cgmh.org.tw/tw/Services/DoctorInfo/4927"
+    },
+    "sources": [
+      {
+        "label": "高雄長庚醫師頁",
+        "url": "https://www.cgmh.org.tw/tw/Services/DoctorInfo/4927"
+      }
+    ],
+    "dq": "部分舊資料寫作「藍明育」，以高雄長庚官方頁「藍旻瑜」為準。",
+    "en": {
+      "org": "Kaohsiung Chang Gung Memorial Hospital",
+      "title": "Attending Neurologist, General Neurology (Assistant Professor, Chang Gung University)",
+      "focus": "Cohort recruitment and rare-subtype genetic characterisation for hereditary ataxia in southern Taiwan, including patient-derived iPSC resources.",
+      "pubNote": "2021–2026",
+      "subtypes": [
+        "SCA8",
+        "SCA44",
+        "rare subtypes",
+        "hereditary spastic paraplegia"
+      ],
+      "highlights": [
+        {
+          "year": "2026",
+          "text": "Stem Cell Research — generation of an iPSC line from an SCA8 patient (first author)",
+          "link": {
+            "label": "PubMed 41353794",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41353794/"
+          }
+        },
+        {
+          "year": "2025",
+          "text": "The Cerebellum — a novel GRM1 variant in SCA44 (corresponding author)",
+          "link": {
+            "label": "PubMed 40199824",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40199824/"
+          }
+        },
+        {
+          "year": "2022",
+          "text": "Front Neurol — a Taiwanese hereditary spastic paraplegia cohort with cerebellar features (first author)",
+          "link": {
+            "label": "PubMed 36247768",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36247768/"
+          }
+        }
+      ],
+      "society": "Board member (4th term), SNERD",
+      "dq": "Some older records romanise the name differently; the hospital's official page is authoritative.",
+      "channel": {
+        "label": "KCGMH Neurology",
+        "url": "https://www.cgmh.org.tw/tw/Services/DoctorInfo/4927"
+      }
+    }
+  },
+  {
+    "id": "liao-yi-chu",
+    "name": "廖翊筑",
+    "enName": "Yi-Chu Liao",
+    "tier": 2,
+    "region": "north",
+    "org": "台北榮總／陽明交大",
+    "orgId": "tvgh",
+    "title": "神經內科主治醫師、陽明交大教授",
+    "cluster": "tvgh-genetics",
+    "roles": [
+      "clinical",
+      "genetics",
+      "trialist"
+    ],
+    "subtypes": [
+      "SCA1",
+      "SCA2",
+      "SCA3",
+      "SCA6"
+    ],
+    "focus": "神經遺傳學與基因體分析，為北榮 SCA 世代研究的固定合作者；亦為 Stemchymal 台灣二期的共同主持人之一。",
+    "pubs": 9,
+    "pubNote": "2021–2026（多為共同作者）",
+    "highlights": [
+      {
+        "year": "2025",
+        "text": "台灣 876 例 SCA 基因地景（共同作者）",
+        "link": {
+          "label": "PubMed 41082794",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41082794/"
+        }
+      },
+      {
+        "year": "2022",
+        "text": "《Movement Disorders》PIAS1 S510G 保護性變異延緩 polyQ 疾病發病",
+        "link": {
+          "label": "PubMed 34951052",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/34951052/"
+        }
+      }
+    ],
+    "recent": [],
+    "trialRoles": [
+      {
+        "nct": "NCT02540655",
+        "role": "共同主持人",
+        "note": "Stemchymal 台灣二期（依台灣臨床試驗主持人資料庫 TPIDB 登錄）"
+      }
+    ],
+    "society": "",
+    "channel": {
+      "label": "台北榮總周邊神經科",
+      "url": "https://www.vghtpe.gov.tw/Docpersnr.action?tno=DOC3291D"
+    },
+    "sources": [
+      {
+        "label": "台北榮總醫師頁",
+        "url": "https://www.vghtpe.gov.tw/Docpersnr.action?tno=DOC3291D"
+      },
+      {
+        "label": "TPIDB 試驗登錄",
+        "url": "https://tpidb.taiwanclinicaltrials.tw/case/detail/963"
+      }
+    ],
+    "en": {
+      "org": "Taipei Veterans General Hospital / NYCU",
+      "title": "Attending Neurologist; Professor, NYCU",
+      "focus": "Neurogenetics and genomic analysis, a standing collaborator on TVGH's SCA cohort work, and a co-investigator on the Taiwan Phase 2 of Stemchymal.",
+      "pubNote": "2021–2026 (mostly co-authorship)",
+      "subtypes": [
+        "SCA1",
+        "SCA2",
+        "SCA3",
+        "SCA6"
+      ],
+      "highlights": [
+        {
+          "year": "2025",
+          "text": "The 876-case genetic landscape of SCA in Taiwan (co-author)",
+          "link": {
+            "label": "PubMed 41082794",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41082794/"
+          }
+        },
+        {
+          "year": "2022",
+          "text": "Movement Disorders — the protective PIAS1 S510G variant delays onset in polyQ disease",
+          "link": {
+            "label": "PubMed 34951052",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34951052/"
+          }
+        }
+      ],
+      "trialRoles": [
+        {
+          "nct": "NCT02540655",
+          "role": "Co-investigator",
+          "note": "Taiwan Phase 2 of Stemchymal, per Taiwan's official principal-investigator database (TPIDB)"
+        }
+      ],
+      "society": "",
+      "channel": {
+        "label": "TVGH Peripheral Nerve Division",
+        "url": "https://www.vghtpe.gov.tw/Docpersnr.action?tno=DOC3291D"
+      }
+    }
+  },
+  {
+    "id": "liu-yo-tsen",
+    "name": "劉祐岑",
+    "enName": "Yo-Tsen Liu",
+    "tier": 2,
+    "region": "north",
+    "org": "台北榮總",
+    "orgId": "tvgh",
+    "title": "神經醫學中心癲癇科主治醫師",
+    "cluster": "tvgh-genetics",
+    "roles": [
+      "clinical",
+      "trialist",
+      "society"
+    ],
+    "subtypes": [
+      "SCA3"
+    ],
+    "focus": "神經基因學與癲癇臨床；曾任神經罕見疾病學會理事長，並為 Stemchymal 台灣二期共同主持人之一。",
+    "pubs": 0,
+    "pubNote": "2021–2026 未見以 SCA 為題之掛名論文",
+    "highlights": [],
+    "recent": [
+      {
+        "date": "2025-09",
+        "text": "卸任 SNERD 理事長（第三屆，2022-09～2025-09），轉任常務監事",
+        "link": {
+          "label": "SNERD 理監事",
+          "url": "https://www.snerdtaiwan.org/node/43"
+        }
+      }
+    ],
+    "trialRoles": [
+      {
+        "nct": "NCT02540655",
+        "role": "共同主持人",
+        "note": "Stemchymal 台灣二期（TPIDB 登錄）"
+      }
+    ],
+    "society": "SNERD 第三屆理事長（2022–2025）、現任常務監事",
+    "channel": {
+      "label": "台北榮總癲癇科",
+      "url": "https://tpidb.taiwanclinicaltrials.tw/doctor/4809"
+    },
+    "sources": [
+      {
+        "label": "TPIDB 主持人頁",
+        "url": "https://tpidb.taiwanclinicaltrials.tw/doctor/4809"
+      },
+      {
+        "label": "SNERD 理監事",
+        "url": "https://www.snerdtaiwan.org/node/43"
+      }
+    ],
+    "en": {
+      "org": "Taipei Veterans General Hospital",
+      "title": "Attending Neurologist, Division of Epilepsy",
+      "focus": "Neurogenetics and clinical epilepsy; past president of the neurological rare-disease society and a co-investigator on the Taiwan Phase 2 of Stemchymal.",
+      "pubNote": "No SCA-titled papers found for 2021–2026",
+      "recent": [
+        {
+          "date": "2025-09",
+          "text": "Stepped down as SNERD president (3rd term, 2022–2025) and became a standing supervisor",
+          "link": {
+            "label": "SNERD board",
+            "url": "https://www.snerdtaiwan.org/node/43"
+          }
+        }
+      ],
+      "trialRoles": [
+        {
+          "nct": "NCT02540655",
+          "role": "Co-investigator",
+          "note": "Taiwan Phase 2 of Stemchymal (TPIDB)"
+        }
+      ],
+      "society": "President of SNERD (3rd term, 2022–2025); currently standing supervisor",
+      "channel": {
+        "label": "TVGH Division of Epilepsy",
+        "url": "https://tpidb.taiwanclinicaltrials.tw/doctor/4809"
+      }
+    }
+  },
+  {
+    "id": "hsiao-cheng-tsung",
+    "name": "蕭丞宗",
+    "enName": "Cheng-Tsung Hsiao",
+    "tier": 2,
+    "region": "north",
+    "org": "台北榮總／陽明交大",
+    "orgId": "tvgh",
+    "title": "神經內科主治醫師",
+    "cluster": "tvgh-genetics",
+    "roles": [
+      "clinical",
+      "research",
+      "genetics"
+    ],
+    "subtypes": [
+      "SCA36",
+      "SCA19/22",
+      "核苷酸重複疾病"
+    ],
+    "focus": "臨床世代與果蠅疾病模型雙棲的中生代研究者；官方專長頁明列小腦萎縮與核苷酸重複序列疾病。",
+    "pubs": 10,
+    "pubNote": "2021–2026；第一作者 6 篇",
+    "highlights": [
+      {
+        "year": "2025",
+        "text": "《PLoS Genetics》SCA36 果蠅模型之六核苷酸與雙肽重複毒性（第一作者）",
+        "link": {
+          "label": "PubMed 41337098",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41337098/"
+        }
+      },
+      {
+        "year": "2025",
+        "text": "《Cell Mol Life Sci》SCA19/22 果蠅模型中 Shal／KV4 蛋白恆定的回復（第一作者）",
+        "link": {
+          "label": "PubMed 40293501",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40293501/"
+        }
+      },
+      {
+        "year": "2024",
+        "text": "《Movement Disorders》THAP11 於台灣世代（第一作者）",
+        "link": {
+          "label": "PubMed 38757579",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38757579/"
+        }
+      }
+    ],
+    "recent": [],
+    "trialRoles": [],
+    "society": "",
+    "channel": {
+      "label": "台北榮總神經內科",
+      "url": "https://www.vghtpe.gov.tw/Docpersnr.action?tno=DOC3489A"
+    },
+    "sources": [
+      {
+        "label": "台北榮總醫師頁",
+        "url": "https://www.vghtpe.gov.tw/Docpersnr.action?tno=DOC3489A"
+      }
+    ],
+    "en": {
+      "org": "Taipei Veterans General Hospital / NYCU",
+      "title": "Attending Neurologist",
+      "focus": "A mid-career investigator working across clinical cohorts and Drosophila disease models; his official profile lists cerebellar atrophy and nucleotide-repeat disorders.",
+      "pubNote": "2021–2026; first author on 6",
+      "subtypes": [
+        "SCA36",
+        "SCA19/22",
+        "nucleotide-repeat disorders"
+      ],
+      "highlights": [
+        {
+          "year": "2025",
+          "text": "PLoS Genetics — hexanucleotide and dipeptide-repeat toxicity in a Drosophila model of SCA36 (first author)",
+          "link": {
+            "label": "PubMed 41337098",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41337098/"
+          }
+        },
+        {
+          "year": "2025",
+          "text": "Cell Mol Life Sci — restoring Shal/KV4 proteostasis in a Drosophila model of SCA19/22 (first author)",
+          "link": {
+            "label": "PubMed 40293501",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40293501/"
+          }
+        },
+        {
+          "year": "2024",
+          "text": "Movement Disorders — THAP11 in the Taiwanese cohort (first author)",
+          "link": {
+            "label": "PubMed 38757579",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38757579/"
+          }
+        }
+      ],
+      "channel": {
+        "label": "TVGH Neurology",
+        "url": "https://www.vghtpe.gov.tw/Docpersnr.action?tno=DOC3489A"
+      }
+    }
+  },
+  {
+    "id": "lin-chin-hsien",
+    "name": "林靜嫻",
+    "enName": "Chin-Hsien Lin",
+    "tier": 2,
+    "region": "north",
+    "org": "台大醫院神經部",
+    "orgId": "ntuh",
+    "title": "主治醫師、台大醫學院教授、臨床神經暨行為醫學中心主任",
+    "cluster": "ntu-mechanism",
+    "roles": [
+      "clinical",
+      "genetics",
+      "society"
+    ],
+    "subtypes": [
+      "SCA28",
+      "SCA48"
+    ],
+    "focus": "動作障礙與神經遺傳基因體（本業帕金森病），SCA 罕見亞型的臨床與功能定性為其延伸。",
+    "pubs": 3,
+    "pubNote": "2021–2026（SCA 核心 2 篇）",
+    "highlights": [
+      {
+        "year": "2021",
+        "text": "《J Biomed Sci》SCA48 STUB1 新突變之臨床與功能定性（通訊作者）",
+        "link": {
+          "label": "PubMed 34565360",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/34565360/"
+        }
+      },
+      {
+        "year": "2021",
+        "text": "《Movement Disorders》SCA28 之蒼白球虎眼徵",
+        "link": {
+          "label": "PubMed 34156101",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/34156101/"
+        }
+      }
+    ],
+    "recent": [],
+    "trialRoles": [],
+    "society": "台灣動作障礙學會前理事長、現任常務監事",
+    "channel": {
+      "label": "台大醫院神經部",
+      "url": "https://www.ntuh.gov.tw/neur/Vcard.action?q_type=-1&q_itemCode=448"
+    },
+    "sources": [
+      {
+        "label": "台大神經部醫師頁",
+        "url": "https://www.ntuh.gov.tw/neur/Vcard.action?q_type=-1&q_itemCode=448"
+      },
+      {
+        "label": "TMDS 理監事",
+        "url": "https://www.tmds.org.tw/about/index_3.asp"
+      }
+    ],
+    "en": {
+      "org": "Department of Neurology, NTUH",
+      "title": "Attending Physician; Professor, NTU College of Medicine; Director, Center of Clinical Neuroscience and Behavioral Medicine",
+      "focus": "Movement disorders and neurogenetic genomics (primarily Parkinson's disease), with clinical and functional characterisation of rare SCA subtypes as an extension.",
+      "pubNote": "2021–2026 (2 core SCA papers)",
+      "subtypes": [
+        "SCA28",
+        "SCA48"
+      ],
+      "highlights": [
+        {
+          "year": "2021",
+          "text": "J Biomed Sci — clinical and functional characterisation of a novel STUB1 mutation in SCA48 (corresponding author)",
+          "link": {
+            "label": "PubMed 34565360",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34565360/"
+          }
+        },
+        {
+          "year": "2021",
+          "text": "Movement Disorders — the eye-of-the-tiger sign in SCA28",
+          "link": {
+            "label": "PubMed 34156101",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34156101/"
+          }
+        }
+      ],
+      "society": "Past President and current standing supervisor, Taiwan Movement Disorder Society",
+      "channel": {
+        "label": "NTUH Neurology",
+        "url": "https://www.ntuh.gov.tw/neur/Vcard.action?q_type=-1&q_itemCode=448"
+      }
+    }
+  },
+  {
+    "id": "lee-ming-jen",
+    "name": "李銘仁",
+    "enName": "Ming-Jen Lee",
+    "tier": 2,
+    "region": "north",
+    "org": "台大醫院神經部",
+    "orgId": "ntuh",
+    "title": "主治醫師、台大醫學院教授（倫敦大學神經基因學博士）",
+    "cluster": "ntu-mechanism",
+    "roles": [
+      "clinical",
+      "genetics"
+    ],
+    "subtypes": [
+      "遺傳性神經疾病"
+    ],
+    "focus": "遺傳性神經疾病的基因診斷與遺傳諮詢；台大罕見疾病門診的專任醫師之一。",
+    "pubs": 0,
+    "pubNote": "2021–2026 未見以 SCA 為題之掛名論文",
+    "highlights": [],
+    "recent": [],
+    "trialRoles": [],
+    "society": "SNERD 第一、三屆理事",
+    "channel": {
+      "label": "台大神經部罕病門診",
+      "url": "https://www.ntuh.gov.tw/neur/Vcard.action?q_type=-1&q_itemCode=270"
+    },
+    "sources": [
+      {
+        "label": "台大神經部醫師頁",
+        "url": "https://www.ntuh.gov.tw/neur/Vcard.action?q_type=-1&q_itemCode=270"
+      }
+    ],
+    "en": {
+      "org": "Department of Neurology, NTUH",
+      "title": "Attending Physician; Professor, NTU College of Medicine (PhD in neurogenetics, UCL)",
+      "focus": "Genetic diagnosis and counselling for hereditary neurological disease; one of the dedicated physicians in NTUH's rare-disease clinic.",
+      "pubNote": "No SCA-titled papers found for 2021–2026",
+      "subtypes": [
+        "hereditary neurological disease"
+      ],
+      "society": "Board member, SNERD (1st and 3rd terms)",
+      "channel": {
+        "label": "NTUH rare-disease clinic",
+        "url": "https://www.ntuh.gov.tw/neur/Vcard.action?q_type=-1&q_itemCode=270"
+      }
+    }
+  },
+  {
+    "id": "tai-chun-hwei",
+    "name": "戴春暉",
+    "enName": "Chun-Hwei Tai",
+    "tier": 2,
+    "region": "north",
+    "org": "台大醫院神經部",
+    "orgId": "ntuh",
+    "title": "主治醫師、臨床副教授",
+    "cluster": "ntu-mechanism",
+    "roles": [
+      "clinical",
+      "trialist",
+      "society"
+    ],
+    "subtypes": [
+      "MSA-C"
+    ],
+    "focus": "動作障礙與深部腦刺激；主持過台灣唯一針對多系統萎縮症小腦型共濟失調的藥物試驗。",
+    "pubs": 0,
+    "pubNote": "2021–2026 未見以 SCA 為題之掛名論文",
+    "highlights": [],
+    "recent": [],
+    "trialRoles": [
+      {
+        "nct": "NCT03901638",
+        "role": "主持人（PI）",
+        "note": "Tllsh2910 用於 MSA 之共濟失調；2023 因疫情收案困難終止"
+      }
+    ],
+    "society": "台灣動作障礙學會現任常務理事",
+    "channel": {
+      "label": "台大醫院神經部",
+      "url": "https://www.ntuh.gov.tw/neur/Vcard.action?q_type=-1&q_itemCode=277"
+    },
+    "sources": [
+      {
+        "label": "台大神經部醫師頁",
+        "url": "https://www.ntuh.gov.tw/neur/Vcard.action?q_type=-1&q_itemCode=277"
+      }
+    ],
+    "en": {
+      "org": "Department of Neurology, NTUH",
+      "title": "Attending Physician; Clinical Associate Professor",
+      "focus": "Movement disorders and deep brain stimulation; ran the only drug trial in Taiwan targeting the cerebellar ataxia of multiple system atrophy.",
+      "pubNote": "No SCA-titled papers found for 2021–2026",
+      "subtypes": [
+        "MSA-C"
+      ],
+      "trialRoles": [
+        {
+          "nct": "NCT03901638",
+          "role": "Principal investigator",
+          "note": "Tllsh2910 for ataxia in MSA; terminated in 2023 after pandemic-related enrolment difficulty"
+        }
+      ],
+      "society": "Standing board member, Taiwan Movement Disorder Society",
+      "channel": {
+        "label": "NTUH Neurology",
+        "url": "https://www.ntuh.gov.tw/neur/Vcard.action?q_type=-1&q_itemCode=277"
+      }
+    }
+  },
+  {
+    "id": "kuo-yu-cheng",
+    "name": "郭育呈",
+    "enName": "Yu-Cheng Kuo",
+    "tier": 2,
+    "region": "central",
+    "org": "中國醫藥大學附設醫院",
+    "orgId": "cmuh",
+    "title": "神經部神經免疫暨基因疾病科主任",
+    "cluster": "other-clinical",
+    "roles": [
+      "clinical",
+      "genetics"
+    ],
+    "subtypes": [
+      "泛 SCA"
+    ],
+    "focus": "遺傳性神經肌肉疾病與小腦萎縮的臨床、電生理、神經肌肉病理與基因診斷；中部基因診斷的實際承接者。",
+    "pubs": 0,
+    "pubNote": "2021–2026 未見以 SCA 為題之掛名論文",
+    "highlights": [],
+    "recent": [],
+    "trialRoles": [],
+    "society": "",
+    "channel": {
+      "label": "中國附醫神經部",
+      "url": "https://www.cmuh.cmu.edu.tw/Doctor/DoctorInfo?docId=D24943"
+    },
+    "sources": [
+      {
+        "label": "中國附醫醫師頁",
+        "url": "https://www.cmuh.cmu.edu.tw/Doctor/DoctorInfo?docId=D24943"
+      }
+    ],
+    "dq": "英文姓名拼法未經官方頁確認。",
+    "en": {
+      "org": "China Medical University Hospital",
+      "title": "Chief, Division of Neuroimmunology and Genetic Disorders",
+      "focus": "Clinical, electrophysiological, neuromuscular-pathology and genetic diagnosis of hereditary neuromuscular disease and cerebellar atrophy; the working genetic-diagnosis route in central Taiwan.",
+      "pubNote": "No SCA-titled papers found for 2021–2026",
+      "subtypes": [
+        "SCA broadly"
+      ],
+      "dq": "Romanisation not confirmed against an official page.",
+      "channel": {
+        "label": "CMUH Neurology",
+        "url": "https://www.cmuh.cmu.edu.tw/Doctor/DoctorInfo?docId=D24943"
+      }
+    }
+  },
+  {
+    "id": "sun-yuan-ting",
+    "name": "孫苑庭",
+    "enName": "Yuan-Ting Sun",
+    "tier": 2,
+    "region": "south",
+    "org": "成大醫院",
+    "orgId": "ncku",
+    "title": "神經部主治醫師",
+    "cluster": "other-clinical",
+    "roles": [
+      "clinical",
+      "genetics",
+      "society"
+    ],
+    "subtypes": [
+      "基因性神經疾病"
+    ],
+    "focus": "基因性神經疾病臨床；現任神經罕見疾病學會副理事長。",
+    "pubs": 0,
+    "pubNote": "2021–2026 未見以 SCA 為題之掛名論文",
+    "highlights": [],
+    "recent": [],
+    "trialRoles": [],
+    "society": "SNERD 現任副理事長",
+    "channel": {
+      "label": "成大醫院神經部",
+      "url": "https://neuro-med.ncku.edu.tw/p/412-1131-17547.php?Lang=zh-tw"
+    },
+    "sources": [
+      {
+        "label": "成大神經學科",
+        "url": "https://neuro-med.ncku.edu.tw/p/412-1131-17547.php?Lang=zh-tw"
+      },
+      {
+        "label": "SNERD 理監事",
+        "url": "https://www.snerdtaiwan.org/node/43"
+      }
+    ],
+    "en": {
+      "org": "National Cheng Kung University Hospital",
+      "title": "Attending Neurologist",
+      "focus": "Clinical care for genetic neurological disease; currently vice-president of SNERD.",
+      "pubNote": "No SCA-titled papers found for 2021–2026",
+      "subtypes": [
+        "genetic neurological disease"
+      ],
+      "society": "Vice-president, SNERD",
+      "channel": {
+        "label": "NCKUH Neurology",
+        "url": "https://neuro-med.ncku.edu.tw/p/412-1131-17547.php?Lang=zh-tw"
+      }
+    }
+  },
+  {
+    "id": "yang-shang-hsun",
+    "name": "楊尚訓",
+    "enName": "Shang-Hsun Yang",
+    "tier": 2,
+    "region": "south",
+    "org": "成功大學醫學院",
+    "orgId": "ncku",
+    "title": "生理學科暨研究所教授",
+    "cluster": "academic-model",
+    "roles": [
+      "research",
+      "society"
+    ],
+    "subtypes": [
+      "SCA3"
+    ],
+    "focus": "神經退化疾病的基因改造動物模型；現任神經罕見疾病學會副理事長。",
+    "pubs": 1,
+    "pubNote": "2021–2026",
+    "highlights": [
+      {
+        "year": "2026",
+        "text": "《Neurotherapeutics》Rad23b 經破壞蛋白酶體功能加重 SCA3 病理聚集（通訊作者）",
+        "link": {
+          "label": "PubMed 42172862",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42172862/"
+        }
+      }
+    ],
+    "recent": [],
+    "trialRoles": [],
+    "society": "SNERD 現任副理事長",
+    "channel": {
+      "label": "成大生理所",
+      "url": "https://phys-med.ncku.edu.tw/p/412-1132-27378.php?Lang=en"
+    },
+    "sources": [
+      {
+        "label": "成大生理學科",
+        "url": "https://phys-med.ncku.edu.tw/p/412-1132-27378.php?Lang=en"
+      }
+    ],
+    "en": {
+      "org": "NCKU College of Medicine",
+      "title": "Professor, Department and Institute of Physiology",
+      "focus": "Genetically engineered animal models of neurodegenerative disease; currently vice-president of SNERD.",
+      "pubNote": "2021–2026",
+      "subtypes": [
+        "SCA3"
+      ],
+      "highlights": [
+        {
+          "year": "2026",
+          "text": "Neurotherapeutics — Rad23b aggravates SCA3 aggregation pathology by disrupting proteasome function (corresponding author)",
+          "link": {
+            "label": "PubMed 42172862",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42172862/"
+          }
+        }
+      ],
+      "society": "Vice-president, SNERD",
+      "channel": {
+        "label": "NCKU Physiology",
+        "url": "https://phys-med.ncku.edu.tw/p/412-1132-27378.php?Lang=en"
+      }
+    }
+  },
+  {
+    "id": "yeh-tu-hsueh",
+    "name": "葉篤學",
+    "enName": "Tu-Hsueh Yeh",
+    "tier": 2,
+    "region": "north",
+    "org": "台北醫學大學附設醫院",
+    "orgId": "tmu",
+    "title": "神經內科主治醫師",
+    "cluster": "other-clinical",
+    "roles": [
+      "clinical",
+      "society"
+    ],
+    "subtypes": [
+      "動作障礙"
+    ],
+    "focus": "動作障礙臨床；現任台灣動作障礙學會理事長，任內主辦 2026 年在台舉行的 TIC-PDMD 國際會議。",
+    "pubs": 0,
+    "pubNote": "2021–2026 未見以 SCA 為題之掛名論文",
+    "highlights": [],
+    "recent": [
+      {
+        "date": "2026-11-06",
+        "text": "任內主辦第八屆 TIC-PDMD 國際會議（2026-11-06～08，在台舉行）",
+        "link": {
+          "label": "TMDS",
+          "url": "https://www.tmds.org.tw/about/index_4.asp"
+        }
+      }
+    ],
+    "trialRoles": [],
+    "society": "台灣動作障礙學會現任理事長（2025-02～2027-02）",
+    "channel": {
+      "label": "台灣動作障礙學會",
+      "url": "https://www.tmds.org.tw/about/index_4.asp"
+    },
+    "sources": [
+      {
+        "label": "TMDS 理事長的話",
+        "url": "https://www.tmds.org.tw/about/index_4.asp"
+      }
+    ],
+    "dq": "英文姓名拼法未經官方頁確認。",
+    "en": {
+      "org": "Taipei Medical University Hospital",
+      "title": "Attending Neurologist",
+      "focus": "Clinical movement disorders; currently president of the Taiwan Movement Disorder Society and host of the 8th TIC-PDMD international meeting in Taiwan.",
+      "pubNote": "No SCA-titled papers found for 2021–2026",
+      "subtypes": [
+        "movement disorders"
+      ],
+      "recent": [
+        {
+          "date": "2026-11-06",
+          "text": "Hosting the 8th TIC-PDMD international congress in Taiwan (6–8 Nov 2026)",
+          "link": {
+            "label": "TMDS",
+            "url": "https://www.tmds.org.tw/about/index_4.asp"
+          }
+        }
+      ],
+      "society": "President, Taiwan Movement Disorder Society (Feb 2025 – Feb 2027)",
+      "dq": "Romanisation not confirmed against an official page.",
+      "channel": {
+        "label": "Taiwan Movement Disorder Society",
+        "url": "https://www.tmds.org.tw/about/index_4.asp"
+      }
+    }
+  },
+  {
+    "id": "hsieh-sung-tsang",
+    "name": "謝松蒼",
+    "enName": "Sung-Tsang Hsieh",
+    "tier": 2,
+    "region": "north",
+    "org": "台大醫學院／臺灣腦庫協會",
+    "orgId": "ntuh",
+    "title": "教授；臺灣腦庫協會理事長",
+    "cluster": "ntu-mechanism",
+    "roles": [
+      "research",
+      "society"
+    ],
+    "subtypes": [
+      "神經病理"
+    ],
+    "focus": "台灣腦庫的建置與運作，為 SCA 神經病理與轉譯研究提供組織來源。",
+    "pubs": 0,
+    "pubNote": "2021–2026 未見以 SCA 為題之掛名論文",
+    "highlights": [],
+    "recent": [
+      {
+        "date": "2024-08",
+        "text": "腦庫運作近一年，38 人簽署捐腦意願、8 人完成捐贈，其中包含小腦萎縮症病友",
+        "link": {
+          "label": "ETtoday",
+          "url": "https://health.ettoday.net/news/2808086"
+        }
+      },
+      {
+        "date": "2023-11-05",
+        "text": "台灣首座腦庫於台大醫學院揭牌",
+        "link": {
+          "label": "ETtoday",
+          "url": "https://health.ettoday.net/2616455"
+        }
+      }
+    ],
+    "trialRoles": [],
+    "society": "臺灣腦庫協會理事長；SNERD 歷屆監事",
+    "channel": {
+      "label": "臺灣腦庫協會",
+      "url": "https://www.brainbank.tw/"
+    },
+    "sources": [
+      {
+        "label": "臺灣腦庫協會",
+        "url": "https://www.brainbank.tw/"
+      }
+    ],
+    "en": {
+      "org": "NTU College of Medicine / Taiwan Brain Bank Association",
+      "title": "Professor; President, Taiwan Brain Bank Association",
+      "focus": "Building and running Taiwan's brain bank, the tissue source underpinning SCA neuropathology and translational research.",
+      "pubNote": "No SCA-titled papers found for 2021–2026",
+      "subtypes": [
+        "neuropathology"
+      ],
+      "recent": [
+        {
+          "date": "2024-08",
+          "text": "Nearly a year into operation, 38 people had pledged donation and 8 donations were completed, including patients with cerebellar atrophy",
+          "link": {
+            "label": "ETtoday",
+            "url": "https://health.ettoday.net/news/2808086"
+          }
+        },
+        {
+          "date": "2023-11-05",
+          "text": "Taiwan's first brain bank opened at NTU College of Medicine",
+          "link": {
+            "label": "ETtoday",
+            "url": "https://health.ettoday.net/2616455"
+          }
+        }
+      ],
+      "society": "President, Taiwan Brain Bank Association; long-serving supervisor, SNERD",
+      "channel": {
+        "label": "Taiwan Brain Bank Association",
+        "url": "https://www.brainbank.tw/"
+      }
+    }
+  },
+  {
+    "id": "wu-yih-ru",
+    "name": "吳逸如",
+    "enName": "Yih-Ru Wu",
+    "tier": 2,
+    "region": "north",
+    "org": "林口長庚醫院",
+    "orgId": "cgmh-linkou",
+    "title": "神經內科部部主任",
+    "cluster": "cgmh-polyq",
+    "roles": [
+      "clinical",
+      "trialist",
+      "society"
+    ],
+    "subtypes": [
+      "SCA3",
+      "MSA-C",
+      "polyQ"
+    ],
+    "focus": "動作障礙與神經遺傳臨床試驗；長庚 SCA／亨丁頓研究線的資深醫師，兼做 SCA 與 MSA。",
+    "pubs": 2,
+    "pubNote": "2021–2026（共同作者）",
+    "highlights": [
+      {
+        "year": "2024",
+        "text": "《Int J Mol Sci》SCA3 突變 ATXN3 自噬降解（共同作者）",
+        "link": {
+          "label": "PubMed 39409036",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/39409036/"
+        }
+      }
+    ],
+    "recent": [],
+    "trialRoles": [],
+    "society": "台灣動作障礙學會第十屆理事",
+    "channel": {
+      "label": "林口長庚神經內科",
+      "url": "https://www.cgmh.org.tw/tw/Services/DoctorInfo/2000"
+    },
+    "sources": [
+      {
+        "label": "TMDS 理監事",
+        "url": "https://www.tmds.org.tw/about/index_3.asp"
+      },
+      {
+        "label": "長庚醫師頁",
+        "url": "https://www.cgmh.org.tw/tw/Services/DoctorInfo/2000"
+      }
+    ],
+    "dq": "職稱兩處來源不一：學會名單載「部主任」，醫院頁另有「副部主任」描述。",
+    "en": {
+      "org": "Chang Gung Memorial Hospital, Linkou",
+      "title": "Director, Department of Neurology",
+      "focus": "Movement disorders and neurogenetic clinical trials; a senior figure on Chang Gung's SCA/Huntington line, working across both SCA and MSA.",
+      "pubNote": "2021–2026 (co-authorship)",
+      "subtypes": [
+        "SCA3",
+        "MSA-C",
+        "polyQ"
+      ],
+      "highlights": [
+        {
+          "year": "2024",
+          "text": "Int J Mol Sci — autophagic degradation of mutant ATXN3 in SCA3 (co-author)",
+          "link": {
+            "label": "PubMed 39409036",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39409036/"
+          }
+        }
+      ],
+      "society": "Board member (10th term), Taiwan Movement Disorder Society",
+      "dq": "Title differs between sources: the society lists Director, while the hospital page describes a Deputy Director role.",
+      "channel": {
+        "label": "CGMH Linkou Neurology",
+        "url": "https://www.cgmh.org.tw/tw/Services/DoctorInfo/2000"
+      }
+    }
+  },
+  {
+    "id": "chang-ming-hong",
+    "name": "張鳴宏",
+    "enName": "Ming-Hong Chang",
+    "tier": 2,
+    "region": "central",
+    "org": "台中榮總",
+    "orgId": "vghtc",
+    "title": "神經肌病科首任主任",
+    "cluster": "other-clinical",
+    "roles": [
+      "clinical",
+      "genetics"
+    ],
+    "subtypes": [
+      "泛 SCA"
+    ],
+    "focus": "台中榮總一般神經科提供小腦脊髓萎縮退化症的諮詢、基因送檢與藥物治療。",
+    "pubs": 0,
+    "pubNote": "2021–2026 未見以 SCA 為題之掛名論文",
+    "highlights": [],
+    "recent": [],
+    "trialRoles": [],
+    "society": "",
+    "channel": {
+      "label": "台中榮總神經醫學中心",
+      "url": "https://www.vghtc.gov.tw/UnitPage/UnitContentView?WebMenuID=9e16e36b-cc42-4454-a000-bc16776111cd&UnitDefaultTemplate=1"
+    },
+    "sources": [
+      {
+        "label": "台中榮總科部頁",
+        "url": "https://www.vghtc.gov.tw/UnitPage/UnitContentView?WebMenuID=9e16e36b-cc42-4454-a000-bc16776111cd&UnitDefaultTemplate=1"
+      }
+    ],
+    "dq": "另有「神經醫學中心主任」一說僅見於搜尋摘要，未於官網原文雙重確認。",
+    "en": {
+      "org": "Taichung Veterans General Hospital",
+      "title": "Founding Chief, Division of Neuromuscular Disease",
+      "focus": "The hospital's general neurology service offers consultation, genetic testing referral and pharmacological management for spinocerebellar degeneration.",
+      "pubNote": "No SCA-titled papers found for 2021–2026",
+      "subtypes": [
+        "SCA broadly"
+      ],
+      "dq": "A separate claim that he directs the Neurological Institute appears only in search summaries and was not confirmed on the official site.",
+      "channel": {
+        "label": "TCVGH Neurological Institute",
+        "url": "https://www.vghtc.gov.tw/UnitPage/UnitContentView?WebMenuID=9e16e36b-cc42-4454-a000-bc16776111cd&UnitDefaultTemplate=1"
+      }
+    }
+  },
+  {
+    "id": "hu-wuh-liang",
+    "name": "胡務亮",
+    "enName": "Wuh-Liang Hwu",
+    "tier": 2,
+    "region": "north",
+    "org": "台大醫院基因醫學部",
+    "orgId": "ntuh",
+    "title": "教授級主治醫師",
+    "cluster": "ntu-mechanism",
+    "roles": [
+      "clinical",
+      "genetics"
+    ],
+    "subtypes": [
+      "罕見疾病基因診斷"
+    ],
+    "focus": "罕見疾病的基因醫學與基因治療；台大基因醫學部為國健署認證的 SCA 基因檢驗單位之一。",
+    "pubs": 0,
+    "pubNote": "2021–2026 未見以 SCA 為題之掛名論文",
+    "highlights": [],
+    "recent": [],
+    "trialRoles": [],
+    "society": "",
+    "channel": {
+      "label": "台大醫院基因醫學部",
+      "url": "https://www.ntuh.gov.tw/gene/Fpage.action?muid=791&fid=601"
+    },
+    "sources": [
+      {
+        "label": "台大基因醫學部檢驗認證",
+        "url": "https://www.ntuh.gov.tw/gene/Fpage.action?muid=791&fid=601"
+      },
+      {
+        "label": "TSCAA 醫療院所名單",
+        "url": "https://www.tscaa.org.tw/醫療-復健/醫療相關/醫療院所"
+      }
+    ],
+    "dq": "英文姓名拼法為通行對應，未經官方頁逐字確認。",
+    "en": {
+      "org": "Department of Medical Genetics, NTUH",
+      "title": "Professor-level Attending Physician",
+      "focus": "Medical genetics and gene therapy for rare disease; the department is among the units accredited for SCA genetic testing.",
+      "pubNote": "No SCA-titled papers found for 2021–2026",
+      "subtypes": [
+        "rare-disease genetic diagnosis"
+      ],
+      "dq": "Romanisation follows common usage and was not confirmed character-by-character on an official page.",
+      "channel": {
+        "label": "NTUH Medical Genetics",
+        "url": "https://www.ntuh.gov.tw/gene/Fpage.action?muid=791&fid=601"
+      }
+    }
+  },
+  {
+    "id": "yang-chih-chao",
+    "name": "楊智超",
+    "enName": "Chih-Chao Yang",
+    "tier": 2,
+    "region": "north",
+    "org": "台大醫院神經部",
+    "orgId": "ntuh",
+    "title": "主治醫師（兼任約診）",
+    "cluster": "ntu-mechanism",
+    "roles": [
+      "clinical"
+    ],
+    "subtypes": [
+      "遺傳性小腦萎縮症"
+    ],
+    "focus": "台大神經部「遺傳性小腦萎縮症」衛教頁作者，為病人端長期流通的疾病說明來源。",
+    "pubs": 0,
+    "pubNote": "2021–2026 未見以 SCA 為題之掛名論文",
+    "highlights": [],
+    "recent": [],
+    "trialRoles": [],
+    "society": "",
+    "channel": {
+      "label": "台大神經部衛教頁",
+      "url": "https://www.ntuh.gov.tw/neur/Fpage.action?fid=4230"
+    },
+    "sources": [
+      {
+        "label": "台大神經部衛教頁",
+        "url": "https://www.ntuh.gov.tw/neur/Fpage.action?fid=4230"
+      }
+    ],
+    "dq": "衛教頁雖於 2026-08 更新，內文檢測型別為早期文字，實際可檢測範圍已擴大。英文姓名為通行對應。",
+    "en": {
+      "org": "Department of Neurology, NTUH",
+      "title": "Attending Physician (visiting, by appointment)",
+      "focus": "Author of NTUH Neurology's public explainer on hereditary cerebellar atrophy, a long-circulating patient-facing reference.",
+      "pubNote": "No SCA-titled papers found for 2021–2026",
+      "subtypes": [
+        "hereditary cerebellar atrophy"
+      ],
+      "dq": "Though the page was refreshed in Aug 2026, its list of testable subtypes is legacy text; the actual panel is broader. Romanisation follows common usage.",
+      "channel": {
+        "label": "NTUH Neurology patient explainer",
+        "url": "https://www.ntuh.gov.tw/neur/Fpage.action?fid=4230"
+      }
+    }
+  },
+  {
+    "id": "lee-oscar",
+    "name": "李光申",
+    "enName": "Oscar Kuang-Sheng Lee",
+    "tier": 2,
+    "region": "north",
+    "org": "陽明交通大學",
+    "orgId": "nycu",
+    "title": "講座教授（曾任台北榮總）",
+    "cluster": "academic-model",
+    "roles": [
+      "research",
+      "trialist"
+    ],
+    "subtypes": [
+      "間質幹細胞"
+    ],
+    "focus": "間質幹細胞科學與再生醫學；為台灣最早一項小腦失調 MSC 治療試驗的登錄主持人。",
+    "pubs": 0,
+    "pubNote": "2021–2026 未見以 SCA 為題之掛名論文",
+    "highlights": [],
+    "recent": [],
+    "trialRoles": [
+      {
+        "nct": "NCT01649687",
+        "role": "主持人（registry responsible party）",
+        "note": "異體脂肪 MSC 治療小腦失調 Ph1/2（2012–2014，台北榮總）"
+      }
+    ],
+    "society": "",
+    "channel": {
+      "label": "陽明交通大學",
+      "url": "https://www.nycu.edu.tw/"
+    },
+    "sources": [
+      {
+        "label": "NCT01649687",
+        "url": "https://clinicaltrials.gov/study/NCT01649687"
+      }
+    ],
+    "dq": "現職含多個兼任職務，網路來源另載台北市立聯合醫院副總院長；以校方公告為準。",
+    "en": {
+      "org": "National Yang Ming Chiao Tung University",
+      "title": "Chair Professor (formerly Taipei Veterans General Hospital)",
+      "focus": "Mesenchymal stem cell science and regenerative medicine; the registered investigator on Taiwan's earliest MSC trial in cerebellar ataxia.",
+      "pubNote": "No SCA-titled papers found for 2021–2026",
+      "subtypes": [
+        "mesenchymal stem cells"
+      ],
+      "trialRoles": [
+        {
+          "nct": "NCT01649687",
+          "role": "Principal investigator (registry responsible party)",
+          "note": "Phase 1/2 of allogeneic adipose MSC in cerebellar ataxia (2012–2014, TVGH)"
+        }
+      ],
+      "dq": "Holds several concurrent appointments; some web sources add a deputy superintendent role at Taipei City Hospital. University announcements are authoritative.",
+      "channel": {
+        "label": "NYCU",
+        "url": "https://www.nycu.edu.tw/"
+      }
+    }
+  },
+  {
+    "id": "wu-ruey-meei",
+    "name": "吳瑞美",
+    "enName": "Ruey-Meei Wu",
+    "tier": 3,
+    "region": "north",
+    "org": "台大醫院神經部",
+    "orgId": "ntuh",
+    "title": "教授級主治醫師；巴金森症暨動作障礙中心主任",
+    "cluster": "ntu-mechanism",
+    "roles": [
+      "clinical",
+      "society"
+    ],
+    "subtypes": [
+      "SCA3",
+      "帕金森"
+    ],
+    "focus": "台灣動作障礙領域資深權威，SCA 為偶發個案報告。",
+    "pubs": 1,
+    "pubNote": "2021–2026（SCA3 個案）",
+    "highlights": [
+      {
+        "year": "2022",
+        "text": "《Eur J Neurol》SCA3 併帕金森症候群之 STN-DBS 長期療效（資深作者）",
+        "link": {
+          "label": "PubMed 35837753",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/35837753/"
+        }
+      }
+    ],
+    "recent": [],
+    "trialRoles": [],
+    "society": "台灣動作障礙學會監事",
+    "channel": {
+      "label": "台大巴金森症醫療中心",
+      "url": "http://www.pdcenterntuh.org.tw/"
+    },
+    "sources": [
+      {
+        "label": "TMDS 理監事",
+        "url": "https://www.tmds.org.tw/about/index_3.asp"
+      }
+    ],
+    "en": {
+      "org": "Department of Neurology, NTUH",
+      "title": "Professor-level Attending Physician; Director, Center for Parkinson's and Movement Disorders",
+      "focus": "A senior authority in Taiwanese movement disorders; SCA appears as occasional case reports.",
+      "pubNote": "2021–2026 (SCA3 case)",
+      "subtypes": [
+        "SCA3",
+        "Parkinson's"
+      ],
+      "highlights": [
+        {
+          "year": "2022",
+          "text": "Eur J Neurol — long-term STN-DBS outcome in SCA3 with parkinsonism (senior author)",
+          "link": {
+            "label": "PubMed 35837753",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35837753/"
+          }
+        }
+      ],
+      "society": "Supervisor, Taiwan Movement Disorder Society",
+      "channel": {
+        "label": "NTUH Parkinson's Center",
+        "url": "http://www.pdcenterntuh.org.tw/"
+      }
+    }
+  },
+  {
+    "id": "chen-rou-shayn",
+    "name": "陳柔賢",
+    "enName": "Rou-Shayn Chen",
+    "tier": 3,
+    "region": "north",
+    "org": "林口長庚醫院",
+    "orgId": "cgmh-linkou",
+    "title": "神經內科動作障礙科主治醫師",
+    "cluster": "cgmh-polyq",
+    "roles": [
+      "clinical",
+      "rehab",
+      "society"
+    ],
+    "subtypes": [
+      "泛 SCA"
+    ],
+    "focus": "動作障礙臨床；參與 SCA 復健隨機對照試驗。",
+    "pubs": 1,
+    "pubNote": "2021–2026（共同作者）",
+    "highlights": [
+      {
+        "year": "2025",
+        "text": "《NeuroRehabilitation》SCA 全身震動訓練隨機對照試驗（共同作者）",
+        "link": {
+          "label": "PubMed 40539612",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40539612/"
+        }
+      }
+    ],
+    "recent": [],
+    "trialRoles": [],
+    "society": "台灣動作障礙學會第十屆理事",
+    "channel": {
+      "label": "林口長庚腦神經內科",
+      "url": "https://register.cgmh.org.tw/Department_WEEK/3/33700A337A0A337B0A33730A33740A33750A33760A33770A"
+    },
+    "sources": [
+      {
+        "label": "TMDS 理監事",
+        "url": "https://www.tmds.org.tw/about/index_3.asp"
+      }
+    ],
+    "en": {
+      "org": "Chang Gung Memorial Hospital, Linkou",
+      "title": "Attending Neurologist, Movement Disorders",
+      "focus": "Clinical movement disorders; contributes to randomised rehabilitation trials in SCA.",
+      "pubNote": "2021–2026 (co-author)",
+      "subtypes": [
+        "SCA broadly"
+      ],
+      "highlights": [
+        {
+          "year": "2025",
+          "text": "NeuroRehabilitation — a randomised controlled trial of whole-body vibration training in SCA (co-author)",
+          "link": {
+            "label": "PubMed 40539612",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40539612/"
+          }
+        }
+      ],
+      "society": "Board member (10th term), Taiwan Movement Disorder Society",
+      "channel": {
+        "label": "CGMH Linkou Neurology appointments",
+        "url": "https://register.cgmh.org.tw/Department_WEEK/3/33700A337A0A337B0A33730A33740A33750A33760A33770A"
+      }
+    }
+  },
+  {
+    "id": "chang-yung-yee",
+    "name": "張永義",
+    "enName": "Yung-Yee Chang",
+    "tier": 3,
+    "region": "south",
+    "org": "高雄長庚醫院",
+    "orgId": "cgmh-ks",
+    "title": "神經內科部一般神經科主治醫師",
+    "cluster": "cgmh-ks",
+    "roles": [
+      "clinical"
+    ],
+    "subtypes": [
+      "SCA44",
+      "遺傳性神經疾病"
+    ],
+    "focus": "動作障礙臨床，與藍旻瑜共同發表南台灣遺傳性共濟失調世代研究。",
+    "pubs": 2,
+    "pubNote": "2021–2026",
+    "highlights": [
+      {
+        "year": "2022",
+        "text": "《Front Neurol》台灣痙攣性下身麻痺併小腦症狀世代（資深作者）",
+        "link": {
+          "label": "PubMed 36247768",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/36247768/"
+        }
+      }
+    ],
+    "recent": [],
+    "trialRoles": [],
+    "society": "",
+    "channel": {
+      "label": "高雄長庚神經內科",
+      "url": "https://www.cgmh.org.tw/tw/Services/DoctorInfo/4928"
+    },
+    "sources": [
+      {
+        "label": "高雄長庚醫師頁",
+        "url": "https://www.cgmh.org.tw/tw/Services/DoctorInfo/4928"
+      }
+    ],
+    "dq": "醫院官方專長欄列基礎與臨床神經學、帕金森氏症，未列小腦萎縮症。",
+    "en": {
+      "org": "Kaohsiung Chang Gung Memorial Hospital",
+      "title": "Attending Neurologist, General Neurology",
+      "focus": "Clinical movement disorders; co-publishes the southern-Taiwan hereditary ataxia cohort work with Min-Yu Lan.",
+      "pubNote": "2021–2026",
+      "subtypes": [
+        "SCA44",
+        "hereditary neurological disease"
+      ],
+      "highlights": [
+        {
+          "year": "2022",
+          "text": "Front Neurol — a Taiwanese hereditary spastic paraplegia cohort with cerebellar features (senior author)",
+          "link": {
+            "label": "PubMed 36247768",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36247768/"
+          }
+        }
+      ],
+      "dq": "The hospital's listed specialties cover basic and clinical neurology and Parkinson's disease, not cerebellar atrophy.",
+      "channel": {
+        "label": "KCGMH Neurology",
+        "url": "https://www.cgmh.org.tw/tw/Services/DoctorInfo/4928"
+      }
+    }
+  },
+  {
+    "id": "tsai-meng-han",
+    "name": "蔡孟翰",
+    "enName": "Meng-Han Tsai",
+    "tier": 3,
+    "region": "south",
+    "org": "高雄長庚醫院",
+    "orgId": "cgmh-ks",
+    "title": "神經內科部副部長級主治醫師（神經基因學／癲癇）",
+    "cluster": "cgmh-ks",
+    "roles": [
+      "clinical",
+      "genetics"
+    ],
+    "subtypes": [
+      "SCA8"
+    ],
+    "focus": "神經基因學與癲癇；參與病人來源 iPSC 細胞株建立。",
+    "pubs": 1,
+    "pubNote": "2021–2026",
+    "highlights": [
+      {
+        "year": "2026",
+        "text": "《Stem Cell Research》SCA8 病人 iPSC 細胞株（通訊作者）",
+        "link": {
+          "label": "PubMed 41353794",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41353794/"
+        }
+      }
+    ],
+    "recent": [],
+    "trialRoles": [],
+    "society": "",
+    "channel": {
+      "label": "高雄長庚神經內科",
+      "url": "https://www.cgmh.org.tw/tw/Services/DoctorInfo/6253"
+    },
+    "sources": [
+      {
+        "label": "高雄長庚醫師頁",
+        "url": "https://www.cgmh.org.tw/tw/Services/DoctorInfo/6253"
+      }
+    ],
+    "en": {
+      "org": "Kaohsiung Chang Gung Memorial Hospital",
+      "title": "Deputy Director-level Attending Neurologist (neurogenetics / epilepsy)",
+      "focus": "Neurogenetics and epilepsy; contributes to patient-derived iPSC line generation.",
+      "pubNote": "2021–2026",
+      "subtypes": [
+        "SCA8"
+      ],
+      "highlights": [
+        {
+          "year": "2026",
+          "text": "Stem Cell Research — an iPSC line from an SCA8 patient (corresponding author)",
+          "link": {
+            "label": "PubMed 41353794",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41353794/"
+          }
+        }
+      ],
+      "channel": {
+        "label": "KCGMH Neurology",
+        "url": "https://www.cgmh.org.tw/tw/Services/DoctorInfo/6253"
+      }
+    }
+  },
+  {
+    "id": "chang-tzu-pu",
+    "name": "張滋圃",
+    "enName": "Tzu-Pu Chang",
+    "tier": 3,
+    "region": "central",
+    "org": "台中慈濟醫院",
+    "orgId": "tzuchi-tc",
+    "title": "神經內科醫師",
+    "cluster": "other-clinical",
+    "roles": [
+      "clinical",
+      "community"
+    ],
+    "subtypes": [
+      "小腦疾病",
+      "平衡障礙"
+    ],
+    "focus": "眩暈、平衡障礙與小腦疾病門診；為 SCA 疾病衛教的媒體受訪醫師。",
+    "pubs": 0,
+    "pubNote": "2021–2026 未見以 SCA 為題之掛名論文",
+    "highlights": [],
+    "recent": [
+      {
+        "date": "2024-12-28",
+        "text": "接受大愛新聞 SCA 專題訪問，說明體顯性遺傳機率與復健延緩退化的角色",
+        "link": {
+          "label": "大愛新聞",
+          "url": "https://www.youtube.com/watch?v=RXmsL_J3LSk"
+        }
+      }
+    ],
+    "trialRoles": [],
+    "society": "",
+    "channel": {
+      "label": "台中慈濟醫院",
+      "url": "https://taichung.tzuchi.com.tw/doctors/6/52"
+    },
+    "sources": [
+      {
+        "label": "台中慈濟醫師頁",
+        "url": "https://taichung.tzuchi.com.tw/doctors/6/52"
+      }
+    ],
+    "dq": "英文姓名為通行對應，未經官方頁確認。",
+    "en": {
+      "org": "Taichung Tzu Chi Hospital",
+      "title": "Neurologist",
+      "focus": "Clinic for vertigo, balance disorders and cerebellar disease; the physician voice in television coverage of SCA.",
+      "pubNote": "No SCA-titled papers found for 2021–2026",
+      "subtypes": [
+        "cerebellar disease",
+        "balance disorders"
+      ],
+      "recent": [
+        {
+          "date": "2024-12-28",
+          "text": "Interviewed for a television feature on SCA, explaining autosomal-dominant inheritance risk and the role of rehabilitation in slowing decline",
+          "link": {
+            "label": "Da Ai News",
+            "url": "https://www.youtube.com/watch?v=RXmsL_J3LSk"
+          }
+        }
+      ],
+      "dq": "Romanisation follows common usage and was not confirmed on an official page.",
+      "channel": {
+        "label": "Taichung Tzu Chi Hospital",
+        "url": "https://taichung.tzuchi.com.tw/doctors/6/52"
+      }
+    }
+  },
+  {
+    "id": "tsai-chon-haw",
+    "name": "蔡崇豪",
+    "enName": "Chon-Haw Tsai",
+    "tier": 3,
+    "region": "central",
+    "org": "中國醫藥大學／附設醫院",
+    "orgId": "cmuh",
+    "title": "醫學院院長；神經部顧問",
+    "cluster": "other-clinical",
+    "roles": [
+      "clinical",
+      "society"
+    ],
+    "subtypes": [
+      "動作障礙"
+    ],
+    "focus": "帕金森與動作障礙資深權威；台灣動作障礙學會前理事長。",
+    "pubs": 0,
+    "pubNote": "2021–2026 未見以 SCA 為題之掛名論文",
+    "highlights": [],
+    "recent": [],
+    "trialRoles": [],
+    "society": "台灣動作障礙學會前理事長、第十屆理事",
+    "channel": {
+      "label": "中國附醫神經部",
+      "url": "https://www.cmuh.cmu.edu.tw/Doctor/DoctorInfo?docId=D8079"
+    },
+    "sources": [
+      {
+        "label": "中國附醫醫師頁",
+        "url": "https://www.cmuh.cmu.edu.tw/Doctor/DoctorInfo?docId=D8079"
+      }
+    ],
+    "en": {
+      "org": "China Medical University / CMUH",
+      "title": "Dean, College of Medicine; Consultant, Department of Neurology",
+      "focus": "A senior authority in Parkinson's and movement disorders; past president of the Taiwan Movement Disorder Society.",
+      "pubNote": "No SCA-titled papers found for 2021–2026",
+      "subtypes": [
+        "movement disorders"
+      ],
+      "society": "Past President and current board member, Taiwan Movement Disorder Society",
+      "channel": {
+        "label": "CMUH Neurology",
+        "url": "https://www.cmuh.cmu.edu.tw/Doctor/DoctorInfo?docId=D8079"
+      }
+    }
+  },
+  {
+    "id": "chiu-chung-min",
+    "name": "邱重閔",
+    "enName": "Chung-Min Chiu",
+    "tier": 3,
+    "region": "central",
+    "org": "彰化基督教醫院中醫科",
+    "orgId": "cch",
+    "title": "中醫師（兼中國醫藥大學中醫學院）",
+    "cluster": "cch-therapeutics",
+    "roles": [
+      "clinical",
+      "trialist"
+    ],
+    "subtypes": [
+      "SCA3"
+    ],
+    "focus": "中醫介入 SCA3 的臨床試驗主持人。",
+    "pubs": 2,
+    "pubNote": "2021–2026（第一作者 2 篇，與彰基團隊合作）",
+    "highlights": [
+      {
+        "year": "2023",
+        "text": "《Orphanet J Rare Dis》握力作為 SCA3 病程預測指標（第一作者）",
+        "link": {
+          "label": "PubMed 37817286",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/37817286/"
+        }
+      }
+    ],
+    "recent": [],
+    "trialRoles": [
+      {
+        "nct": "NCT05038306",
+        "role": "主持人（PI）",
+        "note": "中藥 WT 治療 SCA3 之交叉設計試驗，2022 完成"
+      }
+    ],
+    "society": "",
+    "channel": {
+      "label": "彰基中醫科",
+      "url": "https://www.tscaa.org.tw/醫療-復健/醫療相關/醫療院所"
+    },
+    "sources": [
+      {
+        "label": "NCT05038306",
+        "url": "https://clinicaltrials.gov/study/NCT05038306"
+      }
+    ],
+    "en": {
+      "org": "Department of Chinese Medicine, Changhua Christian Hospital",
+      "title": "Chinese Medicine Physician (also China Medical University)",
+      "focus": "Principal investigator for traditional Chinese medicine intervention trials in SCA3.",
+      "pubNote": "2021–2026 (first author on 2, with the CCH group)",
+      "subtypes": [
+        "SCA3"
+      ],
+      "highlights": [
+        {
+          "year": "2023",
+          "text": "Orphanet J Rare Dis — handgrip strength as a predictor of SCA3 progression (first author)",
+          "link": {
+            "label": "PubMed 37817286",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37817286/"
+          }
+        }
+      ],
+      "trialRoles": [
+        {
+          "nct": "NCT05038306",
+          "role": "Principal investigator",
+          "note": "Crossover trial of the herbal formula WT in SCA3, completed 2022"
+        }
+      ],
+      "channel": {
+        "label": "CCH Chinese Medicine",
+        "url": "https://www.tscaa.org.tw/醫療-復健/醫療相關/醫療院所"
+      }
+    }
+  },
+  {
+    "id": "liu-sen-yung",
+    "name": "劉森永",
+    "enName": "Sen-Yung Liu",
+    "tier": 3,
+    "region": "central",
+    "org": "彰化基督教醫院",
+    "orgId": "cch",
+    "title": "醫療長（復健專科）",
+    "cluster": "cch-therapeutics",
+    "roles": [
+      "clinical",
+      "rehab",
+      "trialist"
+    ],
+    "subtypes": [
+      "SCA3"
+    ],
+    "focus": "復健醫學；主持 SCA3 重複性經顱磁刺激（rTMS）試驗。",
+    "pubs": 0,
+    "pubNote": "2021–2026 未見以 SCA 為題之掛名論文",
+    "highlights": [],
+    "recent": [],
+    "trialRoles": [
+      {
+        "nct": "NCT05973019",
+        "role": "主持人（PI）",
+        "note": "高頻 rTMS 改善 SCA 功能；登錄狀態為 UNKNOWN"
+      }
+    ],
+    "society": "",
+    "channel": {
+      "label": "彰化基督教醫院",
+      "url": "https://www.cch.org.tw/"
+    },
+    "sources": [
+      {
+        "label": "NCT05973019",
+        "url": "https://clinicaltrials.gov/study/NCT05973019"
+      }
+    ],
+    "en": {
+      "org": "Changhua Christian Hospital",
+      "title": "Chief Medical Officer (rehabilitation medicine)",
+      "focus": "Rehabilitation medicine; leads a repetitive transcranial magnetic stimulation trial in SCA3.",
+      "pubNote": "No SCA-titled papers found for 2021–2026",
+      "subtypes": [
+        "SCA3"
+      ],
+      "trialRoles": [
+        {
+          "nct": "NCT05973019",
+          "role": "Principal investigator",
+          "note": "High-frequency rTMS for function in SCA; registry status reads UNKNOWN"
+        }
+      ],
+      "channel": {
+        "label": "Changhua Christian Hospital",
+        "url": "https://www.cch.org.tw/"
+      }
+    }
+  },
+  {
+    "id": "chang-ya-ju",
+    "name": "張雅如",
+    "enName": "Ya-Ju Chang",
+    "tier": 3,
+    "region": "north",
+    "org": "長庚大學物理治療學系",
+    "orgId": "cgu",
+    "title": "教授（教務長）",
+    "cluster": "cgmh-polyq",
+    "roles": [
+      "research",
+      "rehab",
+      "trialist"
+    ],
+    "subtypes": [
+      "泛 SCA"
+    ],
+    "focus": "SCA 復健介入研究，是台灣此領域登錄試驗最多的團隊。",
+    "pubs": 1,
+    "pubNote": "2021–2026（另主持 4 件登錄試驗）",
+    "highlights": [
+      {
+        "year": "2025",
+        "text": "《NeuroRehabilitation》SCA 全身震動訓練隨機對照試驗（通訊作者）",
+        "link": {
+          "label": "PubMed 40539612",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40539612/"
+        }
+      }
+    ],
+    "recent": [],
+    "trialRoles": [
+      {
+        "nct": "NCT06600269",
+        "role": "主持人（PI）",
+        "note": "踩車先導協調訓練，收案中"
+      },
+      {
+        "nct": "NCT06363058",
+        "role": "主持人（PI）",
+        "note": "電刺激踩車訓練"
+      },
+      {
+        "nct": "NCT01983631",
+        "role": "主持人（PI）",
+        "note": "全身震動訓練"
+      },
+      {
+        "nct": "NCT01983670",
+        "role": "主持人（PI）",
+        "note": "前饋式復健於辨距不良"
+      }
+    ],
+    "society": "",
+    "channel": {
+      "label": "長庚大學物理治療學系",
+      "url": "https://www.cgu.edu.tw/pt"
+    },
+    "sources": [
+      {
+        "label": "NCT06600269",
+        "url": "https://clinicaltrials.gov/study/NCT06600269"
+      }
+    ],
+    "en": {
+      "org": "Department of Physical Therapy, Chang Gung University",
+      "title": "Professor (Dean of Academic Affairs)",
+      "focus": "Rehabilitation intervention research in SCA — the most prolific registered-trial group in Taiwan for this area.",
+      "pubNote": "2021–2026 (plus four registered trials as PI)",
+      "subtypes": [
+        "SCA broadly"
+      ],
+      "highlights": [
+        {
+          "year": "2025",
+          "text": "NeuroRehabilitation — a randomised controlled trial of whole-body vibration training in SCA (corresponding author)",
+          "link": {
+            "label": "PubMed 40539612",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40539612/"
+          }
+        }
+      ],
+      "trialRoles": [
+        {
+          "nct": "NCT06600269",
+          "role": "Principal investigator",
+          "note": "Cycling-based priming coordination training, enrolling"
+        },
+        {
+          "nct": "NCT06363058",
+          "role": "Principal investigator",
+          "note": "Electrical stimulation cycling training"
+        },
+        {
+          "nct": "NCT01983631",
+          "role": "Principal investigator",
+          "note": "Whole-body vibration training"
+        },
+        {
+          "nct": "NCT01983670",
+          "role": "Principal investigator",
+          "note": "Feedforward rehabilitation in hypermetria"
+        }
+      ],
+      "channel": {
+        "label": "CGU Physical Therapy",
+        "url": "https://www.cgu.edu.tw/pt"
+      }
+    }
+  },
+  {
+    "id": "chiang-han-lin",
+    "name": "蔣漢琳",
+    "enName": "Han-Lin Chiang",
+    "tier": 3,
+    "region": "north",
+    "org": "台北榮總",
+    "orgId": "tvgh",
+    "title": "神經內科主治醫師",
+    "cluster": "other-clinical",
+    "roles": [
+      "clinical",
+      "society"
+    ],
+    "subtypes": [
+      "動作障礙"
+    ],
+    "focus": "動作障礙臨床；台灣動作障礙學會常務理事。",
+    "pubs": 0,
+    "pubNote": "2021–2026 未見以 SCA 為題之掛名論文",
+    "highlights": [],
+    "recent": [],
+    "trialRoles": [],
+    "society": "台灣動作障礙學會第十屆常務理事",
+    "channel": {
+      "label": "台北榮總神經內科",
+      "url": "https://wd.vghtpe.gov.tw/vghneuro/"
+    },
+    "sources": [
+      {
+        "label": "TMDS 理監事",
+        "url": "https://www.tmds.org.tw/about/index_3.asp"
+      }
+    ],
+    "dq": "英文姓名為通行對應；SCA 專項動態查無。",
+    "en": {
+      "org": "Taipei Veterans General Hospital",
+      "title": "Attending Neurologist",
+      "focus": "Clinical movement disorders; standing board member of the Taiwan Movement Disorder Society.",
+      "pubNote": "No SCA-titled papers found for 2021–2026",
+      "subtypes": [
+        "movement disorders"
+      ],
+      "society": "Standing board member (10th term), Taiwan Movement Disorder Society",
+      "dq": "Romanisation follows common usage; no SCA-specific activity found.",
+      "channel": {
+        "label": "TVGH Neurology",
+        "url": "https://wd.vghtpe.gov.tw/vghneuro/"
+      }
+    }
+  },
+  {
+    "id": "lee-chia-ju",
+    "name": "李佳儒",
+    "enName": "Chia-Ju Lee",
+    "tier": 3,
+    "region": "central",
+    "org": "彰化基督教醫院",
+    "orgId": "cch",
+    "title": "神經內科",
+    "cluster": "cch-therapeutics",
+    "roles": [
+      "clinical",
+      "research"
+    ],
+    "subtypes": [
+      "泛 SCA"
+    ],
+    "focus": "彰基神經內科新生代；台灣 SCA 總回顧的第一作者。",
+    "pubs": 2,
+    "pubNote": "2021–2026",
+    "highlights": [
+      {
+        "year": "2025",
+        "text": "《Acta Neurologica Taiwanica》台灣脊髓小腦運動失調症回顧（第一作者）",
+        "link": {
+          "label": "PubMed 40471914",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40471914/"
+        }
+      }
+    ],
+    "recent": [],
+    "trialRoles": [],
+    "society": "",
+    "channel": {
+      "label": "彰化基督教醫院",
+      "url": "https://www.cch.org.tw/"
+    },
+    "sources": [
+      {
+        "label": "PubMed 40471914",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40471914/"
+      }
+    ],
+    "en": {
+      "org": "Changhua Christian Hospital",
+      "title": "Neurology",
+      "focus": "An early-career member of the CCH neurology group; first author of the Taiwan SCA review.",
+      "pubNote": "2021–2026",
+      "subtypes": [
+        "SCA broadly"
+      ],
+      "highlights": [
+        {
+          "year": "2025",
+          "text": "Acta Neurologica Taiwanica — a review of spinocerebellar ataxias in Taiwan (first author)",
+          "link": {
+            "label": "PubMed 40471914",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40471914/"
+          }
+        }
+      ],
+      "channel": {
+        "label": "Changhua Christian Hospital",
+        "url": "https://www.cch.org.tw/"
+      }
+    }
+  },
+  {
+    "id": "jeng-chung-jiuan",
+    "name": "鄭瓊娟",
+    "enName": "Chung-Jiuan Jeng",
+    "tier": 2,
+    "region": "north",
+    "org": "陽明交通大學",
+    "orgId": "nycu",
+    "title": "解剖學及細胞生物學研究所教授兼所長",
+    "cluster": "nycu-channel",
+    "roles": [
+      "research"
+    ],
+    "subtypes": [
+      "SCA19/22"
+    ],
+    "focus": "SCA19/22（KCND3／Kv4.3）離子通道病變的蛋白恆定與致病機轉，為台灣此亞型基礎研究的核心 PI。",
+    "pubs": 3,
+    "pubNote": "2021–2026；三篇皆為通訊作者",
+    "highlights": [
+      {
+        "year": "2025",
+        "text": "《Cell Mol Life Sci》SCA19/22 果蠅模型 Shal／KV4 蛋白恆定回復（通訊作者）",
+        "link": {
+          "label": "PubMed 40293501",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40293501/"
+        }
+      }
+    ],
+    "recent": [],
+    "trialRoles": [],
+    "society": "",
+    "channel": {
+      "label": "陽明交大解剖所",
+      "url": "https://ias.nycu.edu.tw/content/faculty-text.php?id=1"
+    },
+    "sources": [
+      {
+        "label": "陽明交大師資頁",
+        "url": "https://ias.nycu.edu.tw/content/faculty-text.php?id=1"
+      }
+    ],
+    "en": {
+      "org": "National Yang Ming Chiao Tung University",
+      "title": "Professor and Director, Institute of Anatomy and Cell Biology",
+      "focus": "Proteostasis and pathogenesis of the SCA19/22 channelopathy (KCND3/Kv4.3) — the core principal investigator for this subtype in Taiwan.",
+      "pubNote": "2021–2026; corresponding author on all three",
+      "subtypes": [
+        "SCA19/22"
+      ],
+      "highlights": [
+        {
+          "year": "2025",
+          "text": "Cell Mol Life Sci — restoring Shal/KV4 proteostasis in a Drosophila model of SCA19/22 (corresponding author)",
+          "link": {
+            "label": "PubMed 40293501",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40293501/"
+          }
+        }
+      ],
+      "channel": {
+        "label": "NYCU Institute of Anatomy and Cell Biology",
+        "url": "https://ias.nycu.edu.tw/content/faculty-text.php?id=1"
+      }
+    }
+  },
+  {
+    "id": "tsai-ting-fen",
+    "name": "蔡亭芬",
+    "enName": "Ting-Fen Tsai",
+    "tier": 3,
+    "region": "north",
+    "org": "陽明交通大學",
+    "orgId": "nycu",
+    "title": "生命科學系暨基因體科學研究所特聘教授",
+    "cluster": "nycu-channel",
+    "roles": [
+      "research"
+    ],
+    "subtypes": [
+      "SCA22"
+    ],
+    "focus": "小鼠遺傳學與疾病模型，建立 SCA22 的 Kcnd3 顯性負性小鼠。",
+    "pubs": 2,
+    "pubNote": "2021–2026",
+    "highlights": [
+      {
+        "year": "2025",
+        "text": "《J Pathol》SCA22 Kcnd3 F227del 顯性負性小鼠模型（通訊作者）",
+        "link": {
+          "label": "PubMed 39562497",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/39562497/"
+        }
+      }
+    ],
+    "recent": [],
+    "trialRoles": [],
+    "society": "",
+    "channel": {
+      "label": "陽明交大生科系",
+      "url": "https://dls.nycu.edu.tw/faculty/faculty-member/tftsai.html"
+    },
+    "sources": [
+      {
+        "label": "陽明交大師資頁",
+        "url": "https://dls.nycu.edu.tw/faculty/faculty-member/tftsai.html"
+      }
+    ],
+    "en": {
+      "org": "National Yang Ming Chiao Tung University",
+      "title": "Distinguished Professor, Department of Life Sciences and Institute of Genome Sciences",
+      "focus": "Mouse genetics and disease models; created the dominant-negative Kcnd3 mouse for SCA22.",
+      "pubNote": "2021–2026",
+      "subtypes": [
+        "SCA22"
+      ],
+      "highlights": [
+        {
+          "year": "2025",
+          "text": "J Pathol — a dominant-negative Kcnd3 F227del mouse model of SCA22 (corresponding author)",
+          "link": {
+            "label": "PubMed 39562497",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39562497/"
+          }
+        }
+      ],
+      "channel": {
+        "label": "NYCU Life Sciences",
+        "url": "https://dls.nycu.edu.tw/faculty/faculty-member/tftsai.html"
+      }
+    }
+  },
+  {
+    "id": "cheng-tzu-hao",
+    "name": "鄭子豪",
+    "enName": "Tzu-Hao Cheng",
+    "tier": 3,
+    "region": "north",
+    "org": "陽明交通大學",
+    "orgId": "nycu",
+    "title": "生化暨分子生物研究所特聘教授",
+    "cluster": "nycu-channel",
+    "roles": [
+      "research"
+    ],
+    "subtypes": [
+      "SCA3",
+      "polyQ"
+    ],
+    "focus": "CAG 重複序列的轉錄調控與 polyQ 疾病藥物開發（PIAS1 疾病修飾軸線）。",
+    "pubs": 2,
+    "pubNote": "2021–2026",
+    "highlights": [
+      {
+        "year": "2024",
+        "text": "《Int J Biochem Cell Biol》PIAS1 S510G 選擇性削弱突變 ataxin-3 的蛋白恆定（通訊作者）",
+        "link": {
+          "label": "PubMed 39293559",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/39293559/"
+        }
+      }
+    ],
+    "recent": [],
+    "trialRoles": [],
+    "society": "",
+    "channel": {
+      "label": "陽明交大生化所",
+      "url": "https://biochem.nycu.edu.tw/english/faculty/full-time/cheng-tzu-hao/"
+    },
+    "sources": [
+      {
+        "label": "陽明交大師資頁",
+        "url": "https://biochem.nycu.edu.tw/english/faculty/full-time/cheng-tzu-hao/"
+      }
+    ],
+    "en": {
+      "org": "National Yang Ming Chiao Tung University",
+      "title": "Distinguished Professor, Institute of Biochemistry and Molecular Biology",
+      "focus": "Transcriptional regulation of CAG repeats and drug development for polyQ disease (the PIAS1 disease-modifier axis).",
+      "pubNote": "2021–2026",
+      "subtypes": [
+        "SCA3",
+        "polyQ"
+      ],
+      "highlights": [
+        {
+          "year": "2024",
+          "text": "Int J Biochem Cell Biol — PIAS1 S510G selectively impairs mutant ataxin-3 proteostasis (corresponding author)",
+          "link": {
+            "label": "PubMed 39293559",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39293559/"
+          }
+        }
+      ],
+      "channel": {
+        "label": "NYCU Biochemistry",
+        "url": "https://biochem.nycu.edu.tw/english/faculty/full-time/cheng-tzu-hao/"
+      }
+    }
+  },
+  {
+    "id": "chern-yijuang",
+    "name": "陳儀莊",
+    "enName": "Yijuang Chern",
+    "tier": 2,
+    "region": "north",
+    "org": "中央研究院生物醫學科學研究所",
+    "orgId": "sinica",
+    "title": "所長、特聘研究員",
+    "cluster": "academic-model",
+    "roles": [
+      "research"
+    ],
+    "subtypes": [
+      "polyQ",
+      "亨丁頓"
+    ],
+    "focus": "神經退化疾病的訊息傳遞與基因調控（本業亨丁頓舞蹈症）；在 SCA 領域為 PIAS1 疾病修飾軸線的合作者。",
+    "pubs": 2,
+    "pubNote": "2021–2026（均為共同作者）",
+    "highlights": [
+      {
+        "year": "2022",
+        "text": "《Movement Disorders》PIAS1 S510G 保護性變異延緩 polyQ 疾病發病（共同作者）",
+        "link": {
+          "label": "PubMed 34951052",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/34951052/"
+        }
+      }
+    ],
+    "recent": [],
+    "trialRoles": [],
+    "society": "",
+    "channel": {
+      "label": "中研院生醫所",
+      "url": "https://www.ibms.sinica.edu.tw/ch/intro/director.html"
+    },
+    "sources": [
+      {
+        "label": "中研院生醫所所長頁",
+        "url": "https://www.ibms.sinica.edu.tw/ch/intro/director.html"
+      }
+    ],
+    "dq": "非 SCA 主責 PI，收錄係因其為 polyQ 疾病修飾研究的合作者與制度性節點。",
+    "en": {
+      "org": "Institute of Biomedical Sciences, Academia Sinica",
+      "title": "Director; Distinguished Research Fellow",
+      "focus": "Signal transduction and gene regulation in neurodegeneration (primarily Huntington's disease); in SCA, a collaborator on the PIAS1 disease-modifier axis.",
+      "pubNote": "2021–2026 (co-authorship)",
+      "subtypes": [
+        "polyQ",
+        "Huntington's"
+      ],
+      "highlights": [
+        {
+          "year": "2022",
+          "text": "Movement Disorders — the protective PIAS1 S510G variant delays onset in polyQ disease (co-author)",
+          "link": {
+            "label": "PubMed 34951052",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34951052/"
+          }
+        }
+      ],
+      "dq": "Not a lead SCA investigator; listed as a collaborator on polyQ disease-modifier work and an institutional node.",
+      "channel": {
+        "label": "IBMS Academia Sinica",
+        "url": "https://www.ibms.sinica.edu.tw/ch/intro/director.html"
+      }
+    }
+  },
+  {
+    "id": "lin-shinn-zong",
+    "name": "林欣榮",
+    "enName": "Shinn-Zong Lin",
+    "tier": 2,
+    "region": "east",
+    "org": "花蓮慈濟醫院",
+    "orgId": "tzuchi-hl",
+    "title": "院長（神經外科）",
+    "cluster": "tzuchi-delivery",
+    "roles": [
+      "clinical",
+      "research"
+    ],
+    "subtypes": [
+      "SCA3"
+    ],
+    "focus": "幹細胞與再生醫學的臨床轉譯；主導 SCA3 之鼻腔給藥脂質體與細胞治療研究。",
+    "pubs": 3,
+    "pubNote": "2021–2026",
+    "highlights": [
+      {
+        "year": "2024",
+        "text": "《Drug Deliv Transl Res》鼻腔給予 PGK1 脂質體治療 SCA3（通訊作者）",
+        "link": {
+          "label": "PubMed 38161195",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38161195/"
+        }
+      }
+    ],
+    "recent": [],
+    "trialRoles": [],
+    "society": "",
+    "channel": {
+      "label": "花蓮慈濟醫院",
+      "url": "https://hlm.tzuchi.com.tw/home/index.php/team-nsurg/dr04005"
+    },
+    "sources": [
+      {
+        "label": "花蓮慈濟醫師頁",
+        "url": "https://hlm.tzuchi.com.tw/home/index.php/team-nsurg/dr04005"
+      }
+    ],
+    "en": {
+      "org": "Hualien Tzu Chi Hospital",
+      "title": "Superintendent (Neurosurgery)",
+      "focus": "Clinical translation of stem cell and regenerative medicine; leads intranasal liposomal delivery and cell therapy work in SCA3.",
+      "pubNote": "2021–2026",
+      "subtypes": [
+        "SCA3"
+      ],
+      "highlights": [
+        {
+          "year": "2024",
+          "text": "Drug Deliv Transl Res — intranasal PGK1 liposomes for SCA3 (corresponding author)",
+          "link": {
+            "label": "PubMed 38161195",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38161195/"
+          }
+        }
+      ],
+      "channel": {
+        "label": "Hualien Tzu Chi Hospital",
+        "url": "https://hlm.tzuchi.com.tw/home/index.php/team-nsurg/dr04005"
+      }
+    }
+  },
+  {
+    "id": "harn-horng-jyh",
+    "name": "韓鴻志",
+    "enName": "Horng-Jyh Harn",
+    "tier": 3,
+    "region": "east",
+    "org": "花蓮慈濟醫院病理部／生物創新中心",
+    "orgId": "tzuchi-hl",
+    "title": "教授；美國國家發明家學會院士",
+    "cluster": "tzuchi-delivery",
+    "roles": [
+      "research"
+    ],
+    "subtypes": [
+      "SCA3"
+    ],
+    "focus": "SCA3 新藥（HK-001 系列）的轉譯開發。",
+    "pubs": 4,
+    "pubNote": "2021–2026（共同作者，實質為共同 PI）",
+    "highlights": [],
+    "recent": [],
+    "trialRoles": [],
+    "society": "",
+    "channel": {
+      "label": "花蓮慈濟醫院",
+      "url": "https://hlm.tzuchi.com.tw/home/index.php/team-pat/dr45005"
+    },
+    "sources": [
+      {
+        "label": "花蓮慈濟醫師頁",
+        "url": "https://hlm.tzuchi.com.tw/home/index.php/team-pat/dr45005"
+      }
+    ],
+    "en": {
+      "org": "Department of Pathology / Buddhist Tzu Chi Bioinnovation Center, Hualien Tzu Chi Hospital",
+      "title": "Professor; Fellow, National Academy of Inventors",
+      "focus": "Translational development of SCA3 drug candidates (the HK-001 series).",
+      "pubNote": "2021–2026 (co-author, effectively co-PI)",
+      "subtypes": [
+        "SCA3"
+      ],
+      "channel": {
+        "label": "Hualien Tzu Chi Hospital",
+        "url": "https://hlm.tzuchi.com.tw/home/index.php/team-pat/dr45005"
+      }
+    }
+  },
+  {
+    "id": "chiou-tzyy-wen",
+    "name": "邱紫文",
+    "enName": "Tzyy-Wen Chiou",
+    "tier": 3,
+    "region": "east",
+    "org": "國立東華大學生命科學系",
+    "orgId": "ndhu",
+    "title": "教授",
+    "cluster": "tzuchi-delivery",
+    "roles": [
+      "research"
+    ],
+    "subtypes": [
+      "SCA3"
+    ],
+    "focus": "當歸萃取物（n-butylidenephthalide）與外泌體／脂質體遞送用於 SCA3 治療。",
+    "pubs": 4,
+    "pubNote": "2021–2026；通訊作者 3 篇",
+    "highlights": [
+      {
+        "year": "2023",
+        "text": "嗅鞘細胞外泌體改善 SCA3／MJD 小鼠（通訊作者）",
+        "link": {
+          "label": "PubMed 37832855",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/37832855/"
+        }
+      },
+      {
+        "year": "2021",
+        "text": "正丁基苯酞調控自噬改善 SCA3（通訊作者）",
+        "link": {
+          "label": "PubMed 34199295",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/34199295/"
+        }
+      }
+    ],
+    "recent": [],
+    "trialRoles": [],
+    "society": "",
+    "channel": {
+      "label": "國立東華大學",
+      "url": "https://www.ndhu.edu.tw/"
+    },
+    "sources": [
+      {
+        "label": "PubMed 37832855",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37832855/"
+      }
+    ],
+    "en": {
+      "org": "Department of Life Science, National Dong Hwa University",
+      "title": "Professor",
+      "focus": "n-butylidenephthalide (an Angelica extract) with exosome and liposome delivery for SCA3.",
+      "pubNote": "2021–2026; corresponding author on 3",
+      "subtypes": [
+        "SCA3"
+      ],
+      "highlights": [
+        {
+          "year": "2023",
+          "text": "Olfactory ensheathing cell exosomes improve outcomes in SCA3/MJD mice (corresponding author)",
+          "link": {
+            "label": "PubMed 37832855",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37832855/"
+          }
+        },
+        {
+          "year": "2021",
+          "text": "n-butylidenephthalide modulates autophagy to improve SCA3 (corresponding author)",
+          "link": {
+            "label": "PubMed 34199295",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34199295/"
+          }
+        }
+      ],
+      "channel": {
+        "label": "National Dong Hwa University",
+        "url": "https://www.ndhu.edu.tw/"
+      }
+    }
+  },
+  {
+    "id": "hsieh-mingli",
+    "name": "謝明麗",
+    "enName": "Mingli Hsieh",
+    "tier": 3,
+    "region": "central",
+    "org": "東海大學生命科學系",
+    "orgId": "thu",
+    "title": "終身特聘教授",
+    "cluster": "cch-therapeutics",
+    "roles": [
+      "research"
+    ],
+    "subtypes": [
+      "SCA3"
+    ],
+    "focus": "SCA3 細胞與果蠅模型的氧化壓力與代謝機轉，為彰基團隊的長期學界夥伴。",
+    "pubs": 5,
+    "pubNote": "2021–2026",
+    "highlights": [
+      {
+        "year": "2022",
+        "text": "《Metab Brain Dis》馬查多—約瑟夫病之 CA8 與糖代謝（通訊作者）",
+        "link": {
+          "label": "PubMed 35488942",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/35488942/"
+        }
+      }
+    ],
+    "recent": [],
+    "trialRoles": [],
+    "society": "",
+    "channel": {
+      "label": "東海大學生科系",
+      "url": "https://thtech.thu.edu.tw/?id=1&lnk=intoduce"
+    },
+    "sources": [
+      {
+        "label": "東海大學師資頁",
+        "url": "https://thtech.thu.edu.tw/?id=1&lnk=intoduce"
+      }
+    ],
+    "en": {
+      "org": "Department of Life Science, Tunghai University",
+      "title": "Lifetime Distinguished Professor",
+      "focus": "Oxidative stress and metabolic mechanisms in SCA3 cell and Drosophila models; a long-standing academic partner of the CCH group.",
+      "pubNote": "2021–2026",
+      "subtypes": [
+        "SCA3"
+      ],
+      "highlights": [
+        {
+          "year": "2022",
+          "text": "Metab Brain Dis — CA8 and glucose metabolism in Machado–Joseph disease (corresponding author)",
+          "link": {
+            "label": "PubMed 35488942",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35488942/"
+          }
+        }
+      ],
+      "channel": {
+        "label": "Tunghai University Life Science",
+        "url": "https://thtech.thu.edu.tw/?id=1&lnk=intoduce"
+      }
+    }
+  },
+  {
+    "id": "lee-chen-guey-jen",
+    "name": "李桂楨",
+    "enName": "Guey-Jen Lee-Chen",
+    "tier": 3,
+    "region": "north",
+    "org": "國立台灣師範大學生命科學系",
+    "orgId": "ntnu",
+    "title": "特聘教授",
+    "cluster": "academic-model",
+    "roles": [
+      "research"
+    ],
+    "subtypes": [
+      "SCA3",
+      "SCA17",
+      "polyQ"
+    ],
+    "focus": "polyQ 疾病細胞模型的藥物篩選，與長庚臨床端長期合作。",
+    "pubs": 2,
+    "pubNote": "2021–2026",
+    "highlights": [
+      {
+        "year": "2024",
+        "text": "《Eur J Pharmacol》SCA3 之抗發炎化合物（通訊作者）",
+        "link": {
+          "label": "PubMed 38320719",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38320719/"
+        }
+      }
+    ],
+    "recent": [],
+    "trialRoles": [],
+    "society": "",
+    "channel": {
+      "label": "台師大生科系",
+      "url": "https://scholar.lib.ntnu.edu.tw/zh/persons/guey-jen-lee-chen/"
+    },
+    "sources": [
+      {
+        "label": "台師大學者頁",
+        "url": "https://scholar.lib.ntnu.edu.tw/zh/persons/guey-jen-lee-chen/"
+      }
+    ],
+    "en": {
+      "org": "Department of Life Science, National Taiwan Normal University",
+      "title": "Distinguished Professor",
+      "focus": "Drug screening in polyQ disease cell models, in long-running collaboration with the Chang Gung clinical group.",
+      "pubNote": "2021–2026",
+      "subtypes": [
+        "SCA3",
+        "SCA17",
+        "polyQ"
+      ],
+      "highlights": [
+        {
+          "year": "2024",
+          "text": "Eur J Pharmacol — anti-inflammatory compounds in SCA3 (corresponding author)",
+          "link": {
+            "label": "PubMed 38320719",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38320719/"
+          }
+        }
+      ],
+      "channel": {
+        "label": "NTNU Life Science",
+        "url": "https://scholar.lib.ntnu.edu.tw/zh/persons/guey-jen-lee-chen/"
+      }
+    }
+  },
+  {
+    "id": "chang-kuo-hsuan",
+    "name": "張國軒",
+    "enName": "Kuo-Hsuan Chang",
+    "tier": 3,
+    "region": "north",
+    "org": "林口長庚醫院",
+    "orgId": "cgmh-linkou",
+    "title": "神經內科主治醫師",
+    "cluster": "cgmh-polyq",
+    "roles": [
+      "clinical",
+      "research"
+    ],
+    "subtypes": [
+      "SCA3",
+      "polyQ"
+    ],
+    "focus": "神經退化疾病的生物標記與 iPSC 藥物平台。",
+    "pubs": 2,
+    "pubNote": "2021–2026（共同作者）",
+    "highlights": [],
+    "recent": [],
+    "trialRoles": [],
+    "society": "",
+    "channel": {
+      "label": "林口長庚神經內科",
+      "url": "https://www.cgmh.org.tw/tw/Services/DoctorInfo/5128"
+    },
+    "sources": [
+      {
+        "label": "長庚醫師頁",
+        "url": "https://www.cgmh.org.tw/tw/Services/DoctorInfo/5128"
+      }
+    ],
+    "en": {
+      "org": "Chang Gung Memorial Hospital, Linkou",
+      "title": "Attending Neurologist",
+      "focus": "Biomarkers and iPSC-based drug platforms for neurodegenerative disease.",
+      "pubNote": "2021–2026 (co-authorship)",
+      "subtypes": [
+        "SCA3",
+        "polyQ"
+      ],
+      "channel": {
+        "label": "CGMH Linkou Neurology",
+        "url": "https://www.cgmh.org.tw/tw/Services/DoctorInfo/5128"
+      }
+    }
+  },
+  {
+    "id": "chan-chih-chiang",
+    "name": "詹智強",
+    "enName": "Chih-Chiang Chan",
+    "tier": 3,
+    "region": "north",
+    "org": "台大醫學院生理學研究所",
+    "orgId": "ntuh",
+    "title": "教授",
+    "cluster": "ntu-mechanism",
+    "roles": [
+      "research"
+    ],
+    "subtypes": [
+      "SCA36"
+    ],
+    "focus": "神經退化果蠅模型、膜運輸與鞘脂代謝；與北榮臨床端跨機構合作。",
+    "pubs": 2,
+    "pubNote": "2021–2026",
+    "highlights": [
+      {
+        "year": "2025",
+        "text": "《PLoS Genetics》SCA36 果蠅模型（通訊作者）",
+        "link": {
+          "label": "PubMed 41337098",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41337098/"
+        }
+      }
+    ],
+    "recent": [],
+    "trialRoles": [],
+    "society": "",
+    "channel": {
+      "label": "台大生理所",
+      "url": "https://physiology.mc.ntu.edu.tw/Faculty/Faculty?id=27&openid=2"
+    },
+    "sources": [
+      {
+        "label": "台大生理所師資頁",
+        "url": "https://physiology.mc.ntu.edu.tw/Faculty/Faculty?id=27&openid=2"
+      }
+    ],
+    "en": {
+      "org": "Institute of Physiology, NTU College of Medicine",
+      "title": "Professor",
+      "focus": "Drosophila models of neurodegeneration, membrane trafficking and sphingolipid metabolism; collaborates across institutions with TVGH clinicians.",
+      "pubNote": "2021–2026",
+      "subtypes": [
+        "SCA36"
+      ],
+      "highlights": [
+        {
+          "year": "2025",
+          "text": "PLoS Genetics — a Drosophila model of SCA36 (corresponding author)",
+          "link": {
+            "label": "PubMed 41337098",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41337098/"
+          }
+        }
+      ],
+      "channel": {
+        "label": "NTU Institute of Physiology",
+        "url": "https://physiology.mc.ntu.edu.tw/Faculty/Faculty?id=27&openid=2"
+      }
+    }
+  },
+  {
+    "id": "tang-chih-yung",
+    "name": "湯志永",
+    "enName": "Chih-Yung Tang",
+    "tier": 3,
+    "region": "north",
+    "org": "台大醫學院生理學研究所",
+    "orgId": "ntuh",
+    "title": "教授",
+    "cluster": "nycu-channel",
+    "roles": [
+      "research"
+    ],
+    "subtypes": [
+      "SCA19/22"
+    ],
+    "focus": "KCND3／Kv4.3 通道病變的分子機轉。",
+    "pubs": 3,
+    "pubNote": "2021–2026（共同作者）",
+    "highlights": [],
+    "recent": [],
+    "trialRoles": [],
+    "society": "",
+    "channel": {
+      "label": "台大生理所",
+      "url": "https://physiology.mc.ntu.edu.tw/Faculty/Faculty?id=38&openid=2"
+    },
+    "sources": [
+      {
+        "label": "台大生理所師資頁",
+        "url": "https://physiology.mc.ntu.edu.tw/Faculty/Faculty?id=38&openid=2"
+      }
+    ],
+    "en": {
+      "org": "Institute of Physiology, NTU College of Medicine",
+      "title": "Professor",
+      "focus": "Molecular mechanisms of the KCND3/Kv4.3 channelopathy.",
+      "pubNote": "2021–2026 (co-authorship)",
+      "subtypes": [
+        "SCA19/22"
+      ],
+      "channel": {
+        "label": "NTU Institute of Physiology",
+        "url": "https://physiology.mc.ntu.edu.tw/Faculty/Faculty?id=38&openid=2"
+      }
+    }
+  },
+  {
+    "id": "listed-01",
+    "name": "林恭平",
+    "enName": "",
+    "tier": 4,
+    "region": "",
+    "org": "台北榮總",
+    "orgId": "",
+    "title": "神經內科",
+    "cluster": "listed",
+    "roles": [
+      "listed"
+    ],
+    "subtypes": [],
+    "focus": "由病友協會或專科學會名單佐證的 SCA 相關醫師，本平台尚未逐一查證其現職與 SCA 專項活動。",
+    "pubs": 0,
+    "pubNote": "未查證",
+    "highlights": [],
+    "recent": [],
+    "trialRoles": [],
+    "society": "",
+    "channel": null,
+    "sources": [
+      {
+        "label": "TSCAA 醫療院所名單",
+        "url": "https://www.tscaa.org.tw/醫療-復健/醫療相關/醫療院所"
+      }
+    ],
+    "dq": "名單層：僅有名單佐證，現職、專長與 SCA 專項活動未經個別查證。",
+    "en": {
+      "org": "Taipei Veterans General Hospital",
+      "title": "Neurology",
+      "focus": "A physician associated with SCA care via patient-association or specialty-society listings; this platform has not yet individually verified their current post or SCA-specific activity.",
+      "pubNote": "not verified",
+      "subtypes": [],
+      "sources": [
+        {
+          "label": "TSCAA referral roster",
+          "url": "https://www.tscaa.org.tw/醫療-復健/醫療相關/醫療院所"
+        }
+      ],
+      "dq": "Listing tier: supported only by a name listing; current post, specialty and SCA-specific activity are unverified."
+    }
+  },
+  {
+    "id": "listed-02",
+    "name": "單定一",
+    "enName": "",
+    "tier": 4,
+    "region": "",
+    "org": "台北榮總",
+    "orgId": "",
+    "title": "神經內科",
+    "cluster": "listed",
+    "roles": [
+      "listed"
+    ],
+    "subtypes": [],
+    "focus": "由病友協會或專科學會名單佐證的 SCA 相關醫師，本平台尚未逐一查證其現職與 SCA 專項活動。",
+    "pubs": 0,
+    "pubNote": "未查證",
+    "highlights": [],
+    "recent": [],
+    "trialRoles": [],
+    "society": "",
+    "channel": null,
+    "sources": [
+      {
+        "label": "TSCAA 醫療院所名單",
+        "url": "https://www.tscaa.org.tw/醫療-復健/醫療相關/醫療院所"
+      }
+    ],
+    "dq": "名單層：僅有名單佐證，現職、專長與 SCA 專項活動未經個別查證。",
+    "en": {
+      "org": "Taipei Veterans General Hospital",
+      "title": "Neurology",
+      "focus": "A physician associated with SCA care via patient-association or specialty-society listings; this platform has not yet individually verified their current post or SCA-specific activity.",
+      "pubNote": "not verified",
+      "subtypes": [],
+      "sources": [
+        {
+          "label": "TSCAA referral roster",
+          "url": "https://www.tscaa.org.tw/醫療-復健/醫療相關/醫療院所"
+        }
+      ],
+      "dq": "Listing tier: supported only by a name listing; current post, specialty and SCA-specific activity are unverified."
+    }
+  },
+  {
+    "id": "listed-03",
+    "name": "洪成志",
+    "enName": "",
+    "tier": 4,
+    "region": "",
+    "org": "台北榮總",
+    "orgId": "",
+    "title": "精神部",
+    "cluster": "listed",
+    "roles": [
+      "listed"
+    ],
+    "subtypes": [],
+    "focus": "由病友協會或專科學會名單佐證的 SCA 相關醫師，本平台尚未逐一查證其現職與 SCA 專項活動。",
+    "pubs": 0,
+    "pubNote": "未查證",
+    "highlights": [],
+    "recent": [],
+    "trialRoles": [],
+    "society": "",
+    "channel": null,
+    "sources": [
+      {
+        "label": "TSCAA 醫療院所名單",
+        "url": "https://www.tscaa.org.tw/醫療-復健/醫療相關/醫療院所"
+      }
+    ],
+    "dq": "名單層：僅有名單佐證，現職、專長與 SCA 專項活動未經個別查證。",
+    "en": {
+      "org": "Taipei Veterans General Hospital",
+      "title": "Psychiatry",
+      "focus": "A physician associated with SCA care via patient-association or specialty-society listings; this platform has not yet individually verified their current post or SCA-specific activity.",
+      "pubNote": "not verified",
+      "subtypes": [],
+      "sources": [
+        {
+          "label": "TSCAA referral roster",
+          "url": "https://www.tscaa.org.tw/醫療-復健/醫療相關/醫療院所"
+        }
+      ],
+      "dq": "Listing tier: supported only by a name listing; current post, specialty and SCA-specific activity are unverified."
+    }
+  },
+  {
+    "id": "listed-04",
+    "name": "王柏山",
+    "enName": "",
+    "tier": 4,
+    "region": "",
+    "org": "台北市立關渡醫院",
+    "orgId": "",
+    "title": "神經內科",
+    "cluster": "listed",
+    "roles": [
+      "listed"
+    ],
+    "subtypes": [],
+    "focus": "由病友協會或專科學會名單佐證的 SCA 相關醫師，本平台尚未逐一查證其現職與 SCA 專項活動。",
+    "pubs": 0,
+    "pubNote": "未查證",
+    "highlights": [],
+    "recent": [],
+    "trialRoles": [],
+    "society": "",
+    "channel": null,
+    "sources": [
+      {
+        "label": "TSCAA 醫療院所名單",
+        "url": "https://www.tscaa.org.tw/醫療-復健/醫療相關/醫療院所"
+      }
+    ],
+    "dq": "名單層：僅有名單佐證，現職、專長與 SCA 專項活動未經個別查證。",
+    "en": {
+      "org": "Taipei City Hospital Guandu Branch",
+      "title": "Neurology",
+      "focus": "A physician associated with SCA care via patient-association or specialty-society listings; this platform has not yet individually verified their current post or SCA-specific activity.",
+      "pubNote": "not verified",
+      "subtypes": [],
+      "sources": [
+        {
+          "label": "TSCAA referral roster",
+          "url": "https://www.tscaa.org.tw/醫療-復健/醫療相關/醫療院所"
+        }
+      ],
+      "dq": "Listing tier: supported only by a name listing; current post, specialty and SCA-specific activity are unverified."
+    }
+  },
+  {
+    "id": "listed-05",
+    "name": "郭懿芝",
+    "enName": "",
+    "tier": 4,
+    "region": "",
+    "org": "新竹台大分院",
+    "orgId": "",
+    "title": "神經內科",
+    "cluster": "listed",
+    "roles": [
+      "listed"
+    ],
+    "subtypes": [],
+    "focus": "由病友協會或專科學會名單佐證的 SCA 相關醫師，本平台尚未逐一查證其現職與 SCA 專項活動。",
+    "pubs": 0,
+    "pubNote": "未查證",
+    "highlights": [],
+    "recent": [],
+    "trialRoles": [],
+    "society": "",
+    "channel": null,
+    "sources": [
+      {
+        "label": "TSCAA 醫療院所名單",
+        "url": "https://www.tscaa.org.tw/醫療-復健/醫療相關/醫療院所"
+      }
+    ],
+    "dq": "名單層：僅有名單佐證，現職、專長與 SCA 專項活動未經個別查證。",
+    "en": {
+      "org": "NTUH Hsinchu Branch",
+      "title": "Neurology",
+      "focus": "A physician associated with SCA care via patient-association or specialty-society listings; this platform has not yet individually verified their current post or SCA-specific activity.",
+      "pubNote": "not verified",
+      "subtypes": [],
+      "sources": [
+        {
+          "label": "TSCAA referral roster",
+          "url": "https://www.tscaa.org.tw/醫療-復健/醫療相關/醫療院所"
+        }
+      ],
+      "dq": "Listing tier: supported only by a name listing; current post, specialty and SCA-specific activity are unverified."
+    }
+  },
+  {
+    "id": "listed-06",
+    "name": "范恬心",
+    "enName": "",
+    "tier": 4,
+    "region": "",
+    "org": "新竹台大分院",
+    "orgId": "",
+    "title": "神經內科",
+    "cluster": "listed",
+    "roles": [
+      "listed"
+    ],
+    "subtypes": [],
+    "focus": "由病友協會或專科學會名單佐證的 SCA 相關醫師，本平台尚未逐一查證其現職與 SCA 專項活動。",
+    "pubs": 0,
+    "pubNote": "未查證",
+    "highlights": [],
+    "recent": [],
+    "trialRoles": [],
+    "society": "",
+    "channel": null,
+    "sources": [
+      {
+        "label": "TSCAA 醫療院所名單",
+        "url": "https://www.tscaa.org.tw/醫療-復健/醫療相關/醫療院所"
+      }
+    ],
+    "dq": "名單層：僅有名單佐證，現職、專長與 SCA 專項活動未經個別查證。",
+    "en": {
+      "org": "NTUH Hsinchu Branch",
+      "title": "Neurology",
+      "focus": "A physician associated with SCA care via patient-association or specialty-society listings; this platform has not yet individually verified their current post or SCA-specific activity.",
+      "pubNote": "not verified",
+      "subtypes": [],
+      "sources": [
+        {
+          "label": "TSCAA referral roster",
+          "url": "https://www.tscaa.org.tw/醫療-復健/醫療相關/醫療院所"
+        }
+      ],
+      "dq": "Listing tier: supported only by a name listing; current post, specialty and SCA-specific activity are unverified."
+    }
+  },
+  {
+    "id": "listed-07",
+    "name": "陳凱翔",
+    "enName": "",
+    "tier": 4,
+    "region": "",
+    "org": "新竹台大分院",
+    "orgId": "",
+    "title": "神經內科",
+    "cluster": "listed",
+    "roles": [
+      "listed"
+    ],
+    "subtypes": [],
+    "focus": "由病友協會或專科學會名單佐證的 SCA 相關醫師，本平台尚未逐一查證其現職與 SCA 專項活動。",
+    "pubs": 0,
+    "pubNote": "未查證",
+    "highlights": [],
+    "recent": [],
+    "trialRoles": [],
+    "society": "",
+    "channel": null,
+    "sources": [
+      {
+        "label": "TMDS 第十屆理事",
+        "url": "https://www.tmds.org.tw/about/index_3.asp"
+      }
+    ],
+    "dq": "名單層：僅有名單佐證，現職、專長與 SCA 專項活動未經個別查證。",
+    "en": {
+      "org": "NTUH Hsinchu Branch",
+      "title": "Neurology",
+      "focus": "A physician associated with SCA care via patient-association or specialty-society listings; this platform has not yet individually verified their current post or SCA-specific activity.",
+      "pubNote": "not verified",
+      "subtypes": [],
+      "sources": [
+        {
+          "label": "TMDS board (10th term)",
+          "url": "https://www.tmds.org.tw/about/index_3.asp"
+        }
+      ],
+      "dq": "Listing tier: supported only by a name listing; current post, specialty and SCA-specific activity are unverified."
+    }
+  },
+  {
+    "id": "listed-08",
+    "name": "鄭文郁",
+    "enName": "",
+    "tier": 4,
+    "region": "",
+    "org": "台中榮總",
+    "orgId": "",
+    "title": "神經外科",
+    "cluster": "listed",
+    "roles": [
+      "listed"
+    ],
+    "subtypes": [],
+    "focus": "由病友協會或專科學會名單佐證的 SCA 相關醫師，本平台尚未逐一查證其現職與 SCA 專項活動。",
+    "pubs": 0,
+    "pubNote": "未查證",
+    "highlights": [],
+    "recent": [],
+    "trialRoles": [],
+    "society": "",
+    "channel": null,
+    "sources": [
+      {
+        "label": "TSCAA 醫療院所名單",
+        "url": "https://www.tscaa.org.tw/醫療-復健/醫療相關/醫療院所"
+      }
+    ],
+    "dq": "名單層：僅有名單佐證，現職、專長與 SCA 專項活動未經個別查證。",
+    "en": {
+      "org": "Taichung Veterans General Hospital",
+      "title": "Neurosurgery",
+      "focus": "A physician associated with SCA care via patient-association or specialty-society listings; this platform has not yet individually verified their current post or SCA-specific activity.",
+      "pubNote": "not verified",
+      "subtypes": [],
+      "sources": [
+        {
+          "label": "TSCAA referral roster",
+          "url": "https://www.tscaa.org.tw/醫療-復健/醫療相關/醫療院所"
+        }
+      ],
+      "dq": "Listing tier: supported only by a name listing; current post, specialty and SCA-specific activity are unverified."
+    }
+  },
+  {
+    "id": "listed-09",
+    "name": "呂明桂",
+    "enName": "",
+    "tier": 4,
+    "region": "",
+    "org": "中國醫藥大學附設醫院",
+    "orgId": "",
+    "title": "神經部",
+    "cluster": "listed",
+    "roles": [
+      "listed"
+    ],
+    "subtypes": [],
+    "focus": "由病友協會或專科學會名單佐證的 SCA 相關醫師，本平台尚未逐一查證其現職與 SCA 專項活動。",
+    "pubs": 0,
+    "pubNote": "未查證",
+    "highlights": [],
+    "recent": [],
+    "trialRoles": [],
+    "society": "",
+    "channel": null,
+    "sources": [
+      {
+        "label": "TMDS 第十屆理事",
+        "url": "https://www.tmds.org.tw/about/index_3.asp"
+      }
+    ],
+    "dq": "名單層：僅有名單佐證，現職、專長與 SCA 專項活動未經個別查證。",
+    "en": {
+      "org": "China Medical University Hospital",
+      "title": "Neurology",
+      "focus": "A physician associated with SCA care via patient-association or specialty-society listings; this platform has not yet individually verified their current post or SCA-specific activity.",
+      "pubNote": "not verified",
+      "subtypes": [],
+      "sources": [
+        {
+          "label": "TMDS board (10th term)",
+          "url": "https://www.tmds.org.tw/about/index_3.asp"
+        }
+      ],
+      "dq": "Listing tier: supported only by a name listing; current post, specialty and SCA-specific activity are unverified."
+    }
+  },
+  {
+    "id": "listed-10",
+    "name": "巫錫霖",
+    "enName": "",
+    "tier": 4,
+    "region": "",
+    "org": "秀傳醫療體系彰化院區",
+    "orgId": "",
+    "title": "神經內科首席主任",
+    "cluster": "listed",
+    "roles": [
+      "listed"
+    ],
+    "subtypes": [],
+    "focus": "由病友協會或專科學會名單佐證的 SCA 相關醫師，本平台尚未逐一查證其現職與 SCA 專項活動。",
+    "pubs": 0,
+    "pubNote": "未查證",
+    "highlights": [],
+    "recent": [],
+    "trialRoles": [],
+    "society": "",
+    "channel": null,
+    "sources": [
+      {
+        "label": "TMDS 第十屆理事",
+        "url": "https://www.tmds.org.tw/about/index_3.asp"
+      }
+    ],
+    "dq": "名單層：僅有名單佐證，現職、專長與 SCA 專項活動未經個別查證。",
+    "en": {
+      "org": "Show Chwan Health Care System, Changhua",
+      "title": "Chief of Neurology",
+      "focus": "A physician associated with SCA care via patient-association or specialty-society listings; this platform has not yet individually verified their current post or SCA-specific activity.",
+      "pubNote": "not verified",
+      "subtypes": [],
+      "sources": [
+        {
+          "label": "TMDS board (10th term)",
+          "url": "https://www.tmds.org.tw/about/index_3.asp"
+        }
+      ],
+      "dq": "Listing tier: supported only by a name listing; current post, specialty and SCA-specific activity are unverified."
+    }
+  },
+  {
+    "id": "listed-11",
+    "name": "劉嘉為",
+    "enName": "",
+    "tier": 4,
+    "region": "",
+    "org": "高雄長庚",
+    "orgId": "",
+    "title": "神經內科",
+    "cluster": "listed",
+    "roles": [
+      "listed"
+    ],
+    "subtypes": [],
+    "focus": "由病友協會或專科學會名單佐證的 SCA 相關醫師，本平台尚未逐一查證其現職與 SCA 專項活動。",
+    "pubs": 0,
+    "pubNote": "未查證",
+    "highlights": [],
+    "recent": [],
+    "trialRoles": [],
+    "society": "",
+    "channel": null,
+    "sources": [
+      {
+        "label": "TSCAA 醫療院所名單",
+        "url": "https://www.tscaa.org.tw/醫療-復健/醫療相關/醫療院所"
+      }
+    ],
+    "dq": "名單層：僅有名單佐證，現職、專長與 SCA 專項活動未經個別查證。",
+    "en": {
+      "org": "Kaohsiung Chang Gung Memorial Hospital",
+      "title": "Neurology",
+      "focus": "A physician associated with SCA care via patient-association or specialty-society listings; this platform has not yet individually verified their current post or SCA-specific activity.",
+      "pubNote": "not verified",
+      "subtypes": [],
+      "sources": [
+        {
+          "label": "TSCAA referral roster",
+          "url": "https://www.tscaa.org.tw/醫療-復健/醫療相關/醫療院所"
+        }
+      ],
+      "dq": "Listing tier: supported only by a name listing; current post, specialty and SCA-specific activity are unverified."
+    }
+  },
+  {
+    "id": "listed-12",
+    "name": "林祖功",
+    "enName": "Tsu-Kung Lin",
+    "tier": 4,
+    "region": "",
+    "org": "高雄長庚",
+    "orgId": "",
+    "title": "神經內科",
+    "cluster": "listed",
+    "roles": [
+      "listed"
+    ],
+    "subtypes": [],
+    "focus": "由病友協會或專科學會名單佐證的 SCA 相關醫師，本平台尚未逐一查證其現職與 SCA 專項活動。",
+    "pubs": 0,
+    "pubNote": "未查證",
+    "highlights": [],
+    "recent": [],
+    "trialRoles": [],
+    "society": "",
+    "channel": null,
+    "sources": [
+      {
+        "label": "TSCAA 名單；TMDS 理事",
+        "url": "https://www.tscaa.org.tw/醫療-復健/醫療相關/醫療院所"
+      }
+    ],
+    "dq": "名單層：僅有名單佐證，現職、專長與 SCA 專項活動未經個別查證。",
+    "en": {
+      "org": "Kaohsiung Chang Gung Memorial Hospital",
+      "title": "Neurology",
+      "focus": "A physician associated with SCA care via patient-association or specialty-society listings; this platform has not yet individually verified their current post or SCA-specific activity.",
+      "pubNote": "not verified",
+      "subtypes": [],
+      "sources": [
+        {
+          "label": "TSCAA roster; TMDS board",
+          "url": "https://www.tscaa.org.tw/醫療-復健/醫療相關/醫療院所"
+        }
+      ],
+      "dq": "Listing tier: supported only by a name listing; current post, specialty and SCA-specific activity are unverified."
+    }
+  },
+  {
+    "id": "listed-13",
+    "name": "盧成憲",
+    "enName": "",
+    "tier": 4,
+    "region": "",
+    "org": "高雄長庚",
+    "orgId": "",
+    "title": "神經內科",
+    "cluster": "listed",
+    "roles": [
+      "listed"
+    ],
+    "subtypes": [],
+    "focus": "由病友協會或專科學會名單佐證的 SCA 相關醫師，本平台尚未逐一查證其現職與 SCA 專項活動。",
+    "pubs": 0,
+    "pubNote": "未查證",
+    "highlights": [],
+    "recent": [],
+    "trialRoles": [],
+    "society": "",
+    "channel": null,
+    "sources": [
+      {
+        "label": "TSCAA 醫療院所名單",
+        "url": "https://www.tscaa.org.tw/醫療-復健/醫療相關/醫療院所"
+      }
+    ],
+    "dq": "名單層：僅有名單佐證，現職、專長與 SCA 專項活動未經個別查證。",
+    "en": {
+      "org": "Kaohsiung Chang Gung Memorial Hospital",
+      "title": "Neurology",
+      "focus": "A physician associated with SCA care via patient-association or specialty-society listings; this platform has not yet individually verified their current post or SCA-specific activity.",
+      "pubNote": "not verified",
+      "subtypes": [],
+      "sources": [
+        {
+          "label": "TSCAA referral roster",
+          "url": "https://www.tscaa.org.tw/醫療-復健/醫療相關/醫療院所"
+        }
+      ],
+      "dq": "Listing tier: supported only by a name listing; current post, specialty and SCA-specific activity are unverified."
+    }
+  },
+  {
+    "id": "listed-14",
+    "name": "陳盈發",
+    "enName": "",
+    "tier": 4,
+    "region": "",
+    "org": "高雄長庚",
+    "orgId": "",
+    "title": "神經內科",
+    "cluster": "listed",
+    "roles": [
+      "listed"
+    ],
+    "subtypes": [],
+    "focus": "由病友協會或專科學會名單佐證的 SCA 相關醫師，本平台尚未逐一查證其現職與 SCA 專項活動。",
+    "pubs": 0,
+    "pubNote": "未查證",
+    "highlights": [],
+    "recent": [],
+    "trialRoles": [],
+    "society": "",
+    "channel": null,
+    "sources": [
+      {
+        "label": "TMDS 第十屆理事",
+        "url": "https://www.tmds.org.tw/about/index_3.asp"
+      }
+    ],
+    "dq": "名單層：僅有名單佐證，現職、專長與 SCA 專項活動未經個別查證。",
+    "en": {
+      "org": "Kaohsiung Chang Gung Memorial Hospital",
+      "title": "Neurology",
+      "focus": "A physician associated with SCA care via patient-association or specialty-society listings; this platform has not yet individually verified their current post or SCA-specific activity.",
+      "pubNote": "not verified",
+      "subtypes": [],
+      "sources": [
+        {
+          "label": "TMDS board (10th term)",
+          "url": "https://www.tmds.org.tw/about/index_3.asp"
+        }
+      ],
+      "dq": "Listing tier: supported only by a name listing; current post, specialty and SCA-specific activity are unverified."
+    }
+  },
+  {
+    "id": "listed-15",
+    "name": "李介元",
+    "enName": "",
+    "tier": 4,
+    "region": "",
+    "org": "義大醫院",
+    "orgId": "",
+    "title": "神經內科",
+    "cluster": "listed",
+    "roles": [
+      "listed"
+    ],
+    "subtypes": [],
+    "focus": "由病友協會或專科學會名單佐證的 SCA 相關醫師，本平台尚未逐一查證其現職與 SCA 專項活動。",
+    "pubs": 0,
+    "pubNote": "未查證",
+    "highlights": [],
+    "recent": [],
+    "trialRoles": [],
+    "society": "",
+    "channel": null,
+    "sources": [
+      {
+        "label": "TSCAA 醫療院所名單",
+        "url": "https://www.tscaa.org.tw/醫療-復健/醫療相關/醫療院所"
+      }
+    ],
+    "dq": "名單層：僅有名單佐證，現職、專長與 SCA 專項活動未經個別查證。",
+    "en": {
+      "org": "E-Da Hospital",
+      "title": "Neurology",
+      "focus": "A physician associated with SCA care via patient-association or specialty-society listings; this platform has not yet individually verified their current post or SCA-specific activity.",
+      "pubNote": "not verified",
+      "subtypes": [],
+      "sources": [
+        {
+          "label": "TSCAA referral roster",
+          "url": "https://www.tscaa.org.tw/醫療-復健/醫療相關/醫療院所"
+        }
+      ],
+      "dq": "Listing tier: supported only by a name listing; current post, specialty and SCA-specific activity are unverified."
+    }
+  },
+  {
+    "id": "listed-16",
+    "name": "戴逸承",
+    "enName": "",
+    "tier": 4,
+    "region": "",
+    "org": "義大醫院",
+    "orgId": "",
+    "title": "神經內科",
+    "cluster": "listed",
+    "roles": [
+      "listed"
+    ],
+    "subtypes": [],
+    "focus": "由病友協會或專科學會名單佐證的 SCA 相關醫師，本平台尚未逐一查證其現職與 SCA 專項活動。",
+    "pubs": 0,
+    "pubNote": "未查證",
+    "highlights": [],
+    "recent": [],
+    "trialRoles": [],
+    "society": "",
+    "channel": null,
+    "sources": [
+      {
+        "label": "TMDS 第十屆理事",
+        "url": "https://www.tmds.org.tw/about/index_3.asp"
+      }
+    ],
+    "dq": "名單層：僅有名單佐證，現職、專長與 SCA 專項活動未經個別查證。",
+    "en": {
+      "org": "E-Da Hospital",
+      "title": "Neurology",
+      "focus": "A physician associated with SCA care via patient-association or specialty-society listings; this platform has not yet individually verified their current post or SCA-specific activity.",
+      "pubNote": "not verified",
+      "subtypes": [],
+      "sources": [
+        {
+          "label": "TMDS board (10th term)",
+          "url": "https://www.tmds.org.tw/about/index_3.asp"
+        }
+      ],
+      "dq": "Listing tier: supported only by a name listing; current post, specialty and SCA-specific activity are unverified."
+    }
+  },
+  {
+    "id": "listed-17",
+    "name": "蘇慧真",
+    "enName": "",
+    "tier": 4,
+    "region": "",
+    "org": "成大醫院",
+    "orgId": "",
+    "title": "神經部",
+    "cluster": "listed",
+    "roles": [
+      "listed"
+    ],
+    "subtypes": [],
+    "focus": "由病友協會或專科學會名單佐證的 SCA 相關醫師，本平台尚未逐一查證其現職與 SCA 專項活動。",
+    "pubs": 0,
+    "pubNote": "未查證",
+    "highlights": [],
+    "recent": [],
+    "trialRoles": [],
+    "society": "",
+    "channel": null,
+    "sources": [
+      {
+        "label": "TSCAA 醫療院所名單",
+        "url": "https://www.tscaa.org.tw/醫療-復健/醫療相關/醫療院所"
+      }
+    ],
+    "dq": "名單層：僅有名單佐證，現職、專長與 SCA 專項活動未經個別查證。",
+    "en": {
+      "org": "NCKU Hospital",
+      "title": "Neurology",
+      "focus": "A physician associated with SCA care via patient-association or specialty-society listings; this platform has not yet individually verified their current post or SCA-specific activity.",
+      "pubNote": "not verified",
+      "subtypes": [],
+      "sources": [
+        {
+          "label": "TSCAA referral roster",
+          "url": "https://www.tscaa.org.tw/醫療-復健/醫療相關/醫療院所"
+        }
+      ],
+      "dq": "Listing tier: supported only by a name listing; current post, specialty and SCA-specific activity are unverified."
+    }
+  },
+  {
+    "id": "listed-18",
+    "name": "白明奇",
+    "enName": "",
+    "tier": 4,
+    "region": "",
+    "org": "成大醫院",
+    "orgId": "",
+    "title": "神經部",
+    "cluster": "listed",
+    "roles": [
+      "listed"
+    ],
+    "subtypes": [],
+    "focus": "由病友協會或專科學會名單佐證的 SCA 相關醫師，本平台尚未逐一查證其現職與 SCA 專項活動。",
+    "pubs": 0,
+    "pubNote": "未查證",
+    "highlights": [],
+    "recent": [],
+    "trialRoles": [],
+    "society": "",
+    "channel": null,
+    "sources": [
+      {
+        "label": "TSCAA 醫療院所名單",
+        "url": "https://www.tscaa.org.tw/醫療-復健/醫療相關/醫療院所"
+      }
+    ],
+    "dq": "名單層：僅有名單佐證，現職、專長與 SCA 專項活動未經個別查證。",
+    "en": {
+      "org": "NCKU Hospital",
+      "title": "Neurology",
+      "focus": "A physician associated with SCA care via patient-association or specialty-society listings; this platform has not yet individually verified their current post or SCA-specific activity.",
+      "pubNote": "not verified",
+      "subtypes": [],
+      "sources": [
+        {
+          "label": "TSCAA referral roster",
+          "url": "https://www.tscaa.org.tw/醫療-復健/醫療相關/醫療院所"
+        }
+      ],
+      "dq": "Listing tier: supported only by a name listing; current post, specialty and SCA-specific activity are unverified."
+    }
+  },
+  {
+    "id": "listed-19",
+    "name": "宋岳峰",
+    "enName": "",
+    "tier": 4,
+    "region": "",
+    "org": "三軍總醫院",
+    "orgId": "",
+    "title": "神經科部",
+    "cluster": "listed",
+    "roles": [
+      "listed"
+    ],
+    "subtypes": [],
+    "focus": "由病友協會或專科學會名單佐證的 SCA 相關醫師，本平台尚未逐一查證其現職與 SCA 專項活動。",
+    "pubs": 0,
+    "pubNote": "未查證",
+    "highlights": [],
+    "recent": [],
+    "trialRoles": [],
+    "society": "",
+    "channel": null,
+    "sources": [
+      {
+        "label": "TMDS 第十屆理事",
+        "url": "https://www.tmds.org.tw/about/index_3.asp"
+      }
+    ],
+    "dq": "名單層：僅有名單佐證，現職、專長與 SCA 專項活動未經個別查證。",
+    "en": {
+      "org": "Tri-Service General Hospital",
+      "title": "Neurology",
+      "focus": "A physician associated with SCA care via patient-association or specialty-society listings; this platform has not yet individually verified their current post or SCA-specific activity.",
+      "pubNote": "not verified",
+      "subtypes": [],
+      "sources": [
+        {
+          "label": "TMDS board (10th term)",
+          "url": "https://www.tmds.org.tw/about/index_3.asp"
+        }
+      ],
+      "dq": "Listing tier: supported only by a name listing; current post, specialty and SCA-specific activity are unverified."
+    }
+  },
+  {
+    "id": "listed-20",
+    "name": "薛學文",
+    "enName": "",
+    "tier": 4,
+    "region": "",
+    "org": "台大醫院",
+    "orgId": "",
+    "title": "神經部（罕病門診專任）",
+    "cluster": "listed",
+    "roles": [
+      "listed"
+    ],
+    "subtypes": [],
+    "focus": "由病友協會或專科學會名單佐證的 SCA 相關醫師，本平台尚未逐一查證其現職與 SCA 專項活動。",
+    "pubs": 0,
+    "pubNote": "未查證",
+    "highlights": [],
+    "recent": [],
+    "trialRoles": [],
+    "society": "",
+    "channel": null,
+    "sources": [
+      {
+        "label": "台大 115 年門診表",
+        "url": "https://www.tmds.org.tw/about/index_3.asp"
+      }
+    ],
+    "dq": "名單層：僅有名單佐證，現職、專長與 SCA 專項活動未經個別查證。",
+    "en": {
+      "org": "National Taiwan University Hospital",
+      "title": "Neurology (dedicated rare-disease clinic)",
+      "focus": "A physician associated with SCA care via patient-association or specialty-society listings; this platform has not yet individually verified their current post or SCA-specific activity.",
+      "pubNote": "not verified",
+      "subtypes": [],
+      "sources": [
+        {
+          "label": "NTUH 2026 clinic schedule",
+          "url": "https://www.tmds.org.tw/about/index_3.asp"
+        }
+      ],
+      "dq": "Listing tier: supported only by a name listing; current post, specialty and SCA-specific activity are unverified."
+    }
+  },
+  {
+    "id": "listed-21",
+    "name": "陸清松",
+    "enName": "",
+    "tier": 4,
+    "region": "",
+    "org": "陸教授神經科診所",
+    "orgId": "",
+    "title": "神經內科",
+    "cluster": "listed",
+    "roles": [
+      "listed"
+    ],
+    "subtypes": [],
+    "focus": "由病友協會或專科學會名單佐證的 SCA 相關醫師，本平台尚未逐一查證其現職與 SCA 專項活動。",
+    "pubs": 0,
+    "pubNote": "未查證",
+    "highlights": [],
+    "recent": [],
+    "trialRoles": [],
+    "society": "",
+    "channel": null,
+    "sources": [
+      {
+        "label": "TSCAA 名單；TMDS 監事",
+        "url": "https://www.tscaa.org.tw/醫療-復健/醫療相關/醫療院所"
+      }
+    ],
+    "dq": "名單層：僅有名單佐證，現職、專長與 SCA 專項活動未經個別查證。",
+    "en": {
+      "org": "Prof. Lu Neurology Clinic",
+      "title": "Neurology",
+      "focus": "A physician associated with SCA care via patient-association or specialty-society listings; this platform has not yet individually verified their current post or SCA-specific activity.",
+      "pubNote": "not verified",
+      "subtypes": [],
+      "sources": [
+        {
+          "label": "TSCAA roster; TMDS supervisor",
+          "url": "https://www.tscaa.org.tw/醫療-復健/醫療相關/醫療院所"
+        }
+      ],
+      "dq": "Listing tier: supported only by a name listing; current post, specialty and SCA-specific activity are unverified."
+    }
+  },
+  {
+    "id": "listed-22",
+    "name": "畢柳鶯",
+    "enName": "",
+    "tier": 4,
+    "region": "",
+    "org": "中山醫學大學（退休）",
+    "orgId": "",
+    "title": "復健科；病友協會顧問醫師",
+    "cluster": "listed",
+    "roles": [
+      "listed"
+    ],
+    "subtypes": [],
+    "focus": "由病友協會或專科學會名單佐證的 SCA 相關醫師，本平台尚未逐一查證其現職與 SCA 專項活動。",
+    "pubs": 0,
+    "pubNote": "未查證",
+    "highlights": [],
+    "recent": [],
+    "trialRoles": [],
+    "society": "",
+    "channel": null,
+    "sources": [
+      {
+        "label": "TSCAA 媒體報導頁",
+        "url": "https://www.tscaa.org.tw/醫療-復健/醫療相關/醫療院所"
+      }
+    ],
+    "dq": "名單層：僅有名單佐證，現職、專長與 SCA 專項活動未經個別查證。",
+    "en": {
+      "org": "Chung Shan Medical University (retired)",
+      "title": "Rehabilitation medicine; advisory physician to the patient association",
+      "focus": "A physician associated with SCA care via patient-association or specialty-society listings; this platform has not yet individually verified their current post or SCA-specific activity.",
+      "pubNote": "not verified",
+      "subtypes": [],
+      "sources": [
+        {
+          "label": "TSCAA press page",
+          "url": "https://www.tscaa.org.tw/醫療-復健/醫療相關/醫療院所"
+        }
+      ],
+      "dq": "Listing tier: supported only by a name listing; current post, specialty and SCA-specific activity are unverified."
+    }
+  }
+]

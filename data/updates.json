@@ -1,0 +1,368 @@
+[
+  {
+    "date": "2026-06-25",
+    "kind": "industry",
+    "text": "仲恩生醫 Stemchymal 完成日本製造販賣承認送件（SCA3、SCA6），可望 2027 年取證",
+    "source": "時報資訊",
+    "url": "https://www.chinatimes.com/realtimenews/20260625001084-260410",
+    "en": {
+      "text": "Steminent completed the Japanese marketing-approval filing for Stemchymal (SCA3 and SCA6), with approval possible in 2027"
+    }
+  },
+  {
+    "date": "2026-01-01",
+    "kind": "community",
+    "text": "中華小腦萎縮症病友協會推出 Podcast「搖搖人生」，醫療主題由台大郭明哲主講（首季 5 集）",
+    "source": "TSCAA",
+    "url": "https://www.tscaa.org.tw/關於協會/企鵝家族/milestones/medical-participation"
+  },
+  {
+    "date": "2026-01-01",
+    "kind": "paper",
+    "text": "《Exp Ther Med》IGFBP1 作為 SCA3 代謝—神經退化生物標記（彰基劉青山團隊，通訊作者）",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41756352/"
+  },
+  {
+    "date": "2026-01-01",
+    "kind": "paper",
+    "text": "《Stem Cell Research》建立 SCA8 病人 iPSC 細胞株（高雄長庚藍旻瑜第一作者）",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41353794/"
+  },
+  {
+    "date": "2026-01-01",
+    "kind": "paper",
+    "text": "《Neurotherapeutics》Rad23b 經破壞蛋白酶體功能加重 SCA3 病理聚集（成大楊尚訓，通訊作者）",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42172862/"
+  },
+  {
+    "date": "2025-12-10",
+    "kind": "policy",
+    "text": "台灣神經學學會公告健康台灣深耕計畫：每年補助 10 名 SCA 患者全基因體定序（條件含 50 歲前發病、診斷不明、有家族史、已排除常見十型）；獲補助醫師須於神經基因學組研討會分享病例",
+    "source": "台灣神經學學會",
+    "url": "https://www.neuro.org.tw/active/news_info.asp?%2F110.html=",
+    "en": {
+      "text": "The Taiwan Neurological Society announced a national programme funding whole-genome sequencing for ten SCA patients a year (onset before 50, undiagnosed, family history, common ten subtypes excluded); funded physicians must present their cases at the neurogenetics section meeting"
+    }
+  },
+  {
+    "date": "2025-11-22",
+    "kind": "event",
+    "text": "台灣罕見疾病研究暨照護學會年會「Rare Disease Dawn」（理事長劉青山）",
+    "source": "TRDR&C",
+    "url": "https://www.trdrc.org.tw/",
+    "en": {
+      "text": "Annual meeting of the Taiwan Rare Disease Research & Care Society, 'Rare Disease Dawn' (President: Chin-San Liu)"
+    }
+  },
+  {
+    "date": "2025-09-11",
+    "kind": "society",
+    "text": "陳瓊美接任台灣神經罕見疾病學會第四屆理事長（至 2028-09）；副理事長楊尚訓、孫苑庭",
+    "source": "SNERD",
+    "url": "https://www.snerdtaiwan.org/node/43",
+    "en": {
+      "text": "Chiung-Mei Chen became president (4th term) of SNERD through September 2028; Shang-Hsun Yang and Yuan-Ting Sun are vice-presidents"
+    }
+  },
+  {
+    "date": "2025-05-01",
+    "kind": "industry",
+    "text": "仲恩生醫於全球孤兒藥大會公開台日二期合併結果（56 位受試者）",
+    "source": "GeneOnline",
+    "url": "https://geneonline.news/steminent-biotherapeutics-stemchymal-taiwan-japan-phase-ii-clinical-trial-result-in-wodc",
+    "en": {
+      "text": "Steminent presented pooled Taiwan and Japan Phase 2 results (56 participants) at the World Orphan Drug Congress"
+    }
+  },
+  {
+    "date": "2025-05-01",
+    "kind": "paper",
+    "text": "《Nature Biomedical Engineering》小腦編碼運動頻率（台大潘明楷團隊）",
+    "source": "中研院生醫所",
+    "url": "https://www.ibms.sinica.edu.tw/pan-ming-kai/ch/"
+  },
+  {
+    "date": "2025-02-10",
+    "kind": "paper",
+    "text": "《Science Translational Medicine》攀爬纖維去神經化為 SCA1/2/6 與 MSA-C 共通機轉，化學遺傳學活化改善小鼠症狀（台大潘明楷通訊，與哥大 Sheng-Han Kuo 合作）",
+    "source": "台大研發處",
+    "url": "https://ord.ntu.edu.tw/w/ordntu/index_news_25021008480368002"
+  },
+  {
+    "date": "2025-01-01",
+    "kind": "paper",
+    "text": "《Parkinsonism & Related Disorders》台灣 876 例基因確診 SCA 世代：SCA3 56.6%、SCA2 20.0%、SCA6 10.3%（北榮李宜中通訊）",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41082794/"
+  },
+  {
+    "date": "2025-01-01",
+    "kind": "paper",
+    "text": "《PLoS Genetics》SCA36 果蠅模型之重複序列毒性（北榮蕭丞宗第一作者、台大詹智強通訊）",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41337098/"
+  },
+  {
+    "date": "2025-01-01",
+    "kind": "paper",
+    "text": "《Cell Mol Life Sci》SCA19/22 果蠅模型 Shal／KV4 蛋白恆定回復（陽明交大鄭瓊娟通訊）",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/40293501/"
+  },
+  {
+    "date": "2025-01-01",
+    "kind": "paper",
+    "text": "《The Cerebellum》SCA44 GRM1 新變異（高雄長庚藍旻瑜通訊）",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/40199824/"
+  },
+  {
+    "date": "2025-01-01",
+    "kind": "paper",
+    "text": "《Acta Neurologica Taiwanica》台灣脊髓小腦運動失調症回顧（彰基李佳儒第一作者）",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/40471914/"
+  },
+  {
+    "date": "2025-01-01",
+    "kind": "paper",
+    "text": "《J Pathol》SCA22 Kcnd3 F227del 顯性負性小鼠模型（陽明交大蔡亭芬通訊）",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39562497/"
+  },
+  {
+    "date": "2025-01-01",
+    "kind": "paper",
+    "text": "《NeuroRehabilitation》SCA 全身震動訓練隨機對照試驗（長庚大學張雅如通訊）",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/40539612/"
+  },
+  {
+    "date": "2025-01-01",
+    "kind": "paper",
+    "text": "《Ann Clin Transl Neurol》ITM2B 相關運動失調於台灣世代（北榮李宜中通訊）",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39625954/"
+  },
+  {
+    "date": "2025-01-01",
+    "kind": "paper",
+    "text": "18F-HDAC6 PET 示蹤劑用於 SCA 影像（國家原子能科技研究院）",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39756075/"
+  },
+  {
+    "date": "2024-12-28",
+    "kind": "media",
+    "text": "台中慈濟張滋圃接受大愛新聞 SCA 專題訪問，說明遺傳機率與復健延緩退化",
+    "source": "大愛新聞",
+    "url": "https://www.youtube.com/watch?v=RXmsL_J3LSk",
+    "en": {
+      "text": "Tzu-Pu Chang of Taichung Tzu Chi was interviewed for a television feature on SCA, covering inheritance risk and rehabilitation"
+    }
+  },
+  {
+    "date": "2024-12-17",
+    "kind": "trial",
+    "text": "Arrowhead ARO-ATXN2（SCA2 siRNA）Ph1 啟動，台灣兩站收案（台北、高雄）",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT06672445",
+    "en": {
+      "text": "Arrowhead's ARO-ATXN2 Phase 1 in SCA2 opened, with two Taiwanese sites enrolling (Taipei and Kaohsiung)"
+    }
+  },
+  {
+    "date": "2024-11-21",
+    "kind": "industry",
+    "text": "仲恩生醫獲國家藥物科技研究發展獎銀質獎；新聞稿致謝「臺北榮總已故宋秉文醫師」的指導",
+    "source": "GeneOnline",
+    "url": "https://geneonline.news/steminent-stemchymal-2024-tw-nobel-medtech/",
+    "en": {
+      "text": "Steminent received a silver National Innovation Award for pharmaceutical R&D; the release thanks the late Dr Bing-Wen Soong of TVGH for his guidance"
+    }
+  },
+  {
+    "date": "2024-11-12",
+    "kind": "community",
+    "text": "病友協會贊助台大郭明哲赴英國參加小腦研究會議（11/12–15）",
+    "source": "TSCAA",
+    "url": "https://www.tscaa.org.tw/關於協會/企鵝家族/milestones/medical-participation",
+    "en": {
+      "text": "The patient association sponsored Ming-Che Kuo of NTU to attend a cerebellar research meeting in the UK (12–15 Nov)"
+    }
+  },
+  {
+    "date": "2024-10-18",
+    "kind": "industry",
+    "text": "仲恩生醫接受今周刊專訪，說明台日暫時性藥證目標與三期規劃",
+    "source": "今周刊",
+    "url": "https://www.businesstoday.com.tw/article/category/183015/post/202410180035/",
+    "en": {
+      "text": "Steminent gave an interview to Business Today on its Taiwan/Japan conditional-approval goals and Phase 3 plans"
+    }
+  },
+  {
+    "date": "2024-09-16",
+    "kind": "trial",
+    "text": "台大癌醫牛樟芝 SCA 隨機雙盲交叉試驗開始收案（NCT06633003，預估 60 人）",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT06633003",
+    "en": {
+      "text": "The Antrodia cinnamomea randomised crossover trial in SCA opened enrolment at NTU Cancer Center (NCT06633003, target n=60)"
+    }
+  },
+  {
+    "date": "2024-08-01",
+    "kind": "community",
+    "text": "台灣腦庫運作近一年：38 人簽署捐腦意願、8 人完成捐贈，含小腦萎縮症病友",
+    "source": "ETtoday",
+    "url": "https://health.ettoday.net/news/2808086",
+    "en": {
+      "text": "Nearly a year into operation, Taiwan's brain bank had 38 donation pledges and 8 completed donations, including patients with cerebellar atrophy"
+    }
+  },
+  {
+    "date": "2024-06-01",
+    "kind": "community",
+    "text": "病友協會紀錄載與 Alnylam 藥廠接洽，爭取將 SCA 納入研究；並與成大合作 SCA3 基因轉殖鼠基因治療",
+    "source": "TSCAA",
+    "url": "https://www.tscaa.org.tw/關於協會/企鵝家族/milestones/medical-participation",
+    "en": {
+      "text": "The patient association records approaching Alnylam about including SCA in its research, and a collaboration with NCKU on gene therapy in SCA3 transgenic mice"
+    }
+  },
+  {
+    "date": "2024-05-15",
+    "kind": "media",
+    "text": "台大潘明楷小腦共振迴路研究獲媒體報導：穿顱交流電刺激可緩解顫抖",
+    "source": "NOWnews",
+    "url": "https://www.nownews.com/news/6477429",
+    "en": {
+      "text": "Media coverage of Ming-Kai Pan's cerebellar resonance work: transcranial alternating-current stimulation can ease tremor"
+    }
+  },
+  {
+    "date": "2024-01-01",
+    "kind": "paper",
+    "text": "《Int J Mol Sci》小分子誘導突變 ATXN3 自噬降解（林口長庚陳瓊美通訊）",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39409036/"
+  },
+  {
+    "date": "2024-01-01",
+    "kind": "paper",
+    "text": "《Eur J Pharmacol》SCA3 之 IL-1β／IL-6 抗發炎化合物（台師大李桂楨通訊）",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38320719/"
+  },
+  {
+    "date": "2024-01-01",
+    "kind": "paper",
+    "text": "《Drug Deliv Transl Res》鼻腔給予 PGK1 脂質體治療 SCA3（花蓮慈濟林欣榮通訊）",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38161195/"
+  },
+  {
+    "date": "2024-01-01",
+    "kind": "paper",
+    "text": "《Movement Disorders》THAP11 CAG 重複擴增於台灣世代罕見或不存在（北榮李宜中通訊）",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38757579/"
+  },
+  {
+    "date": "2024-01-01",
+    "kind": "paper",
+    "text": "《Int J Biochem Cell Biol》PIAS1 S510G 選擇性削弱突變 ataxin-3 蛋白恆定（陽明交大鄭子豪通訊）",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39293559/"
+  },
+  {
+    "date": "2023-12-16",
+    "kind": "event",
+    "text": "台灣神經學學會、SNERD 與北榮神經內科合辦宋秉文教授紀念學術研討會（北榮致德樓）",
+    "source": "SNERD",
+    "url": "https://www.snerdtaiwan.org/activity-highlights/20231216-songbingwenjiaoshoujinianxueshuyantaohui",
+    "en": {
+      "text": "The Taiwan Neurological Society, SNERD and TVGH Neurology jointly held a memorial symposium for Professor Bing-Wen Soong"
+    }
+  },
+  {
+    "date": "2023-11-05",
+    "kind": "community",
+    "text": "台灣首座腦庫於台大醫學院揭牌（臺灣腦庫協會理事長謝松蒼）",
+    "source": "ETtoday",
+    "url": "https://health.ettoday.net/2616455",
+    "en": {
+      "text": "Taiwan's first brain bank opened at NTU College of Medicine (Taiwan Brain Bank Association, president Sung-Tsang Hsieh)"
+    }
+  },
+  {
+    "date": "2023-11-01",
+    "kind": "obituary",
+    "text": "台灣 SCA 研究奠基者宋秉文教授辭世，享壽 70 歲",
+    "source": "今周刊",
+    "url": "https://www.businesstoday.com.tw/article/category/183029/post/202311030007/",
+    "en": {
+      "text": "Professor Bing-Wen Soong, the founder of SCA research in Taiwan, died at the age of 70"
+    }
+  },
+  {
+    "date": "2023-10-01",
+    "kind": "paper",
+    "text": "《Orphanet J Rare Dis》握力作為 SCA3 病程預測指標（彰基劉青山通訊）",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37817286/"
+  },
+  {
+    "date": "2023-01-01",
+    "kind": "paper",
+    "text": "嗅鞘細胞外泌體改善 SCA3／MJD 小鼠（東華大學邱紫文通訊）",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37832855/"
+  },
+  {
+    "date": "2022-09-01",
+    "kind": "paper",
+    "text": "《Nutrients》輔酶 Q10 減少 ATXN3 polyQ、改善 SCA3 小鼠運動功能（彰基劉青山通訊）",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/36079853/"
+  },
+  {
+    "date": "2022-01-01",
+    "kind": "paper",
+    "text": "《Movement Disorders》PIAS1 S510G 保護性變異延緩 polyQ 疾病發病（北榮宋秉文資深作者）",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/34951052/"
+  },
+  {
+    "date": "2022-01-01",
+    "kind": "paper",
+    "text": "《Metab Brain Dis》馬查多—約瑟夫病之 CA8 與糖代謝（東海大學謝明麗通訊）",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/35488942/"
+  },
+  {
+    "date": "2022-01-01",
+    "kind": "paper",
+    "text": "《Front Neurol》台灣痙攣性下身麻痺併小腦症狀世代（高雄長庚藍旻瑜第一作者）",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/36247768/"
+  },
+  {
+    "date": "2021-01-01",
+    "kind": "paper",
+    "text": "《J Biomed Sci》SCA48 STUB1 新突變之臨床與功能定性（台大林靜嫻通訊）",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/34565360/"
+  },
+  {
+    "date": "2021-01-01",
+    "kind": "paper",
+    "text": "正丁基苯酞調控自噬改善 SCA3（東華大學邱紫文通訊）",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/34199295/"
+  }
+]
