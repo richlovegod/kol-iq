@@ -10,21 +10,28 @@
   body{font-family:"Segoe UI","Microsoft JhengHei",sans-serif;background:#0d141c;color:#e6edf3;padding:0 0 46px}
   .wrap{max-width:1180px;margin:0 auto;padding:0 26px}
   header{background:linear-gradient(180deg,#132234,#0d141c);border-bottom:1px solid #24384f;padding:22px 0 0}
-  .brand{display:flex;justify-content:space-between;align-items:flex-end;gap:18px;margin-bottom:16px;flex-wrap:wrap}
+  .brand{display:flex;justify-content:space-between;align-items:flex-end;gap:16px 28px;margin-bottom:14px;flex-wrap:wrap}
+  /* 左半：flex item 預設 min-width:auto，長標語會撐爆而把右半擠到第二行 */
+  .bleft{flex:1 1 420px;min-width:0}
   .logo{font-size:24px;font-weight:800;color:#fff;letter-spacing:.5px}
   .logo b{color:#4da3ff}
   .logo .v{font-size:11px;color:#6a7c92;font-weight:600;margin-left:8px;vertical-align:middle}
   .tag{font-size:12.5px;color:#8b9bb0;margin-top:5px;line-height:1.6}
-  .meta{text-align:right;font-size:11.5px;color:#8b9bb0;line-height:1.7}
+  .meta{flex:0 1 auto;min-width:0;text-align:right;font-size:11.5px;color:#8b9bb0;line-height:1.75}
   .meta b{color:#e6edf3}
-  .langsw{display:inline-flex;border:1px solid #2b4a6d;border-radius:20px;overflow:hidden;margin-top:7px}
-  .langsw button{background:#101c2a;border:none;color:#9fb4cc;font-family:inherit;font-size:11.5px;padding:4px 14px;cursor:pointer}
+  .meta .mrow2{display:block}
+  /* 語言切換固定在頁籤列最右，不與 meta 文字混排 */
+  nav{display:flex;gap:2px;flex-wrap:wrap;align-items:flex-end}
+  nav>button{background:none;border:none;color:#8b9bb0;font-size:13.5px;font-family:inherit;padding:11px 12px;cursor:pointer;border-bottom:2.5px solid transparent;font-weight:600;white-space:nowrap;flex:0 0 auto}
+  nav>button:hover{color:#cfe0f2}
+  nav>button.on{color:#4da3ff;border-bottom-color:#4da3ff}
+  .langsw{display:inline-flex;border:1px solid #2b4a6d;border-radius:20px;overflow:hidden;margin:0 0 7px auto;flex:0 0 auto;align-self:center}
+  .langsw button{background:#101c2a;border:none;border-bottom:none;color:#9fb4cc;font-family:inherit;font-size:11.5px;font-weight:600;padding:4px 15px;cursor:pointer;white-space:nowrap}
+  .langsw button:hover{color:#cfe0f2}
   .langsw button.on{background:#1b3452;color:#fff;font-weight:700}
-  nav{display:flex;gap:2px;flex-wrap:wrap}
-  nav button{background:none;border:none;color:#8b9bb0;font-size:13.5px;font-family:inherit;padding:11px 12px;cursor:pointer;border-bottom:2.5px solid transparent;font-weight:600;white-space:nowrap;flex:0 0 auto}
-  nav button:hover{color:#cfe0f2}
-  nav button.on{color:#4da3ff;border-bottom-color:#4da3ff}
-  @media (max-width:900px){nav button{font-size:12.5px;padding:10px 9px}}
+  @media (max-width:900px){nav>button{font-size:12.5px;padding:10px 9px}}
+  /* 950px 是 .meta 換到第二行的實測臨界點；換行後改左對齊與標題切齊，右對齊會讓三行左緣參差 */
+  @media (max-width:950px){.meta{text-align:left}.langsw{margin-left:0}}
   .panel{display:none;padding-top:24px}
   .panel.on{display:block}
   .card{background:#141f2c;border:1px solid #243748;border-radius:10px;padding:18px 20px;margin-bottom:18px}
@@ -172,7 +179,7 @@
 <header>
   <div class="wrap">
     <div class="brand">
-      <div>
+      <div class="bleft">
         <div class="logo">KOL<b>-IQ</b> <span class="v"><span class="i18n zh">專家與研究動態資料庫 · v1.0 · 台灣版</span><span class="i18n en">Expert &amp; Research Activity Database · v1.0 · Taiwan edition</span></span></div>
         <div class="tag">
           <span class="i18n zh">脊髓小腦運動失調症（SCA）領域的醫師與研究者：他們在做什麼、最近發表了什麼、在哪裡看診與收案。每筆資料附可查證來源。</span>
@@ -180,10 +187,9 @@
         </div>
       </div>
       <div class="meta">
-        <span class="i18n zh">資料截止：</span><span class="i18n en">Data as of </span><b id="lastScan">—</b><br>
-        <span class="i18n zh">涵蓋範圍：台灣 · 文獻 2021–2026</span><span class="i18n en">Coverage: Taiwan · literature 2021–2026</span><br>
-        <span class="i18n zh">來源：PubMed／Europe PMC · ClinicalTrials.gov · 台灣 TPIDB · 各學會與病友協會官網</span><span class="i18n en">Sources: PubMed / Europe PMC · ClinicalTrials.gov · Taiwan TPIDB · society and patient-association sites</span>
-        <div class="langsw"><button id="langZh" class="on" onclick="setLang('zh')">中文</button><button id="langEn" onclick="setLang('en')">EN</button></div>
+        <span class="mrow2"><span class="i18n zh">資料截止：</span><span class="i18n en">Data as of </span><b id="lastScan">—</b></span>
+        <span class="mrow2"><span class="i18n zh">涵蓋範圍：台灣 · 文獻 2021–2026</span><span class="i18n en">Coverage: Taiwan · literature 2021–2026</span></span>
+        <span class="mrow2"><span class="i18n zh">來源：PubMed／Europe PMC · ClinicalTrials.gov · 台灣 TPIDB · 各學會與病友協會官網</span><span class="i18n en">Sources: PubMed / Europe PMC · ClinicalTrials.gov · Taiwan TPIDB · society and patient-association sites</span></span>
       </div>
     </div>
     <nav>
@@ -195,6 +201,7 @@
       <button onclick="tab(event,'org')"><span class="i18n zh">學會與社群</span><span class="i18n en">Societies</span></button>
       <button onclick="tab(event,'leg')"><span class="i18n zh">紀念</span><span class="i18n en">In memoriam</span></button>
       <button onclick="tab(event,'me')"><span class="i18n zh">方法與更新</span><span class="i18n en">Method</span></button>
+      <div class="langsw"><button id="langZh" class="on" onclick="setLang('zh')">中文</button><button id="langEn" onclick="setLang('en')">EN</button></div>
     </nav>
   </div>
 </header>
@@ -419,9 +426,11 @@ function setLang(l){
   q('pSearch').placeholder=T('searchP'); q('uSearch').placeholder=T('searchU');
   renderAll();
 }
+/* 只取 nav 的直接子按鈕：語言切換也在 nav 內，用 'nav button' 會把它的 on 狀態一併清掉 */
+function navBtns(){return document.querySelectorAll('nav>button');}
 function tab(e,id){
   var ps=document.querySelectorAll('.panel'); for(var i=0;i<ps.length;i++) ps[i].classList.remove('on');
-  var bs=document.querySelectorAll('nav button'); for(var j=0;j<bs.length;j++) bs[j].classList.remove('on');
+  var bs=navBtns(); for(var j=0;j<bs.length;j++) bs[j].classList.remove('on');
   q(id).classList.add('on'); e.currentTarget.classList.add('on');
   window.scrollTo({top:0,behavior:'auto'});
 }
@@ -559,8 +568,8 @@ function openP(id){
 function closeP(){q('pModal').classList.remove('on');}
 function goLegacy(){
   var ps=document.querySelectorAll('.panel'); for(var i=0;i<ps.length;i++) ps[i].classList.remove('on');
-  var bs=document.querySelectorAll('nav button'); for(var j=0;j<bs.length;j++) bs[j].classList.remove('on');
-  q('leg').classList.add('on'); bs[6].classList.add('on');
+  var bs=navBtns(); for(var j=0;j<bs.length;j++) bs[j].classList.remove('on');
+  q('leg').classList.add('on'); if(bs[6]) bs[6].classList.add('on');
   window.scrollTo({top:0,behavior:'auto'});
 }
 document.addEventListener('keydown',function(e){if(e.key==='Escape')closeP();});
